@@ -1,0 +1,557 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      }
+    ],
+    "nodes": [
+      {
+        "code": "4 + (5 * 32)",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "len",
+        "columnNumber": 11,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "32",
+        "columnNumber": 30,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      },
+      {
+        "code": "msg->data_initial_chunk.bytes + offset",
+        "columnNumber": 20,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "msg->data_length",
+        "columnNumber": 17,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "5",
+        "columnNumber": 26,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      },
+      {
+        "code": "len",
+        "columnNumber": 60,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "msg->data_length - offset",
+        "columnNumber": 17,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 36,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 12,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "len",
+        "columnNumber": 31,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "const EthereumSignTx *msg",
+        "columnNumber": 39,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "msg",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "EthereumSignTx*"
+      },
+      {
+        "code": "char *buffer",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "buffer",
+        "columnNumber": 12,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 37,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      }
+    ],
+    "nodes": [
+      {
+        "code": "len",
+        "columnNumber": 11,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 52,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "32",
+        "columnNumber": 30,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      },
+      {
+        "code": "msg->data_initial_chunk.bytes + offset",
+        "columnNumber": 20,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "msg->data_length",
+        "columnNumber": 17,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "5",
+        "columnNumber": 26,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      },
+      {
+        "code": "len",
+        "columnNumber": 60,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "msg->data_length - offset",
+        "columnNumber": 17,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 36,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "msg->data_initial_chunk.bytes",
+        "columnNumber": 20,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "4 + (5 * 32)",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 12,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "len",
+        "columnNumber": 31,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int16_t"
+      },
+      {
+        "code": "const EthereumSignTx *msg",
+        "columnNumber": 39,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "msg",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "EthereumSignTx*"
+      },
+      {
+        "code": "char *buffer",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "buffer",
+        "columnNumber": 12,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 37,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195057.c",
+        "parentMethod": "ethereum_extractThorchainData",
+        "typeFullName": "int"
+      }
+    ]
+  }
+]

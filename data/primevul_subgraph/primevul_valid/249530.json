@@ -1,0 +1,275 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 30064771110
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 68719476778,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 68719476782,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 68719476787
+    },
+    {
+      "dst": 68719476791,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 68719476782,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 68719476782
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 68719476783
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 68719476778
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 68719476782
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 68719476791,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 68719476793
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 68719476787
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 68719476791
+    },
+    {
+      "dst": 68719476782,
+      "label": "REACHING_DEF",
+      "src": 68719476783
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 68719476793
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 30064771110
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 68719476791
+    }
+  ],
+  "nodes": [
+    {
+      "code": "trackNum",
+      "columnNumber": 38,
+      "id": 68719476791,
+      "label": "IDENTIFIER",
+      "lineNumber": 43,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "trackNum",
+      "columnNumber": 40,
+      "id": 68719476788,
+      "label": "IDENTIFIER",
+      "lineNumber": 42,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "trackNum",
+      "columnNumber": 57,
+      "id": 68719476783,
+      "label": "IDENTIFIER",
+      "lineNumber": 38,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "trackNum",
+      "columnNumber": 35,
+      "id": 68719476794,
+      "label": "IDENTIFIER",
+      "lineNumber": 44,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "file",
+      "columnNumber": 34,
+      "id": 68719476787,
+      "label": "IDENTIFIER",
+      "lineNumber": 42,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    },
+    {
+      "code": "file",
+      "columnNumber": 29,
+      "id": 68719476793,
+      "label": "IDENTIFIER",
+      "lineNumber": 44,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    },
+    {
+      "code": "trackNum",
+      "columnNumber": 129,
+      "id": 68719476778,
+      "label": "IDENTIFIER",
+      "lineNumber": 36,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "&lang",
+      "columnNumber": 45,
+      "id": 30064771110,
+      "label": "CALL",
+      "lineNumber": 44,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "file",
+      "columnNumber": 32,
+      "id": 68719476790,
+      "label": "IDENTIFIER",
+      "lineNumber": 43,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    },
+    {
+      "code": "trackNum",
+      "columnNumber": 43,
+      "id": 68719476773,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "trackNum",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "u32"
+    },
+    {
+      "code": "file",
+      "columnNumber": 37,
+      "id": 68719476772,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    },
+    {
+      "code": "file",
+      "columnNumber": 51,
+      "id": 68719476782,
+      "label": "IDENTIFIER",
+      "lineNumber": 38,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    },
+    {
+      "code": "file",
+      "columnNumber": 162,
+      "id": 68719476779,
+      "label": "IDENTIFIER",
+      "lineNumber": 36,
+      "name": "file",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_249530.c",
+      "parentMethod": "DumpTrackInfo",
+      "typeFullName": "GF_ISOFile*"
+    }
+  ]
+}

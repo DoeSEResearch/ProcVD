@@ -1,0 +1,424 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476832,
+      "label": "REACHING_DEF",
+      "src": 68719476825
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 30064771113
+    },
+    {
+      "dst": 68719476804,
+      "label": "REACHING_DEF",
+      "src": 68719476803
+    },
+    {
+      "dst": 68719476833,
+      "label": "REACHING_DEF",
+      "src": 68719476834
+    },
+    {
+      "dst": 68719476803,
+      "label": "REACHING_DEF",
+      "src": 68719476804
+    },
+    {
+      "dst": 68719476833,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476803,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 68719476833
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 68719476803
+    },
+    {
+      "dst": 30064771170,
+      "label": "REACHING_DEF",
+      "src": 68719476832
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476831
+    },
+    {
+      "dst": 30064771172,
+      "label": "REACHING_DEF",
+      "src": 68719476834
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 30064771170
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 90194313234
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771172,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476803
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476833
+    },
+    {
+      "dst": 68719476803,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 90194313233
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 30064771172
+    },
+    {
+      "dst": 68719476833,
+      "label": "REACHING_DEF",
+      "src": 90194313233
+    },
+    {
+      "dst": 30064771172,
+      "label": "REACHING_DEF",
+      "src": 68719476833
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476834
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 90194313216
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 90194313217
+    },
+    {
+      "dst": 30064771172,
+      "label": "REACHING_DEF",
+      "src": 90194313234
+    },
+    {
+      "dst": 30064771172,
+      "label": "REACHING_DEF",
+      "src": 90194313233
+    },
+    {
+      "dst": 30064771170,
+      "label": "REACHING_DEF",
+      "src": 30064771171
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 90194313233
+    }
+  ],
+  "nodes": [
+    {
+      "code": "&bufsize",
+      "columnNumber": 28,
+      "id": 30064771096,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 19,
+      "id": 90194313217,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "bufsize",
+      "columnNumber": 41,
+      "id": 68719476835,
+      "label": "IDENTIFIER",
+      "lineNumber": 103,
+      "name": "bufsize",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "ftell (f)",
+      "columnNumber": 11,
+      "id": 30064771113,
+      "label": "CALL",
+      "lineNumber": 47,
+      "name": "ftell",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 8,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "buf",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "connected",
+      "columnNumber": 7,
+      "id": 68719476825,
+      "label": "IDENTIFIER",
+      "lineNumber": 95,
+      "name": "connected",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 50,
+      "id": 90194313233,
+      "label": "LITERAL",
+      "lineNumber": 103,
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "connected",
+      "columnNumber": 7,
+      "id": 68719476832,
+      "label": "IDENTIFIER",
+      "lineNumber": 103,
+      "name": "connected",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "bufsize",
+      "columnNumber": 16,
+      "id": 68719476803,
+      "label": "IDENTIFIER",
+      "lineNumber": 73,
+      "name": "bufsize",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 36,
+      "id": 68719476834,
+      "label": "IDENTIFIER",
+      "lineNumber": 103,
+      "name": "buf",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "0",
+      "columnNumber": 55,
+      "id": 90194313234,
+      "label": "LITERAL",
+      "lineNumber": 103,
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "LogFile",
+      "columnNumber": 27,
+      "id": 68719476833,
+      "label": "IDENTIFIER",
+      "lineNumber": 103,
+      "name": "LogFile",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 14,
+      "id": 90194313216,
+      "label": "LITERAL",
+      "lineNumber": 10,
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "msgoff",
+      "columnNumber": 26,
+      "id": 68719476804,
+      "label": "IDENTIFIER",
+      "lineNumber": 73,
+      "name": "msgoff",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "__send(LogFile, buf, bufsize, 0) < 0",
+      "columnNumber": 20,
+      "id": 30064771171,
+      "label": "CALL",
+      "lineNumber": 103,
+      "name": "<operator>.lessThan",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "!connected",
+      "columnNumber": 6,
+      "id": 30064771170,
+      "label": "CALL",
+      "lineNumber": 103,
+      "name": "<operator>.logicalNot",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "__send(LogFile, buf, bufsize, 0)",
+      "columnNumber": 20,
+      "id": 30064771172,
+      "label": "CALL",
+      "lineNumber": 103,
+      "name": "__send",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "bufsize",
+      "columnNumber": 9,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 11,
+      "name": "bufsize",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "msgoff",
+      "columnNumber": 2,
+      "id": 68719476772,
+      "label": "IDENTIFIER",
+      "lineNumber": 47,
+      "name": "msgoff",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "&buf",
+      "columnNumber": 22,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "bufsize",
+      "columnNumber": 6,
+      "id": 68719476831,
+      "label": "IDENTIFIER",
+      "lineNumber": 101,
+      "name": "bufsize",
+      "parentFile": "temp_6.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    }
+  ]
+}

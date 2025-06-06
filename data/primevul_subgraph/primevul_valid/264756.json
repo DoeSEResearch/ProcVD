@@ -1,0 +1,34 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    }
+  ],
+  "nodes": [
+    {
+      "code": "instance",
+      "columnNumber": 32,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 2,
+      "name": "instance",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264756.cpp",
+      "parentMethod": "untrusted_cache_free:void(void*)",
+      "typeFullName": "asylo.UntrustedCacheMalloc*"
+    },
+    {
+      "code": "asylo::UntrustedCacheMalloc::Instance()",
+      "columnNumber": 7,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 3,
+      "name": "Instance",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264756.cpp",
+      "parentMethod": "untrusted_cache_free:void(void*)",
+      "typeFullName": "ANY"
+    }
+  ]
+}

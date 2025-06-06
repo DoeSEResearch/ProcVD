@@ -1,0 +1,98 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    }
+  ],
+  "nodes": [
+    {
+      "code": "(GF_MovieFragmentRandomAccessBox *)s",
+      "columnNumber": 41,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 3,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "GF_Box *s",
+      "columnNumber": 26,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "s",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "GF_Box*"
+    },
+    {
+      "code": "GF_Box *a",
+      "columnNumber": 37,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "a",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "GF_Box*"
+    },
+    {
+      "code": "ptr",
+      "columnNumber": 45,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "ptr",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "GF_MovieFragmentRandomAccessBox*"
+    },
+    {
+      "code": "a",
+      "columnNumber": 42,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "a",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "GF_Box*"
+    },
+    {
+      "code": "ptr",
+      "columnNumber": 35,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "ptr",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_264798.c",
+      "parentMethod": "mfra_on_child_box",
+      "typeFullName": "GF_MovieFragmentRandomAccessBox*"
+    }
+  ]
+}

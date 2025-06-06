@@ -1,0 +1,1045 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      }
+    ],
+    "nodes": [
+      {
+        "code": "cnt",
+        "columnNumber": 10,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u32in()",
+        "columnNumber": 28,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ents",
+        "columnNumber": 25,
+        "id": 55834574861,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 21,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 39,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "mp4config.frame.maxsize",
+        "columnNumber": 13,
+        "id": 30064771107,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 5,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "malloc(sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1))",
+        "columnNumber": 28,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "malloc",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1)",
+        "columnNumber": 35,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(*mp4config.frame.data)",
+        "columnNumber": 35,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.sizeOf",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 38,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 21,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mp4config.frame",
+        "columnNumber": 38,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 39,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 5,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 25,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 21,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ents",
+        "columnNumber": 5,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin"
+      },
+      {
+        "code": "cnt",
+        "columnNumber": 19,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 10,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame",
+        "columnNumber": 25,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 21,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 61,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 14,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mp4config.frame.maxsize",
+        "columnNumber": 13,
+        "id": 30064771110,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame",
+        "columnNumber": 5,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ents",
+        "columnNumber": 38,
+        "id": 55834574855,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 14,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin"
+      },
+      {
+        "code": "mp4config.frame.ents + 1",
+        "columnNumber": 38,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "u32in()",
+        "columnNumber": 26,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 18,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "cnt",
+        "columnNumber": 47,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      }
+    ],
+    "nodes": [
+      {
+        "code": "u32in()",
+        "columnNumber": 28,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 5,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 5,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "malloc(sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1))",
+        "columnNumber": 28,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "malloc",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1)",
+        "columnNumber": 35,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents + 1",
+        "columnNumber": 38,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771118,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      }
+    ],
+    "nodes": [
+      {
+        "code": "0",
+        "columnNumber": 11,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 19,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 13,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 16,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "mp4config.frame.data[cnt]",
+        "columnNumber": 19,
+        "id": 30064771118,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 5,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 19,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "u32in()",
+        "columnNumber": 26,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 18,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 9,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771113
+      },
+      {
+        "dst": 30064771118,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      }
+    ],
+    "nodes": [
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 21,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "cnt",
+        "columnNumber": 10,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u32in()",
+        "columnNumber": 28,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 11,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 19,
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mp4config.frame.data[cnt + 1]",
+        "columnNumber": 9,
+        "id": 30064771113,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 13,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 16,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 10,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.data[cnt]",
+        "columnNumber": 19,
+        "id": 30064771118,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 5,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 11,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1)",
+        "columnNumber": 35,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "u32in()",
+        "columnNumber": 26,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "u32in",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 5,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.ents",
+        "columnNumber": 25,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 21,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 41,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "cnt",
+        "columnNumber": 19,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mp4config.frame.data[0]",
+        "columnNumber": 5,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 20,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp4config.frame.data",
+        "columnNumber": 9,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cnt + 1",
+        "columnNumber": 30,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 5,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 19,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "malloc(sizeof(*mp4config.frame.data)\n                                  * (mp4config.frame.ents + 1))",
+        "columnNumber": 28,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "malloc",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fsize",
+        "columnNumber": 18,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "fsize",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "cnt",
+        "columnNumber": 47,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "cnt",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 31,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 20,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "ofs",
+        "columnNumber": 9,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "ofs",
+        "parentFile": "code_PrimeVul_balanced_valid_195084.c",
+        "parentMethod": "stszin",
+        "typeFullName": "uint32_t"
+      }
+    ]
+  }
+]

@@ -1,0 +1,439 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771207,
+      "label": "REACHING_DEF",
+      "src": 30064771209
+    },
+    {
+      "dst": 30064771250,
+      "label": "REACHING_DEF",
+      "src": 30064771247
+    },
+    {
+      "dst": 68719476849,
+      "label": "REACHING_DEF",
+      "src": 30064771196
+    },
+    {
+      "dst": 30064771283,
+      "label": "REACHING_DEF",
+      "src": 90194313286
+    },
+    {
+      "dst": 30064771280,
+      "label": "REACHING_DEF",
+      "src": 30064771278
+    },
+    {
+      "dst": 30064771283,
+      "label": "REACHING_DEF",
+      "src": 68719476918
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771283,
+      "label": "REACHING_DEF",
+      "src": 30064771280
+    },
+    {
+      "dst": 30064771283,
+      "label": "REACHING_DEF",
+      "src": 30064771278
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 30064771083
+    },
+    {
+      "dst": 68719476918,
+      "label": "REACHING_DEF",
+      "src": 90194313286
+    },
+    {
+      "dst": 30064771212,
+      "label": "REACHING_DEF",
+      "src": 90194313263
+    },
+    {
+      "dst": 30064771278,
+      "label": "REACHING_DEF",
+      "src": 30064771283
+    },
+    {
+      "dst": 30064771209,
+      "label": "REACHING_DEF",
+      "src": 30064771212
+    },
+    {
+      "dst": 30064771212,
+      "label": "REACHING_DEF",
+      "src": 30064771207
+    },
+    {
+      "dst": 30064771250,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 30064771280,
+      "label": "REACHING_DEF",
+      "src": 30064771283
+    },
+    {
+      "dst": 30064771207,
+      "label": "REACHING_DEF",
+      "src": 30064771212
+    },
+    {
+      "dst": 30064771212,
+      "label": "REACHING_DEF",
+      "src": 68719476861
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 68719476861,
+      "label": "REACHING_DEF",
+      "src": 90194313263
+    },
+    {
+      "dst": 68719476906,
+      "label": "REACHING_DEF",
+      "src": 30064771267
+    },
+    {
+      "dst": 30064771209,
+      "label": "REACHING_DEF",
+      "src": 30064771207
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 30064771250
+    },
+    {
+      "dst": 68719476877,
+      "label": "REACHING_DEF",
+      "src": 30064771225
+    },
+    {
+      "dst": 30064771212,
+      "label": "REACHING_DEF",
+      "src": 30064771209
+    },
+    {
+      "dst": 30064771225,
+      "label": "REACHING_DEF",
+      "src": 68719476877
+    },
+    {
+      "dst": 30064771278,
+      "label": "REACHING_DEF",
+      "src": 30064771280
+    },
+    {
+      "dst": 30064771083,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 30064771250
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 30064771247
+    }
+  ],
+  "nodes": [
+    {
+      "code": "dma_size",
+      "columnNumber": 44,
+      "id": 68719476918,
+      "label": "IDENTIFIER",
+      "lineNumber": 167,
+      "name": "dma_size",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "u8"
+    },
+    {
+      "code": "&dma_buffer[1]",
+      "columnNumber": 11,
+      "id": 30064771278,
+      "label": "CALL",
+      "lineNumber": 167,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&data->block[1]",
+      "columnNumber": 27,
+      "id": 30064771280,
+      "label": "CALL",
+      "lineNumber": 167,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dma_size",
+      "columnNumber": 4,
+      "id": 68719476849,
+      "label": "IDENTIFIER",
+      "lineNumber": 119,
+      "name": "dma_size",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "u8"
+    },
+    {
+      "code": "data->block[0] + 1",
+      "columnNumber": 15,
+      "id": 30064771267,
+      "label": "CALL",
+      "lineNumber": 162,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dma_buffer",
+      "columnNumber": 6,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 13,
+      "name": "dma_buffer",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "u8*"
+    },
+    {
+      "code": "&data->block[1]",
+      "columnNumber": 26,
+      "id": 30064771247,
+      "label": "CALL",
+      "lineNumber": 148,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "data->block[0]",
+      "columnNumber": 7,
+      "id": 30064771259,
+      "label": "CALL",
+      "lineNumber": 156,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dma_size",
+      "columnNumber": 4,
+      "id": 68719476906,
+      "label": "IDENTIFIER",
+      "lineNumber": 162,
+      "name": "dma_size",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "u8"
+    },
+    {
+      "code": "data->block[0]",
+      "columnNumber": 7,
+      "id": 30064771225,
+      "label": "CALL",
+      "lineNumber": 138,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "1",
+      "columnNumber": 55,
+      "id": 90194313286,
+      "label": "LITERAL",
+      "lineNumber": 167,
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "int"
+    },
+    {
+      "code": "PTR_ALIGN(&priv->buffer[0], 16)",
+      "columnNumber": 19,
+      "id": 30064771082,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "PTR_ALIGN",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "data->block[0]",
+      "columnNumber": 4,
+      "id": 30064771262,
+      "label": "CALL",
+      "lineNumber": 157,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "data->block[0] + 1",
+      "columnNumber": 15,
+      "id": 30064771196,
+      "label": "CALL",
+      "lineNumber": 119,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "I2C_SMBUS_BLOCK_MAX",
+      "columnNumber": 24,
+      "id": 68719476877,
+      "label": "IDENTIFIER",
+      "lineNumber": 138,
+      "name": "I2C_SMBUS_BLOCK_MAX",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&data->block[1]",
+      "columnNumber": 27,
+      "id": 30064771209,
+      "label": "CALL",
+      "lineNumber": 124,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "16",
+      "columnNumber": 47,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 13,
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "int"
+    },
+    {
+      "code": "&priv->buffer[0]",
+      "columnNumber": 29,
+      "id": 30064771083,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&dma_buffer[1]",
+      "columnNumber": 11,
+      "id": 30064771207,
+      "label": "CALL",
+      "lineNumber": 124,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "1",
+      "columnNumber": 55,
+      "id": 90194313263,
+      "label": "LITERAL",
+      "lineNumber": 124,
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "int"
+    },
+    {
+      "code": "dma_size - 1",
+      "columnNumber": 44,
+      "id": 30064771212,
+      "label": "CALL",
+      "lineNumber": 124,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "data->block[0]",
+      "columnNumber": 43,
+      "id": 30064771250,
+      "label": "CALL",
+      "lineNumber": 148,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dma_size - 1",
+      "columnNumber": 44,
+      "id": 30064771283,
+      "label": "CALL",
+      "lineNumber": 167,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&dma_buffer[1]",
+      "columnNumber": 10,
+      "id": 30064771245,
+      "label": "CALL",
+      "lineNumber": 148,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dma_size",
+      "columnNumber": 44,
+      "id": 68719476861,
+      "label": "IDENTIFIER",
+      "lineNumber": 124,
+      "name": "dma_size",
+      "parentFile": "code_PrimeVul_balanced_test_454759.c",
+      "parentMethod": "ismt_access",
+      "typeFullName": "u8"
+    }
+  ]
+}

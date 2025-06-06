@@ -1,0 +1,877 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      }
+    ],
+    "nodes": [
+      {
+        "code": "subType",
+        "columnNumber": 16,
+        "id": 55834574852,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "(GF_HintMediaHeaderBox *)trak->Media->information->InfoHeader",
+        "columnNumber": 32,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 6,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 25,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 108,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "int"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 10,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 8,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "(GF_Box *)gf_list_get(trak->Media->information->sampleTable->SampleDescription->child_boxes, 0)",
+        "columnNumber": 15,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "subType",
+        "columnNumber": 9,
+        "id": 55834574862,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 13,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "a",
+        "columnNumber": 11,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "a",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "subType",
+        "columnNumber": 10,
+        "id": 55834574859,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 10,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "hmhd->subType",
+        "columnNumber": 16,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "trak->Media->information->sampleTable->SampleDescription->child_boxes",
+        "columnNumber": 37,
+        "id": 30064771086,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 16,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "a->type",
+        "columnNumber": 26,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "subType",
+        "columnNumber": 10,
+        "id": 55834574861,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 9,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "hmhd->subType",
+        "columnNumber": 10,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "type",
+        "columnNumber": 6,
+        "id": 55834574851,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 10,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "!hmhd->subType",
+        "columnNumber": 15,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "GF_ISOM_BOX_TYPE_HMHD",
+        "columnNumber": 20,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "GF_ISOM_BOX_TYPE_HMHD",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 7,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "!hmhd",
+        "columnNumber": 6,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hmhd->type",
+        "columnNumber": 6,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 30064771086
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771090,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      }
+    ],
+    "nodes": [
+      {
+        "code": "trak->Media->information",
+        "columnNumber": 37,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "information",
+        "columnNumber": 57,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 3,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "hmhd",
+        "columnNumber": 25,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "hmhd",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_HintMediaHeaderBox*"
+      },
+      {
+        "code": "trak->Media->information->sampleTable->SampleDescription->child_boxes",
+        "columnNumber": 37,
+        "id": 30064771086,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sampleTable",
+        "columnNumber": 37,
+        "id": 55834574855,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "GF_HintMediaHeaderBox *",
+        "columnNumber": 33,
+        "id": 184683593728,
+        "label": "UNKNOWN",
+        "lineNumber": 3,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "<empty>"
+      },
+      {
+        "code": "trak",
+        "columnNumber": 57,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "trak",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_TrackBox*"
+      },
+      {
+        "code": "hmhd->subType",
+        "columnNumber": 10,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "trak->Media",
+        "columnNumber": 37,
+        "id": 30064771090,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "trak",
+        "columnNumber": 37,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "trak",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_TrackBox*"
+      },
+      {
+        "code": "a",
+        "columnNumber": 11,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "a",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "child_boxes",
+        "columnNumber": 37,
+        "id": 55834574857,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "0",
+        "columnNumber": 35,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(GF_HintMediaHeaderBox *)trak->Media->information->InfoHeader",
+        "columnNumber": 32,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "trak->Media->information->InfoHeader",
+        "columnNumber": 57,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "type",
+        "columnNumber": 26,
+        "id": 55834574860,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 10,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "information",
+        "columnNumber": 37,
+        "id": 55834574854,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "Media",
+        "columnNumber": 57,
+        "id": 55834574848,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 3,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "InfoHeader",
+        "columnNumber": 57,
+        "id": 55834574850,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 3,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "Media",
+        "columnNumber": 37,
+        "id": 55834574853,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "a->type",
+        "columnNumber": 25,
+        "id": 30064771093,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 108,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "int"
+      },
+      {
+        "code": "trak->Media->information",
+        "columnNumber": 57,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "a",
+        "columnNumber": 21,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "a",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "a",
+        "columnNumber": 25,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "a",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "trak->Media",
+        "columnNumber": 57,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(GF_Box *)gf_list_get(trak->Media->information->sampleTable->SampleDescription->child_boxes, 0)",
+        "columnNumber": 15,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "GF_TrackBox *trak",
+        "columnNumber": 19,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "trak",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_TrackBox*"
+      },
+      {
+        "code": "GF_Box *",
+        "columnNumber": 16,
+        "id": 184683593729,
+        "label": "UNKNOWN",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "<empty>"
+      },
+      {
+        "code": "SampleDescription",
+        "columnNumber": 37,
+        "id": 55834574856,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      },
+      {
+        "code": "a->type",
+        "columnNumber": 26,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "gf_list_get(trak->Media->information->sampleTable->SampleDescription->child_boxes, 0)",
+        "columnNumber": 25,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "gf_list_get",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "trak->Media->information->sampleTable->SampleDescription",
+        "columnNumber": 37,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "a",
+        "columnNumber": 26,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "a",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "trak->Media->information->sampleTable",
+        "columnNumber": 37,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "type",
+        "columnNumber": 25,
+        "id": 55834574858,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_test_195017.c",
+        "parentMethod": "GetHintFormat"
+      }
+    ]
+  }
+]

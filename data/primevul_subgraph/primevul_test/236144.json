@@ -1,0 +1,66 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    }
+  ],
+  "nodes": [
+    {
+      "code": "ptr->scroll_delay",
+      "columnNumber": 2,
+      "id": 30064771076,
+      "label": "CALL",
+      "lineNumber": 5,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_236144.c",
+      "parentMethod": "dlay_box_read",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "gf_bs_read_u32(bs)",
+      "columnNumber": 22,
+      "id": 30064771077,
+      "label": "CALL",
+      "lineNumber": 5,
+      "name": "gf_bs_read_u32",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_236144.c",
+      "parentMethod": "dlay_box_read",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "bs",
+      "columnNumber": 37,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 5,
+      "name": "bs",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_236144.c",
+      "parentMethod": "dlay_box_read",
+      "typeFullName": "GF_BitStream*"
+    },
+    {
+      "code": "GF_BitStream *bs",
+      "columnNumber": 33,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "bs",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_236144.c",
+      "parentMethod": "dlay_box_read",
+      "typeFullName": "GF_BitStream*"
+    }
+  ]
+}

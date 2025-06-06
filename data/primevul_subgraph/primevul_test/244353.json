@@ -1,0 +1,160 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    }
+  ],
+  "nodes": [
+    {
+      "code": "ptr",
+      "columnNumber": 21,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "ptr",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_Stereo3DBox*"
+    },
+    {
+      "code": "bs",
+      "columnNumber": 17,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "bs",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_BitStream*"
+    },
+    {
+      "code": "GF_BitStream *bs",
+      "columnNumber": 34,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "bs",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_BitStream*"
+    },
+    {
+      "code": "bs",
+      "columnNumber": 32,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "bs",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_BitStream*"
+    },
+    {
+      "code": "ptr->stereo_type",
+      "columnNumber": 21,
+      "id": 30064771077,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(GF_Stereo3DBox *)s",
+      "columnNumber": 24,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "GF_Box *s",
+      "columnNumber": 23,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "s",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_Box*"
+    },
+    {
+      "code": "ptr",
+      "columnNumber": 18,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "ptr",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_Stereo3DBox*"
+    },
+    {
+      "code": "s",
+      "columnNumber": 29,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "s",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write",
+      "typeFullName": "GF_Box*"
+    },
+    {
+      "code": "stereo_type",
+      "columnNumber": 21,
+      "id": 55834574848,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 8,
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244353.c",
+      "parentMethod": "st3d_box_write"
+    }
+  ]
+}

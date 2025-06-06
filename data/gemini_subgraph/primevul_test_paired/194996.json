@@ -1,0 +1,204 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 30064771075
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 68719476747,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 68719476747
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 30064771088
+    }
+  ],
+  "nodes": [
+    {
+      "code": "init_op_sig_it",
+      "columnNumber": 15,
+      "id": 68719476738,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "init_op_sig_it",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY&"
+    },
+    {
+      "code": "meta_graph_def.signature_def().find(kSavedModelInitOpSignatureKey)",
+      "columnNumber": 7,
+      "id": 30064771075,
+      "label": "CALL",
+      "lineNumber": 5,
+      "name": "find",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "collection_def_map",
+      "columnNumber": 15,
+      "id": 68719476746,
+      "label": "IDENTIFIER",
+      "lineNumber": 13,
+      "name": "collection_def_map",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY&"
+    },
+    {
+      "code": "meta_graph_def.signature_def()",
+      "columnNumber": 7,
+      "id": 30064771076,
+      "label": "CALL",
+      "lineNumber": 5,
+      "name": "signature_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "meta_graph_def.collection_def()",
+      "columnNumber": 36,
+      "id": 30064771088,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "collection_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sig_def_map",
+      "columnNumber": 15,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "sig_def_map",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY&"
+    },
+    {
+      "code": "meta_graph_def",
+      "columnNumber": 36,
+      "id": 68719476747,
+      "label": "IDENTIFIER",
+      "lineNumber": 13,
+      "name": "meta_graph_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "MetaGraphDef&"
+    },
+    {
+      "code": "kSavedModelInitOpSignatureKey",
+      "columnNumber": 43,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 5,
+      "name": "kSavedModelInitOpSignatureKey",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "meta_graph_def.signature_def()",
+      "columnNumber": 29,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 3,
+      "name": "signature_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "meta_graph_def",
+      "columnNumber": 7,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 5,
+      "name": "meta_graph_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "MetaGraphDef&"
+    },
+    {
+      "code": "meta_graph_def",
+      "columnNumber": 29,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "meta_graph_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "MetaGraphDef&"
+    },
+    {
+      "code": "const MetaGraphDef& meta_graph_def",
+      "columnNumber": 44,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "meta_graph_def",
+      "parentFile": "code_PrimeVul_balanced_test_194996.cpp",
+      "parentMethod": "GetInitOp:Status(string&,MetaGraphDef&,string*)",
+      "typeFullName": "MetaGraphDef&"
+    }
+  ]
+}

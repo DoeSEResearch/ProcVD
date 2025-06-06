@@ -1,0 +1,460 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TLS1_get_version(s)",
+        "columnNumber": 12,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "TLS1_get_version",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TLS1_PRF",
+        "columnNumber": 48,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "TLS1_PRF",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TLS1_get_version(s) >= TLS1_2_VERSION",
+        "columnNumber": 12,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.greaterEqualsThan",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL_HANDSHAKE_MAC_DEFAULT|TLS1_PRF",
+        "columnNumber": 22,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "alg2",
+        "columnNumber": 14,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "alg2",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "long"
+      },
+      {
+        "code": "SSL_HANDSHAKE_MAC_DEFAULT",
+        "columnNumber": 22,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "SSL_HANDSHAKE_MAC_DEFAULT",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "alg2 == (SSL_HANDSHAKE_MAC_DEFAULT|TLS1_PRF)",
+        "columnNumber": 13,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "s",
+        "columnNumber": 29,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "s",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "SSL*"
+      },
+      {
+        "code": "TLS1_2_VERSION",
+        "columnNumber": 35,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "TLS1_2_VERSION",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "s->s3->tmp.new_cipher->algorithm2",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL *s",
+        "columnNumber": 26,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "s",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "SSL*"
+      },
+      {
+        "code": "alg2",
+        "columnNumber": 13,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "alg2",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "long"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TLS1_get_version(s)",
+        "columnNumber": 12,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "TLS1_get_version",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TLS1_PRF",
+        "columnNumber": 48,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "TLS1_PRF",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TLS1_get_version(s) >= TLS1_2_VERSION",
+        "columnNumber": 12,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.greaterEqualsThan",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL_HANDSHAKE_MAC_DEFAULT|TLS1_PRF",
+        "columnNumber": 22,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "alg2",
+        "columnNumber": 14,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "alg2",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "long"
+      },
+      {
+        "code": "SSL_HANDSHAKE_MAC_DEFAULT",
+        "columnNumber": 22,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "SSL_HANDSHAKE_MAC_DEFAULT",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "alg2 == (SSL_HANDSHAKE_MAC_DEFAULT|TLS1_PRF)",
+        "columnNumber": 13,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "s",
+        "columnNumber": 29,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "s",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "SSL*"
+      },
+      {
+        "code": "TLS1_2_VERSION",
+        "columnNumber": 35,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "TLS1_2_VERSION",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "s->s3->tmp.new_cipher->algorithm2",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL *s",
+        "columnNumber": 26,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "s",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "SSL*"
+      },
+      {
+        "code": "alg2",
+        "columnNumber": 13,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "alg2",
+        "parentFile": "code_PrimeVul_balanced_train_0.c",
+        "parentMethod": "ssl_get_algorithm2",
+        "typeFullName": "long"
+      }
+    ]
+  }
+]

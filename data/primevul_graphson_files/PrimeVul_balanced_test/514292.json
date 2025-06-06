@@ -1,0 +1,2329 @@
+{
+  "@type": "tinker:graph",
+  "@value": {
+    "edges": [{
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 0
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "inVLabel": "UNKNOWN",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 25769803776
+      },
+      "outVLabel": "BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 1
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "inVLabel": "TYPE",
+      "label": "EVAL_TYPE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 25769803776
+      },
+      "outVLabel": "BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 2
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "inVLabel": "TYPE",
+      "label": "EVAL_TYPE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 25769803777
+      },
+      "outVLabel": "BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 3
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 141733920769
+      },
+      "inVLabel": "NAMESPACE_BLOCK",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "outVLabel": "FILE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 4
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "inVLabel": "TYPE_DECL",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "outVLabel": "FILE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 5
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "inVLabel": "NAMESPACE_BLOCK",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "outVLabel": "FILE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 6
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "inVLabel": "METHOD",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "outVLabel": "FILE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 7
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 171798691841
+      },
+      "inVLabel": "TYPE_DECL",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "outVLabel": "FILE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 8
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 25769803776
+      },
+      "inVLabel": "BLOCK",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 9
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 10
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "inVLabel": "UNKNOWN",
+      "label": "CFG",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 11
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 25769803776
+      },
+      "inVLabel": "BLOCK",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 12
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "inVLabel": "UNKNOWN",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 13
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "inVLabel": "UNKNOWN",
+      "label": "DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 14
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 15
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 25769803777
+      },
+      "inVLabel": "BLOCK",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 16
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 17
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "CFG",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 18
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 25769803777
+      },
+      "inVLabel": "BLOCK",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 19
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 20
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "outVLabel": "METHOD",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 21
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "inVLabel": "TYPE",
+      "label": "EVAL_TYPE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "outVLabel": "METHOD_RETURN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 22
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "inVLabel": "UNKNOWN",
+      "label": "POST_DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "outVLabel": "METHOD_RETURN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 23
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "inVLabel": "TYPE",
+      "label": "EVAL_TYPE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "outVLabel": "METHOD_RETURN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 24
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "inVLabel": "METHOD",
+      "label": "POST_DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "outVLabel": "METHOD_RETURN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 25
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 137438953472
+      },
+      "inVLabel": "NAMESPACE",
+      "label": "REF",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920768
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 26
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542146
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920768
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 27
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "inVLabel": "TYPE_DECL",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920769
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 28
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 137438953472
+      },
+      "inVLabel": "NAMESPACE",
+      "label": "REF",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920769
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 29
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920769
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 30
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "inVLabel": "METHOD",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 31
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 171798691841
+      },
+      "inVLabel": "TYPE_DECL",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 32
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 137438953472
+      },
+      "inVLabel": "NAMESPACE",
+      "label": "REF",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 33
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "outVLabel": "NAMESPACE_BLOCK",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 34
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 171798691841
+      },
+      "inVLabel": "TYPE_DECL",
+      "label": "REF",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "outVLabel": "TYPE",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 35
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "inVLabel": "METHOD",
+      "label": "AST",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "outVLabel": "TYPE_DECL",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 36
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "inVLabel": "METHOD",
+      "label": "CONTAINS",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "outVLabel": "TYPE_DECL",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 37
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "outVLabel": "TYPE_DECL",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 38
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "inVLabel": "FILE",
+      "label": "SOURCE_FILE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 171798691841
+      },
+      "outVLabel": "TYPE_DECL",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 39
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "CFG",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "outVLabel": "UNKNOWN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 40
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "inVLabel": "METHOD_RETURN",
+      "label": "DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "outVLabel": "UNKNOWN",
+      "properties": {
+
+      }
+    }, {
+      "@type": "g:Edge",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 41
+      },
+      "inV": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "inVLabel": "METHOD",
+      "label": "POST_DOMINATE",
+      "outV": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "outVLabel": "UNKNOWN",
+      "properties": {
+
+      }
+    }],
+    "vertices": [{
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 25769803776
+      },
+      "label": "BLOCK",
+      "properties": {
+        "TYPE_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 5
+          }
+        },
+        "COLUMN_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 2
+          }
+        },
+        "ARGUMENT_INDEX": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": -1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 0
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 4
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 1
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 3
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 25769803777
+      },
+      "label": "BLOCK",
+      "properties": {
+        "ARGUMENT_INDEX": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": -1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 6
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 7
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 8
+          }
+        },
+        "TYPE_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 9
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 60129542144
+      },
+      "label": "FILE",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 10
+          }
+        },
+        "CONTENT": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 11
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 12
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 0
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 13
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 60129542145
+      },
+      "label": "FILE",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 14
+          }
+        },
+        "CONTENT": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 15
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 16
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 17
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 60129542146
+      },
+      "label": "FILE",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 18
+          }
+        },
+        "CONTENT": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 19
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<unknown>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 20
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 0
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 21
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 107374182400
+      },
+      "label": "META_DATA",
+      "properties": {
+        "LANGUAGE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["NEWC"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 22
+          }
+        },
+        "OVERLAYS": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["base", "controlflow", "typerel", "callgraph", "dataflowOss"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 23
+          }
+        },
+        "ROOT": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["/Users/seriouslyboy/Documents/learn/research/finetuning/data/primevul_cpg_bin_files/PrimeVul_balanced_test/PrimeVul_balanced_test_514292/code_PrimeVul_balanced_test_514292.c"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 24
+          }
+        },
+        "VERSION": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["0.1"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 25
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 111669149696
+      },
+      "label": "METHOD",
+      "properties": {
+        "LINE_NUMBER_END": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 151
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 36
+          }
+        },
+        "AST_PARENT_TYPE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["TYPE_DECL"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 27
+          }
+        },
+        "COLUMN_NUMBER_END": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 30
+          }
+        },
+        "SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [""]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 39
+          }
+        },
+        "COLUMN_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 29
+          }
+        },
+        "GENERIC_SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 33
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 32
+          }
+        },
+        "AST_PARENT_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 26
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 37
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 31
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 28
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 35
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 38
+          }
+        },
+        "IS_EXTERNAL": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [false]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 34
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 111669149697
+      },
+      "label": "METHOD",
+      "properties": {
+        "AST_PARENT_TYPE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["NAMESPACE_BLOCK"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 41
+          }
+        },
+        "SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [""]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 50
+          }
+        },
+        "GENERIC_SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 45
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 44
+          }
+        },
+        "AST_PARENT_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 40
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 48
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 43
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 42
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 47
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 49
+          }
+        },
+        "IS_EXTERNAL": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [false]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 46
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 128849018880
+      },
+      "label": "METHOD_RETURN",
+      "properties": {
+        "COLUMN_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 52
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 2
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 55
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["RET"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 51
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 54
+          }
+        },
+        "EVALUATION_STRATEGY": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["BY_VALUE"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 53
+          }
+        },
+        "TYPE_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 56
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 128849018881
+      },
+      "label": "METHOD_RETURN",
+      "properties": {
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 2
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 60
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["RET"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 57
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 59
+          }
+        },
+        "EVALUATION_STRATEGY": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["BY_VALUE"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 58
+          }
+        },
+        "TYPE_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 61
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 137438953472
+      },
+      "label": "NAMESPACE",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 62
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 63
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": -1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 64
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 141733920768
+      },
+      "label": "NAMESPACE_BLOCK",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 65
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 67
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 69
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 68
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<unknown>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 66
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 141733920769
+      },
+      "label": "NAMESPACE_BLOCK",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 70
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 72
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 74
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 73
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 71
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 141733920770
+      },
+      "label": "NAMESPACE_BLOCK",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 75
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 77
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 79
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 78
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 76
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 163208757248
+      },
+      "label": "TYPE",
+      "properties": {
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 80
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 81
+          }
+        },
+        "TYPE_DECL_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 82
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 171798691840
+      },
+      "label": "TYPE_DECL",
+      "properties": {
+        "AST_PARENT_TYPE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["NAMESPACE_BLOCK"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 84
+          }
+        },
+        "COLUMN_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 86
+          }
+        },
+        "GENERIC_SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 89
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 88
+          }
+        },
+        "AST_PARENT_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 83
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 92
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["code_PrimeVul_balanced_test_514292.c"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 87
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 85
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 91
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 93
+          }
+        },
+        "IS_EXTERNAL": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [false]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 90
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 171798691841
+      },
+      "label": "TYPE_DECL",
+      "properties": {
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 96
+          }
+        },
+        "AST_PARENT_TYPE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["NAMESPACE_BLOCK"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 95
+          }
+        },
+        "GENERIC_SIGNATURE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 99
+          }
+        },
+        "FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 98
+          }
+        },
+        "AST_PARENT_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>:<global>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 94
+          }
+        },
+        "NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["ANY"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 101
+          }
+        },
+        "FILENAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<includes>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 97
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": -1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 102
+          }
+        },
+        "IS_EXTERNAL": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [true]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 100
+          }
+        }
+      }
+    }, {
+      "@type": "g:Vertex",
+      "id": {
+        "@type": "g:Int64",
+        "@value": 184683593728
+      },
+      "label": "UNKNOWN",
+      "properties": {
+        "CONTAINED_REF": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 106
+          }
+        },
+        "PARSER_TYPE_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["CASTProblemDeclaration"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 109
+          }
+        },
+        "TYPE_FULL_NAME": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["<empty>"]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 110
+          }
+        },
+        "COLUMN_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 105
+          }
+        },
+        "ARGUMENT_INDEX": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 103
+          }
+        },
+        "ORDER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 108
+          }
+        },
+        "CODE": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": ["multi_update::initialize_tables(JOIN *join)\n{\n  TABLE_LIST *table_ref;\n  DBUG_ENTER(\"initialize_tables\");\n\n  if (unlikely((thd->variables.option_bits & OPTION_SAFE_UPDATES) &&\n               error_if_full_join(join)))\n    DBUG_RETURN(1);\n  if (join->implicit_grouping)\n  {\n    my_error(ER_INVALID_GROUP_FUNC_USE, MYF(0));\n    DBUG_RETURN(1);\n  }\n  main_table=join->join_tab->table;\n  table_to_update= 0;\n\n  /* Any update has at least one pair (field, value) */\n  DBUG_ASSERT(fields->elements);\n  /*\n   Only one table may be modified by UPDATE of an updatable view.\n   For an updatable view first_table_for_update indicates this\n   table.\n   For a regular multi-update it refers to some updated table.\n  */ \n  TABLE *first_table_for_update= ((Item_field *) fields->head())->field->table;\n\n  /* Create a temporary table for keys to all tables, except main table */\n  for (table_ref= update_tables; table_ref; table_ref= table_ref->next_local)\n  {\n    TABLE *table=table_ref->table;\n    uint cnt= tab..."]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 104
+          }
+        },
+        "LINE_NUMBER": {
+          "@type": "g:VertexProperty",
+          "@value": {
+            "@type": "g:List",
+            "@value": [{
+              "@type": "g:Int32",
+              "@value": 1
+            }]
+          },
+          "id": {
+            "@type": "g:Int64",
+            "@value": 107
+          }
+        }
+      }
+    }]
+  }
+}

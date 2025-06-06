@@ -1,0 +1,950 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 68719476802
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476802
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476789
+      },
+      {
+        "dst": 68719476803,
+        "label": "REACHING_DEF",
+        "src": 30064771153
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476786
+      },
+      {
+        "dst": 30064771138,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 30064771159
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 30064771153,
+        "label": "REACHING_DEF",
+        "src": 68719476804
+      },
+      {
+        "dst": 68719476794,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476804,
+        "label": "REACHING_DEF",
+        "src": 68719476805
+      },
+      {
+        "dst": 68719476818,
+        "label": "REACHING_DEF",
+        "src": 68719476819
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476795
+      },
+      {
+        "dst": 30064771149,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476787,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476789,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 30064771135,
+        "label": "REACHING_DEF",
+        "src": 68719476788
+      },
+      {
+        "dst": 68719476804,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 68719476796
+      },
+      {
+        "dst": 68719476786,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476785
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476812
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476781
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 68719476805,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 30064771159
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 68719476803
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 90194313229
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476818
+      },
+      {
+        "dst": 68719476805,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 68719476809
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 68719476809
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476819
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771159
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 68719476818
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771149,
+        "label": "REACHING_DEF",
+        "src": 90194313229
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 30064771149
+      },
+      {
+        "dst": 30064771138,
+        "label": "REACHING_DEF",
+        "src": 68719476789
+      },
+      {
+        "dst": 68719476795,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476808,
+        "label": "REACHING_DEF",
+        "src": 30064771157
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 30064771159,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 30064771159
+      },
+      {
+        "dst": 68719476786,
+        "label": "REACHING_DEF",
+        "src": 68719476785
+      },
+      {
+        "dst": 68719476781,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476789
+      },
+      {
+        "dst": 30064771159,
+        "label": "REACHING_DEF",
+        "src": 68719476809
+      },
+      {
+        "dst": 68719476796,
+        "label": "REACHING_DEF",
+        "src": 90194313228
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 68719476795
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 68719476805
+      },
+      {
+        "dst": 30064771153,
+        "label": "REACHING_DEF",
+        "src": 68719476805
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476805,
+        "label": "REACHING_DEF",
+        "src": 68719476804
+      },
+      {
+        "dst": 68719476794,
+        "label": "REACHING_DEF",
+        "src": 30064771143
+      },
+      {
+        "dst": 68719476795,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476788,
+        "label": "REACHING_DEF",
+        "src": 68719476786
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 68719476789,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476818,
+        "label": "REACHING_DEF",
+        "src": 68719476812
+      },
+      {
+        "dst": 68719476818,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 68719476804,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476787,
+        "label": "REACHING_DEF",
+        "src": 30064771135
+      },
+      {
+        "dst": 30064771153,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 30064771159,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476809
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476787
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476789,
+        "label": "REACHING_DEF",
+        "src": 30064771138
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476805
+      }
+    ],
+    "nodes": [
+      {
+        "code": "outputs",
+        "columnNumber": 7,
+        "id": 68719476818,
+        "label": "IDENTIFIER",
+        "lineNumber": 71,
+        "name": "outputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "std.vector*"
+      },
+      {
+        "code": "output_tensors.size()",
+        "columnNumber": 26,
+        "id": 30064771146,
+        "label": "CALL",
+        "lineNumber": 56,
+        "name": "size",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "outputs",
+        "columnNumber": 3,
+        "id": 68719476794,
+        "label": "IDENTIFIER",
+        "lineNumber": 55,
+        "name": "outputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "std.vector*"
+      },
+      {
+        "code": "node_name",
+        "columnNumber": 35,
+        "id": 68719476804,
+        "label": "IDENTIFIER",
+        "lineNumber": 59,
+        "name": "node_name",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "value->TotalBytes()",
+        "columnNumber": 26,
+        "id": 30064771135,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "TotalBytes",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "total_inputs_size",
+        "columnNumber": 32,
+        "id": 68719476814,
+        "label": "IDENTIFIER",
+        "lineNumber": 63,
+        "name": "total_inputs_size",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "\"-\"",
+        "columnNumber": 46,
+        "id": 90194313231,
+        "label": "LITERAL",
+        "lineNumber": 59,
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "char[2]"
+      },
+      {
+        "code": "output_tensors.size()",
+        "columnNumber": 19,
+        "id": 30064771143,
+        "label": "CALL",
+        "lineNumber": 55,
+        "name": "size",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 19,
+        "id": 90194313228,
+        "label": "LITERAL",
+        "lineNumber": 56,
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "node",
+        "columnNumber": 28,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "node",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "i",
+        "columnNumber": 22,
+        "id": 68719476797,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "strings::StrCat(node_name, \"-\", i)",
+        "columnNumber": 19,
+        "id": 30064771153,
+        "label": "CALL",
+        "lineNumber": 59,
+        "name": "StrCat",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 35,
+        "id": 68719476789,
+        "label": "IDENTIFIER",
+        "lineNumber": 50,
+        "name": "node",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "i",
+        "columnNumber": 49,
+        "id": 68719476799,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "i",
+        "columnNumber": 51,
+        "id": 68719476805,
+        "label": "IDENTIFIER",
+        "lineNumber": 59,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "total_inputs_size",
+        "columnNumber": 5,
+        "id": 68719476787,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "total_inputs_size",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "output_tensors",
+        "columnNumber": 9,
+        "id": 68719476802,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "output_tensors",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "&output_tensors",
+        "columnNumber": 49,
+        "id": 30064771138,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "std::vector<NodeDef>* outputs",
+        "columnNumber": 45,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "outputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "std.vector*"
+      },
+      {
+        "code": "output_tensors[i]",
+        "columnNumber": 43,
+        "id": 30064771158,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 19,
+        "id": 68719476819,
+        "label": "IDENTIFIER",
+        "lineNumber": 71,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "raw_val",
+        "columnNumber": 27,
+        "id": 68719476781,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "raw_val",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "&outputs->at(i)",
+        "columnNumber": 62,
+        "id": 30064771159,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 42,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "node",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "OptimizedNodeName(node, \"-folded\")",
+        "columnNumber": 24,
+        "id": 30064771149,
+        "label": "CALL",
+        "lineNumber": 57,
+        "name": "OptimizedNodeName",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "outputs",
+        "columnNumber": 63,
+        "id": 68719476812,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "outputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "std.vector*"
+      },
+      {
+        "code": "output_tensors",
+        "columnNumber": 19,
+        "id": 68719476795,
+        "label": "IDENTIFIER",
+        "lineNumber": 55,
+        "name": "output_tensors",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "value",
+        "columnNumber": 25,
+        "id": 68719476786,
+        "label": "IDENTIFIER",
+        "lineNumber": 46,
+        "name": "value",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "Tensor*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 75,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "output_tensors",
+        "columnNumber": 7,
+        "id": 68719476792,
+        "label": "IDENTIFIER",
+        "lineNumber": 51,
+        "name": "output_tensors",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "value",
+        "columnNumber": 13,
+        "id": 68719476776,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "value",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "Tensor*"
+      },
+      {
+        "code": "inputs",
+        "columnNumber": 41,
+        "id": 68719476790,
+        "label": "IDENTIFIER",
+        "lineNumber": 50,
+        "name": "inputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "value",
+        "columnNumber": 26,
+        "id": 68719476788,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "value",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "Tensor*"
+      },
+      {
+        "code": "node_name",
+        "columnNumber": 12,
+        "id": 68719476800,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "node_name",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "total_inputs_size",
+        "columnNumber": 10,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "total_inputs_size",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "CreateNodeDef(node_name, output_tensors[i], &outputs->at(i),\n                               total_inputs_size)",
+        "columnNumber": 18,
+        "id": 30064771157,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "CreateNodeDef",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "s",
+        "columnNumber": 14,
+        "id": 68719476808,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "s",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "Status"
+      },
+      {
+        "code": "node_name",
+        "columnNumber": 32,
+        "id": 68719476809,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "node_name",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 15,
+        "id": 68719476796,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "i",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "node_name",
+        "columnNumber": 7,
+        "id": 68719476803,
+        "label": "IDENTIFIER",
+        "lineNumber": 59,
+        "name": "node_name",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "inputs",
+        "columnNumber": 5,
+        "id": 68719476785,
+        "label": "IDENTIFIER",
+        "lineNumber": 46,
+        "name": "inputs",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "output_tensors",
+        "columnNumber": 26,
+        "id": 68719476798,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "output_tensors",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "TensorVector"
+      },
+      {
+        "code": "value",
+        "columnNumber": 10,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "value",
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "Tensor*"
+      },
+      {
+        "code": "\"-folded\"",
+        "columnNumber": 48,
+        "id": 90194313229,
+        "label": "LITERAL",
+        "lineNumber": 57,
+        "parentFile": "code_PrimeVul_balanced_test_195019.cpp",
+        "parentMethod": "ConstantFolding.EvaluateOneFoldable:Status(NodeDef&,std.vector*,bool*)",
+        "typeFullName": "char[8]"
+      }
+    ]
+  }
+]

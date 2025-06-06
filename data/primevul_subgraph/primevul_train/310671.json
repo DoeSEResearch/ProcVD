@@ -1,0 +1,344 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476771,
+      "label": "REACHING_DEF",
+      "src": 68719476765
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 68719476754
+    },
+    {
+      "dst": 68719476767,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 68719476752
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 68719476767,
+      "label": "REACHING_DEF",
+      "src": 68719476766
+    },
+    {
+      "dst": 68719476754,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 68719476752,
+      "label": "REACHING_DEF",
+      "src": 68719476754
+    },
+    {
+      "dst": 68719476770,
+      "label": "REACHING_DEF",
+      "src": 68719476767
+    },
+    {
+      "dst": 68719476770,
+      "label": "REACHING_DEF",
+      "src": 68719476771
+    },
+    {
+      "dst": 68719476766,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476770
+    },
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 68719476752,
+      "label": "REACHING_DEF",
+      "src": 68719476753
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476752
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476754
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476753
+    },
+    {
+      "dst": 68719476754,
+      "label": "REACHING_DEF",
+      "src": 68719476752
+    },
+    {
+      "dst": 68719476752,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 30064771093,
+      "label": "REACHING_DEF",
+      "src": 68719476765
+    },
+    {
+      "dst": 68719476754,
+      "label": "REACHING_DEF",
+      "src": 68719476753
+    },
+    {
+      "dst": 68719476771,
+      "label": "REACHING_DEF",
+      "src": 68719476770
+    },
+    {
+      "dst": 68719476771,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 30064771090
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    }
+  ],
+  "nodes": [
+    {
+      "code": "copied",
+      "columnNumber": 43,
+      "id": 68719476754,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "copied",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "unsigned"
+    },
+    {
+      "code": "handle",
+      "columnNumber": 12,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "handle",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "handle_t*"
+    },
+    {
+      "code": "ext4_journal_current_handle()",
+      "columnNumber": 21,
+      "id": 30064771076,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "ext4_journal_current_handle",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 34,
+      "id": 68719476773,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    },
+    {
+      "code": "EXT4_I(inode)->i_disksize",
+      "columnNumber": 29,
+      "id": 30064771093,
+      "label": "CALL",
+      "lineNumber": 27,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "pos + copied",
+      "columnNumber": 15,
+      "id": 30064771090,
+      "label": "CALL",
+      "lineNumber": 26,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "handle",
+      "columnNumber": 26,
+      "id": 68719476772,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "handle",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "handle_t*"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 16,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    },
+    {
+      "code": "pos",
+      "columnNumber": 33,
+      "id": 68719476752,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "pos",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "loff_t"
+    },
+    {
+      "code": "new_i_size",
+      "columnNumber": 34,
+      "id": 68719476771,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "new_i_size",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "loff_t"
+    },
+    {
+      "code": "len",
+      "columnNumber": 38,
+      "id": 68719476753,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "len",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "unsigned"
+    },
+    {
+      "code": "new_i_size",
+      "columnNumber": 16,
+      "id": 68719476765,
+      "label": "IDENTIFIER",
+      "lineNumber": 27,
+      "name": "new_i_size",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "loff_t"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 36,
+      "id": 68719476766,
+      "label": "IDENTIFIER",
+      "lineNumber": 27,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    },
+    {
+      "code": "new_i_size",
+      "columnNumber": 2,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 26,
+      "name": "new_i_size",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "loff_t"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 26,
+      "id": 68719476751,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 27,
+      "id": 68719476770,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    },
+    {
+      "code": "inode",
+      "columnNumber": 28,
+      "id": 68719476767,
+      "label": "IDENTIFIER",
+      "lineNumber": 28,
+      "name": "inode",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_310671.c",
+      "parentMethod": "ext4_da_write_end",
+      "typeFullName": "inode*"
+    }
+  ]
+}

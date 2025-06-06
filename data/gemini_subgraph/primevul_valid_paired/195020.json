@@ -1,0 +1,197 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771157,
+      "label": "REACHING_DEF",
+      "src": 30064771158
+    },
+    {
+      "dst": 30064771158,
+      "label": "REACHING_DEF",
+      "src": 68719476829
+    },
+    {
+      "dst": 30064771155,
+      "label": "REACHING_DEF",
+      "src": 30064771156
+    },
+    {
+      "dst": 68719476824,
+      "label": "REACHING_DEF",
+      "src": 30064771151
+    },
+    {
+      "dst": 30064771155,
+      "label": "REACHING_DEF",
+      "src": 30064771157
+    },
+    {
+      "dst": 68719476826,
+      "label": "REACHING_DEF",
+      "src": 68719476824
+    },
+    {
+      "dst": 30064771151,
+      "label": "REACHING_DEF",
+      "src": 68719476825
+    },
+    {
+      "dst": 30064771157,
+      "label": "REACHING_DEF",
+      "src": 30064771155
+    },
+    {
+      "dst": 68719476825,
+      "label": "REACHING_DEF",
+      "src": 90194313228
+    },
+    {
+      "dst": 30064771155,
+      "label": "REACHING_DEF",
+      "src": 68719476828
+    },
+    {
+      "dst": 68719476828,
+      "label": "REACHING_DEF",
+      "src": 30064771156
+    },
+    {
+      "dst": 30064771156,
+      "label": "REACHING_DEF",
+      "src": 68719476828
+    },
+    {
+      "dst": 30064771151,
+      "label": "REACHING_DEF",
+      "src": 90194313228
+    },
+    {
+      "dst": 68719476829,
+      "label": "REACHING_DEF",
+      "src": 68719476826
+    }
+  ],
+  "nodes": [
+    {
+      "code": "CPlayListFactory::Create(value)",
+      "columnNumber": 47,
+      "id": 30064771158,
+      "label": "CALL",
+      "lineNumber": 99,
+      "name": "Create",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "pElement",
+      "columnNumber": 40,
+      "id": 68719476825,
+      "label": "IDENTIFIER",
+      "lineNumber": 96,
+      "name": "pElement",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "TiXmlElement*"
+    },
+    {
+      "code": "std::unique_ptr<CPlayList",
+      "columnNumber": 11,
+      "id": 30064771155,
+      "label": "CALL",
+      "lineNumber": 99,
+      "name": "<operator>.lessThan",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "playlist(CPlayListFactory::Create(value))",
+      "columnNumber": 38,
+      "id": 30064771157,
+      "label": "CALL",
+      "lineNumber": 99,
+      "name": "playlist",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "CPlayList",
+      "columnNumber": 27,
+      "id": 68719476828,
+      "label": "IDENTIFIER",
+      "lineNumber": 99,
+      "name": "CPlayList",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "value",
+      "columnNumber": 14,
+      "id": 68719476826,
+      "label": "IDENTIFIER",
+      "lineNumber": 97,
+      "name": "value",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "std.string"
+    },
+    {
+      "code": "value",
+      "columnNumber": 72,
+      "id": 68719476829,
+      "label": "IDENTIFIER",
+      "lineNumber": 99,
+      "name": "value",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "std.string"
+    },
+    {
+      "code": "value",
+      "columnNumber": 9,
+      "id": 68719476824,
+      "label": "IDENTIFIER",
+      "lineNumber": 96,
+      "name": "value",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "std.string"
+    },
+    {
+      "code": "std::unique_ptr",
+      "columnNumber": 11,
+      "id": 30064771156,
+      "label": "CALL",
+      "lineNumber": 99,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "XMLUtils::GetAttribute(pElement, \"href\")",
+      "columnNumber": 17,
+      "id": 30064771151,
+      "label": "CALL",
+      "lineNumber": 96,
+      "name": "GetAttribute",
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"href\"",
+      "columnNumber": 50,
+      "id": 90194313228,
+      "label": "LITERAL",
+      "lineNumber": 96,
+      "parentFile": "code_PrimeVul_balanced_valid_195020.cpp",
+      "parentMethod": "CPlayListASX.LoadData:bool(std.istream&)",
+      "typeFullName": "char[5]"
+    }
+  ]
+}

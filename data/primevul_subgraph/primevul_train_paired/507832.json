@@ -1,0 +1,1038 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771112
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771112
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771112
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771099,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476784
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 30064771103
+      },
+      {
+        "dst": 30064771099,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 30064771112,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771103
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771112,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771112,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771118,
+        "label": "REACHING_DEF",
+        "src": 30064771108
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      }
+    ],
+    "nodes": [
+      {
+        "code": "x509_format_tests[idx].expected_type",
+        "columnNumber": 22,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 20,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "idx",
+        "columnNumber": 21,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "idx",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "int"
+      },
+      {
+        "code": "-1",
+        "columnNumber": 62,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.minus",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 13,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "(const char *)t->data",
+        "columnNumber": 26,
+        "id": 30064771112,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_string",
+        "columnNumber": 28,
+        "id": 30064771118,
+        "label": "CALL",
+        "lineNumber": 36,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t->length",
+        "columnNumber": 49,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "\"test_x509_time(%d) failed: expected_string %s, got %.*s\\n\"",
+        "columnNumber": 23,
+        "id": 90194313222,
+        "label": "LITERAL",
+        "lineNumber": 37,
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "t",
+        "columnNumber": 24,
+        "id": 68719476785,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "t",
+        "columnNumber": 40,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "int idx",
+        "columnNumber": 27,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "idx",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "int"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_string",
+        "columnNumber": 26,
+        "id": 30064771121,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_type",
+        "columnNumber": 26,
+        "id": 30064771103,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "idx",
+        "columnNumber": 21,
+        "id": 68719476777,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "idx",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "int"
+      },
+      {
+        "code": "t->type",
+        "columnNumber": 64,
+        "id": 30064771105,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_string",
+        "columnNumber": 21,
+        "id": 30064771115,
+        "label": "CALL",
+        "lineNumber": 35,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 9,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 14,
+        "id": 68719476784,
+        "label": "IDENTIFIER",
+        "lineNumber": 46,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t->type",
+        "columnNumber": 26,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "\"test_x509_time(%d) failed: expected_type %d, got %d\\n\"",
+        "columnNumber": 23,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 26,
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 18,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].data",
+        "columnNumber": 43,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "strlen(x509_format_tests[idx].expected_string)",
+        "columnNumber": 21,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 36,
+        "name": "strlen",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_string",
+        "columnNumber": 22,
+        "id": 30064771108,
+        "label": "CALL",
+        "lineNumber": 33,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].expected_type",
+        "columnNumber": 35,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 14,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t->length",
+        "columnNumber": 66,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 9,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "t->data",
+        "columnNumber": 21,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 9,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 46,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "t",
+        "columnNumber": 16,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 14,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 9,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      }
+    ],
+    "nodes": [
+      {
+        "code": "t",
+        "columnNumber": 9,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 20,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 18,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x509_format_tests[idx].data",
+        "columnNumber": 43,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ASN1_TIME_set_string_X509(t, x509_format_tests[idx].data)",
+        "columnNumber": 14,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "ASN1_TIME_set_string_X509",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 16,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "ASN1_TIME_new()",
+        "columnNumber": 13,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "ASN1_TIME_new",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 40,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      },
+      {
+        "code": "result",
+        "columnNumber": 5,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "result",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "int"
+      },
+      {
+        "code": "t",
+        "columnNumber": 13,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_train_507832.c",
+        "parentMethod": "test_x509_time",
+        "typeFullName": "ASN1_TIME*"
+      }
+    ]
+  }
+]

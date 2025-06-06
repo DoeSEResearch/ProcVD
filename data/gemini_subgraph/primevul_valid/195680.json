@@ -1,0 +1,964 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      }
+    ],
+    "nodes": [
+      {
+        "code": "0",
+        "columnNumber": 14,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 3,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aArray",
+        "columnNumber": 18,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "aArray",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "iTbl",
+        "columnNumber": 5,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "iTbl",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 10,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "5",
+        "columnNumber": 40,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 6,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "iTbl",
+        "columnNumber": 43,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "iTbl",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u8 *aArray",
+        "columnNumber": 30,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "aArray",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "(aFts5UnicodeData[iTbl] >> 5) + i",
+        "columnNumber": 13,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl] & 0x1F",
+        "columnNumber": 26,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl]",
+        "columnNumber": 26,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 20,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "bToken",
+        "columnNumber": 9,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "bToken",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "iTbl",
+        "columnNumber": 7,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "iTbl",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "n",
+        "columnNumber": 9,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "n",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aFts5UnicodeData",
+        "columnNumber": 26,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "aFts5UnicodeData",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "aArray[ aFts5UnicodeData[iTbl] & 0x1F ]",
+        "columnNumber": 18,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl] >> 5",
+        "columnNumber": 14,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.arithmeticShiftRight",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 45,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 7,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 2,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "128",
+        "columnNumber": 12,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 11,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0x1F",
+        "columnNumber": 51,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aFts5UnicodeData",
+        "columnNumber": 14,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "aFts5UnicodeData",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "n",
+        "columnNumber": 22,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "n",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 25,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "iTbl",
+        "columnNumber": 31,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "iTbl",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl]",
+        "columnNumber": 14,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "128",
+        "columnNumber": 13,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 11,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 2,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771082,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      }
+    ],
+    "nodes": [
+      {
+        "code": "aArray",
+        "columnNumber": 18,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "aArray",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "aArray[ aFts5UnicodeData[iTbl] & 0x1F ]",
+        "columnNumber": 18,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "5",
+        "columnNumber": 40,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 6,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u8 *aArray",
+        "columnNumber": 30,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "aArray",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl] & 0x1F",
+        "columnNumber": 26,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0x1F",
+        "columnNumber": 51,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl]",
+        "columnNumber": 26,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "bToken",
+        "columnNumber": 9,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "bToken",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aFts5UnicodeData[iTbl]",
+        "columnNumber": 14,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      }
+    ],
+    "nodes": [
+      {
+        "code": "n",
+        "columnNumber": 9,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "n",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aAscii",
+        "columnNumber": 7,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "aAscii",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 10,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u8 *aArray",
+        "columnNumber": 30,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "aArray",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 7,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 2,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(aFts5UnicodeData[iTbl] >> 5) + i",
+        "columnNumber": 13,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 14,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "n",
+        "columnNumber": 22,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "n",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 25,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u8 *aAscii",
+        "columnNumber": 42,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "aAscii",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 20,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "aArray[ aFts5UnicodeData[iTbl] & 0x1F ]",
+        "columnNumber": 18,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "aAscii[i]",
+        "columnNumber": 7,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "128",
+        "columnNumber": 12,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 11,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "bToken",
+        "columnNumber": 9,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "bToken",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(u8)bToken",
+        "columnNumber": 19,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "128",
+        "columnNumber": 13,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 11,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 2,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195680.c",
+        "parentMethod": "sqlite3Fts5UnicodeAscii",
+        "typeFullName": "int"
+      }
+    ]
+  }
+]

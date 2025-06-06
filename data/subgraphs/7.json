@@ -1,0 +1,128 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 30064771094
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 90194313216
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 90194313217
+    }
+  ],
+  "nodes": [
+    {
+      "code": "0",
+      "columnNumber": 14,
+      "id": 90194313216,
+      "label": "LITERAL",
+      "lineNumber": 10,
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "bufsize",
+      "columnNumber": 9,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 11,
+      "name": "bufsize",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 8,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "buf",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "open_memstream (&buf, &bufsize)",
+      "columnNumber": 6,
+      "id": 30064771094,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "open_memstream",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&bufsize",
+      "columnNumber": 28,
+      "id": 30064771096,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 19,
+      "id": 90194313217,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "int"
+    },
+    {
+      "code": "&buf",
+      "columnNumber": 22,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "f",
+      "columnNumber": 2,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "f",
+      "parentFile": "temp_7.c",
+      "parentMethod": "vsyslog",
+      "typeFullName": "FILE*"
+    }
+  ]
+}

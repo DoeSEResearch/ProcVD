@@ -1,0 +1,71 @@
+{
+  "idx": "2",
+  "total_critical_nodes": 4,
+  "processed_nodes": 4,
+  "slices": [
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "Session Pack",
+        "code_reference": "_gnutls_session_pack (session, &psession)",
+        "line_start": 13,
+        "line_end": 13,
+        "confidence": 1.0,
+        "rationale": "This function serializes the session data. It's the core operation and any vulnerabilities within it (buffer overflows, information leaks, etc.) directly impact the security of `gnutls_session_get_data`.  It's a trust boundary and requires careful scrutiny.",
+        "original_confidence": 1.0,
+        "filtered_confidence": 1.0,
+        "confidence_rank": 1,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "Check Buffer Size",
+        "code_reference": "psession.size > *session_data_size",
+        "line_start": 19,
+        "line_end": 19,
+        "confidence": 1.0,
+        "rationale": "This condition protects against buffer overflows. It ensures the packed data size does not exceed the provided buffer size, preventing `memcpy` from writing out of bounds. It is a vital security mechanism.",
+        "original_confidence": 1.0,
+        "filtered_confidence": 1.0,
+        "confidence_rank": 2,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "Copy Session Data",
+        "code_reference": "memcpy (session_data, psession.data, psession.size)",
+        "line_start": 25,
+        "line_end": 25,
+        "confidence": 1.0,
+        "rationale": "This `memcpy` copies the serialized data to the caller's buffer. If `psession.size` is larger than the buffer, it causes a buffer overflow.  It's a direct vulnerability point and depends on the preceding size check for its safety.",
+        "original_confidence": 1.0,
+        "filtered_confidence": 1.0,
+        "confidence_rank": 3,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "Check Resumable Session",
+        "code_reference": "session->internals.resumable == RESUME_FALSE",
+        "line_start": 7,
+        "line_end": 8,
+        "confidence": 0.95,
+        "rationale": "This condition controls whether a session is allowed to be serialized. Bypassing it can lead to serialization of invalid session states and potential vulnerabilities if `_gnutls_session_pack` operates on incorrect data. It acts as a crucial gatekeeper.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 4,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476756,
+      "label": "REACHING_DEF",
+      "src": 30064771121
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 68719476756
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 30064771126
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 68719476764
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 68719476764
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 30064771122
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 68719476762
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    }
+  ],
+  "nodes": [
+    {
+      "code": "l_origin",
+      "columnNumber": 42,
+      "id": 55834574848,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 29,
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute"
+    },
+    {
+      "code": "len == 7 || name[2] == 'O'",
+      "columnNumber": 17,
+      "id": 30064771122,
+      "label": "CALL",
+      "lineNumber": 28,
+      "name": "<operator>.logicalOr",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "repl",
+      "columnNumber": 12,
+      "id": 68719476763,
+      "label": "IDENTIFIER",
+      "lineNumber": 32,
+      "name": "repl",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "l",
+      "columnNumber": 42,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 29,
+      "name": "l",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "link_map*"
+    },
+    {
+      "code": "l->l_origin",
+      "columnNumber": 42,
+      "id": 30064771127,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "repl",
+      "columnNumber": 8,
+      "id": 68719476756,
+      "label": "IDENTIFIER",
+      "lineNumber": 28,
+      "name": "repl",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "_dl_platform",
+      "columnNumber": 11,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "_dl_platform",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "__libc_enable_secure",
+      "columnNumber": 12,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 29,
+      "name": "__libc_enable_secure",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 35,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 29,
+      "name": "NULL",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "struct link_map *l",
+      "columnNumber": 21,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "l",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "link_map*"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 20,
+      "id": 68719476764,
+      "label": "IDENTIFIER",
+      "lineNumber": 32,
+      "name": "NULL",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "__libc_enable_secure ? NULL : l->l_origin",
+      "columnNumber": 12,
+      "id": 30064771126,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "<operator>.conditional",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(len == 7 || name[2] == 'O')\n\t\t      ? (__libc_enable_secure ? NULL : l->l_origin)\n\t\t      : _dl_platform",
+      "columnNumber": 16,
+      "id": 30064771121,
+      "label": "CALL",
+      "lineNumber": 28,
+      "name": "<operator>.conditional",
+      "parentFile": "temp_2.c",
+      "parentMethod": "_dl_dst_substitute",
+      "typeFullName": "ANY"
+    }
+  ]
+}

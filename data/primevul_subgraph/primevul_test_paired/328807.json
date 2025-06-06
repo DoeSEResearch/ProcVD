@@ -1,0 +1,217 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 68719476777
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 30064771118
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 68719476778
+    },
+    {
+      "dst": 68719476779,
+      "label": "REACHING_DEF",
+      "src": 68719476778
+    },
+    {
+      "dst": 68719476777,
+      "label": "REACHING_DEF",
+      "src": 68719476765
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476778
+    },
+    {
+      "dst": 68719476778,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719476777,
+      "label": "REACHING_DEF",
+      "src": 90194313231
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 30064771117
+    },
+    {
+      "dst": 68719476778,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 90194313231
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 90194313223
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    }
+  ],
+  "nodes": [
+    {
+      "code": "regname == '='",
+      "columnNumber": 9,
+      "id": 30064771117,
+      "label": "CALL",
+      "lineNumber": 71,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'='",
+      "columnNumber": 20,
+      "id": 90194313231,
+      "label": "LITERAL",
+      "lineNumber": 71,
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char"
+    },
+    {
+      "code": "expr_result",
+      "columnNumber": 18,
+      "id": 68719476781,
+      "label": "IDENTIFIER",
+      "lineNumber": 72,
+      "name": "expr_result",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char_u*"
+    },
+    {
+      "code": "insert_string",
+      "columnNumber": 2,
+      "id": 68719476780,
+      "label": "IDENTIFIER",
+      "lineNumber": 72,
+      "name": "insert_string",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char_u*"
+    },
+    {
+      "code": "expr_result",
+      "columnNumber": 27,
+      "id": 68719476778,
+      "label": "IDENTIFIER",
+      "lineNumber": 71,
+      "name": "expr_result",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char_u*"
+    },
+    {
+      "code": "int\t\tregname",
+      "columnNumber": 5,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 2,
+      "name": "regname",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "int"
+    },
+    {
+      "code": "'.'",
+      "columnNumber": 20,
+      "id": 90194313223,
+      "label": "LITERAL",
+      "lineNumber": 55,
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char"
+    },
+    {
+      "code": "regname",
+      "columnNumber": 9,
+      "id": 68719476765,
+      "label": "IDENTIFIER",
+      "lineNumber": 55,
+      "name": "regname",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "int"
+    },
+    {
+      "code": "expr_result != NULL",
+      "columnNumber": 27,
+      "id": 30064771118,
+      "label": "CALL",
+      "lineNumber": 71,
+      "name": "<operator>.notEquals",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "regname",
+      "columnNumber": 9,
+      "id": 68719476777,
+      "label": "IDENTIFIER",
+      "lineNumber": 71,
+      "name": "regname",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "int"
+    },
+    {
+      "code": "char_u\t*expr_result",
+      "columnNumber": 5,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 3,
+      "name": "expr_result",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "char_u*"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 42,
+      "id": 68719476779,
+      "label": "IDENTIFIER",
+      "lineNumber": 71,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_test_328807.c",
+      "parentMethod": "do_put",
+      "typeFullName": "ANY"
+    }
+  ]
+}

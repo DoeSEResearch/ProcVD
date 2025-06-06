@@ -1,0 +1,901 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      }
+    ],
+    "nodes": [
+      {
+        "code": "irq",
+        "columnNumber": 9,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "intr",
+        "columnNumber": 3,
+        "id": 68719476761,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "intr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "intr",
+        "columnNumber": 3,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 20,
+        "name": "intr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "INTR_TYPE_EXT_INTR",
+        "columnNumber": 11,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "INTR_TYPE_EXT_INTR",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "VM_ENTRY_INSTRUCTION_LEN",
+        "columnNumber": 16,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "VM_ENTRY_INSTRUCTION_LEN",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "intr",
+        "columnNumber": 41,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "intr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "vmx->vcpu.arch.event_exit_inst_len",
+        "columnNumber": 9,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "VM_ENTRY_INTR_INFO_FIELD",
+        "columnNumber": 15,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "VM_ENTRY_INTR_INFO_FIELD",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "INTR_TYPE_SOFT_INTR",
+        "columnNumber": 11,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 20,
+        "name": "INTR_TYPE_SOFT_INTR",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "INTR_INFO_VALID_MASK",
+        "columnNumber": 15,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "INTR_INFO_VALID_MASK",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "intr",
+        "columnNumber": 2,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "intr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "irq | INTR_INFO_VALID_MASK",
+        "columnNumber": 9,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      }
+    ],
+    "nodes": [
+      {
+        "code": "irq",
+        "columnNumber": 6,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu->arch.interrupt.nr",
+        "columnNumber": 12,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "vcpu->arch.interrupt",
+        "columnNumber": 12,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nr",
+        "columnNumber": 12,
+        "id": 55834574850,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      }
+    ],
+    "nodes": [
+      {
+        "code": "struct kvm_vcpu *vcpu",
+        "columnNumber": 28,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 37,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "kvm_inject_realmode_interrupt(vcpu, irq, inc_eip)",
+        "columnNumber": 7,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "kvm_inject_realmode_interrupt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "EMULATE_DONE",
+        "columnNumber": 60,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "EMULATE_DONE",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 48,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 7,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 21,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu->arch.interrupt.nr",
+        "columnNumber": 12,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 6,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu->arch.event_exit_inst_len",
+        "columnNumber": 14,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 4,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 43,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 32,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      }
+    ],
+    "nodes": [
+      {
+        "code": "struct kvm_vcpu *vcpu",
+        "columnNumber": 28,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 37,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "KVM_REQ_TRIPLE_FAULT",
+        "columnNumber": 21,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "KVM_REQ_TRIPLE_FAULT",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 48,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 7,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 43,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 21,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 6,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu->arch.event_exit_inst_len",
+        "columnNumber": 14,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "inc_eip",
+        "columnNumber": 4,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "inc_eip",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "irq",
+        "columnNumber": 43,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "irq",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 32,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [],
+    "nodes": [
+      {
+        "code": "vcpu->arch.interrupt",
+        "columnNumber": 6,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 19,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "soft",
+        "columnNumber": 6,
+        "id": 55834574862,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 19,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq"
+      },
+      {
+        "code": "vcpu->arch.interrupt",
+        "columnNumber": 7,
+        "id": 30064771086,
+        "label": "CALL",
+        "lineNumber": 12,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "soft",
+        "columnNumber": 7,
+        "id": 55834574857,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 12,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      }
+    ],
+    "nodes": [
+      {
+        "code": "struct kvm_vcpu *vcpu",
+        "columnNumber": 28,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vmx->rmode",
+        "columnNumber": 6,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "to_vmx(vcpu)",
+        "columnNumber": 25,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "to_vmx",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "vm86_active",
+        "columnNumber": 6,
+        "id": 55834574854,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 10,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq"
+      },
+      {
+        "code": "vmx",
+        "columnNumber": 19,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "vmx",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "vcpu_vmx*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 32,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317386.c",
+        "parentMethod": "vmx_inject_irq",
+        "typeFullName": "kvm_vcpu*"
+      }
+    ]
+  }
+]

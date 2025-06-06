@@ -1,0 +1,71 @@
+{
+  "idx": "8",
+  "total_critical_nodes": 4,
+  "processed_nodes": 4,
+  "slices": [
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "C_RANGE_CHECK",
+        "code_reference": "if (low > high)",
+        "line_start": 7,
+        "line_end": 10,
+        "confidence": 0.9,
+        "rationale": "Input validation is crucial for preventing out-of-bounds access and ensuring correct operation. Failing this check leads to undefined behavior.",
+        "original_confidence": 0.9,
+        "filtered_confidence": 0.9,
+        "confidence_rank": 1,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "F_OUT_UPDATE",
+        "code_reference": "tree[current].out += high + 1 - tree[current].low",
+        "line_start": 32,
+        "line_end": 32,
+        "confidence": 0.9,
+        "rationale": "Arithmetic operation on potentially attacker-controlled data (`high`, `low`), susceptible to integer overflows. Overflows can corrupt memory or alter program control flow.",
+        "original_confidence": 0.9,
+        "filtered_confidence": 0.9,
+        "confidence_rank": 2,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "F_ADD_RANGE_RECURSIVE",
+        "code_reference": "add_range(ctx, cmap, high+1, new_high, tree[current].out + high + 1 - tree[current].low, 0, many)",
+        "line_start": 49,
+        "line_end": 49,
+        "confidence": 0.9,
+        "rationale": "Recursive call, inherits the vulnerabilities of the original call and also exacerbates them. Specifically, it can lead to stack exhaustion if recursion is uncontrolled, or may cause a heap overflow due to a large allocation of a range with `new_high`.",
+        "original_confidence": 0.9,
+        "filtered_confidence": 0.9,
+        "confidence_rank": 3,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "F_RESIZE_ARRAY",
+        "code_reference": "tree = cmap->tree = fz_resize_array(ctx, cmap->tree, new_cap, sizeof *cmap->tree)",
+        "line_start": 107,
+        "line_end": 107,
+        "confidence": 0.9,
+        "rationale": "Resizes the tree array; memory allocation errors or insufficient size checks can lead to buffer overflows or out-of-memory errors. The resized array is critical as all memory accesses are done on this data.",
+        "original_confidence": 0.9,
+        "filtered_confidence": 0.9,
+        "confidence_rank": 4,
+        "selection_reason": "above_threshold"
+      },
+      "slice_data": {}
+    }
+  ]
+}

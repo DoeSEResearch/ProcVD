@@ -1,0 +1,59 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 90194313216
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 90194313219
+    }
+  ],
+  "nodes": [
+    {
+      "code": "done",
+      "columnNumber": 15,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "done",
+      "parentFile": "temp_9.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0",
+      "columnNumber": 22,
+      "id": 90194313216,
+      "label": "LITERAL",
+      "lineNumber": 4,
+      "parentFile": "temp_9.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    },
+    {
+      "code": "done",
+      "columnNumber": 4,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 16,
+      "name": "done",
+      "parentFile": "temp_9.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1",
+      "columnNumber": 11,
+      "id": 90194313219,
+      "label": "LITERAL",
+      "lineNumber": 16,
+      "parentFile": "temp_9.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    }
+  ]
+}

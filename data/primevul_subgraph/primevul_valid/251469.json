@@ -1,0 +1,82 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    }
+  ],
+  "nodes": [
+    {
+      "code": "cq",
+      "columnNumber": 24,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 11,
+      "name": "cq",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_251469.c",
+      "parentMethod": "connection_send_1xx",
+      "typeFullName": "chunkqueue*"
+    },
+    {
+      "code": "cq",
+      "columnNumber": 37,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 28,
+      "name": "cq",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_251469.c",
+      "parentMethod": "connection_send_1xx",
+      "typeFullName": "chunkqueue*"
+    },
+    {
+      "code": "con->write_queue",
+      "columnNumber": 29,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_251469.c",
+      "parentMethod": "connection_send_1xx",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "connection * const con",
+      "columnNumber": 44,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "con",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_251469.c",
+      "parentMethod": "connection_send_1xx",
+      "typeFullName": "connection*"
+    },
+    {
+      "code": "cq",
+      "columnNumber": 54,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 13,
+      "name": "cq",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_251469.c",
+      "parentMethod": "connection_send_1xx",
+      "typeFullName": "chunkqueue*"
+    }
+  ]
+}

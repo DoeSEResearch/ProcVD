@@ -1,0 +1,1127 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 115964116996
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771093
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      }
+    ],
+    "nodes": [
+      {
+        "code": "iommu_mr",
+        "columnNumber": 54,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "CPUState *cpu",
+        "columnNumber": 35,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "cpu",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "CPUState*"
+      },
+      {
+        "code": "hwaddr *plen",
+        "columnNumber": 49,
+        "id": 115964116996,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "plen",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr*"
+      },
+      {
+        "code": "qatomic_rcu_read(&cpu->cpu_ases[asidx].memory_dispatch)",
+        "columnNumber": 9,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 12,
+        "name": "qatomic_rcu_read",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&addr",
+        "columnNumber": 61,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cpu",
+        "columnNumber": 37,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "cpu",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "CPUState*"
+      },
+      {
+        "code": "false",
+        "columnNumber": 74,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "false",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "imrc",
+        "columnNumber": 9,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "imrc",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegionClass*"
+      },
+      {
+        "code": "addr",
+        "columnNumber": 43,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      },
+      {
+        "code": "plen",
+        "columnNumber": 68,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "plen",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 42,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "memory_region_get_iommu_class_nocheck(iommu_mr)",
+        "columnNumber": 16,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "memory_region_get_iommu_class_nocheck",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "iommu_idx",
+        "columnNumber": 52,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "iommu_idx",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "int"
+      },
+      {
+        "code": "d",
+        "columnNumber": 52,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "d",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "AddressSpaceDispatch*"
+      },
+      {
+        "code": "orig_addr",
+        "columnNumber": 19,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "orig_addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      },
+      {
+        "code": "iotlb",
+        "columnNumber": 9,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "iotlb",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUTLBEntry"
+      },
+      {
+        "code": "addr & iotlb.addr_mask",
+        "columnNumber": 20,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hwaddr orig_addr",
+        "columnNumber": 61,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "orig_addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 14,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "iommu_idx",
+        "columnNumber": 9,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "iommu_idx",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "int"
+      },
+      {
+        "code": "iotlb.translated_addr & ~iotlb.addr_mask",
+        "columnNumber": 18,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "imrc->attrs_to_index(iommu_mr, attrs)",
+        "columnNumber": 21,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.pointerCall",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "imrc",
+        "columnNumber": 17,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "imrc",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegionClass*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 33,
+        "id": 68719476761,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "addr",
+        "columnNumber": 12,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      },
+      {
+        "code": "IOMMU_NONE",
+        "columnNumber": 49,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "IOMMU_NONE",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "d",
+        "columnNumber": 9,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "d",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "AddressSpaceDispatch*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 42,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "(iotlb.translated_addr & ~iotlb.addr_mask)\n                | (addr & iotlb.addr_mask)",
+        "columnNumber": 17,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "imrc->translate(iommu_mr, addr, IOMMU_NONE, iommu_idx)",
+        "columnNumber": 17,
+        "id": 30064771093,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.pointerCall",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "translate",
+        "columnNumber": 17,
+        "id": 55834574852,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 29,
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb"
+      },
+      {
+        "code": "flatview_to_dispatch(address_space_to_flatview(iotlb.target_as))",
+        "columnNumber": 13,
+        "id": 30064771119,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "flatview_to_dispatch",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "addr",
+        "columnNumber": 55,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      },
+      {
+        "code": "attrs",
+        "columnNumber": 52,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "attrs",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "MemTxAttrs"
+      },
+      {
+        "code": "iommu_idx",
+        "columnNumber": 61,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "iommu_idx",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "int"
+      },
+      {
+        "code": "MemTxAttrs attrs",
+        "columnNumber": 35,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "attrs",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "MemTxAttrs"
+      },
+      {
+        "code": "d",
+        "columnNumber": 27,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "d",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "AddressSpaceDispatch*"
+      },
+      {
+        "code": "addr",
+        "columnNumber": 9,
+        "id": 68719476765,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "addr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "hwaddr"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      }
+    ],
+    "nodes": [
+      {
+        "code": "iommu_mr",
+        "columnNumber": 54,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 9,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 14,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "imrc",
+        "columnNumber": 9,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "imrc",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegionClass*"
+      },
+      {
+        "code": "memory_region_get_iommu_class_nocheck(iommu_mr)",
+        "columnNumber": 16,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "memory_region_get_iommu_class_nocheck",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "memory_region_get_iommu(section->mr)",
+        "columnNumber": 20,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "memory_region_get_iommu",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "section->mr",
+        "columnNumber": 44,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      }
+    ],
+    "nodes": [
+      {
+        "code": "iommu_mr",
+        "columnNumber": 54,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 9,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "imrc->attrs_to_index(iommu_mr, attrs)",
+        "columnNumber": 21,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.pointerCall",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "imrc",
+        "columnNumber": 9,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "imrc",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegionClass*"
+      },
+      {
+        "code": "memory_region_get_iommu_class_nocheck(iommu_mr)",
+        "columnNumber": 16,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "memory_region_get_iommu_class_nocheck",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "MemTxAttrs attrs",
+        "columnNumber": 35,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "attrs",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "MemTxAttrs"
+      },
+      {
+        "code": "attrs_to_index",
+        "columnNumber": 21,
+        "id": 55834574851,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 24,
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 14,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "iommu_idx",
+        "columnNumber": 9,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "iommu_idx",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "int"
+      },
+      {
+        "code": "iommu_mr",
+        "columnNumber": 42,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "iommu_mr",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegion*"
+      },
+      {
+        "code": "imrc",
+        "columnNumber": 21,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "imrc",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "IOMMUMemoryRegionClass*"
+      },
+      {
+        "code": "memory_region_get_iommu(section->mr)",
+        "columnNumber": 20,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "memory_region_get_iommu",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "attrs",
+        "columnNumber": 52,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "attrs",
+        "parentFile": "code_PrimeVul_balanced_valid_514752.c",
+        "parentMethod": "address_space_translate_for_iotlb",
+        "typeFullName": "MemTxAttrs"
+      }
+    ]
+  }
+]

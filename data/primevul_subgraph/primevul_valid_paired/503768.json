@@ -1,0 +1,357 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771238,
+      "label": "REACHING_DEF",
+      "src": 30064771239
+    },
+    {
+      "dst": 68719476875,
+      "label": "REACHING_DEF",
+      "src": 30064771285
+    },
+    {
+      "dst": 68719476882,
+      "label": "REACHING_DEF",
+      "src": 68719476874
+    },
+    {
+      "dst": 30064771241,
+      "label": "REACHING_DEF",
+      "src": 68719476879
+    },
+    {
+      "dst": 68719476882,
+      "label": "REACHING_DEF",
+      "src": 68719476876
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 30064771241
+    },
+    {
+      "dst": 30064771239,
+      "label": "REACHING_DEF",
+      "src": 68719476878
+    },
+    {
+      "dst": 68719476873,
+      "label": "REACHING_DEF",
+      "src": 30064771295
+    },
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 68719476882
+    },
+    {
+      "dst": 68719476883,
+      "label": "REACHING_DEF",
+      "src": 68719476879
+    },
+    {
+      "dst": 68719476882,
+      "label": "REACHING_DEF",
+      "src": 30064771241
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 68719476882
+    },
+    {
+      "dst": 68719476883,
+      "label": "REACHING_DEF",
+      "src": 68719476884
+    },
+    {
+      "dst": 68719476878,
+      "label": "REACHING_DEF",
+      "src": 30064771239
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 115964116995
+    },
+    {
+      "dst": 68719476873,
+      "label": "REACHING_DEF",
+      "src": 30064771285
+    },
+    {
+      "dst": 68719476876,
+      "label": "REACHING_DEF",
+      "src": 30064771238
+    },
+    {
+      "dst": 68719476875,
+      "label": "REACHING_DEF",
+      "src": 68719476873
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 68719476883
+    },
+    {
+      "dst": 68719476882,
+      "label": "REACHING_DEF",
+      "src": 68719476879
+    },
+    {
+      "dst": 68719476874,
+      "label": "REACHING_DEF",
+      "src": 30064771236
+    },
+    {
+      "dst": 30064771241,
+      "label": "REACHING_DEF",
+      "src": 68719476882
+    },
+    {
+      "dst": 30064771238,
+      "label": "REACHING_DEF",
+      "src": 68719476878
+    },
+    {
+      "dst": 68719476875,
+      "label": "REACHING_DEF",
+      "src": 30064771295
+    },
+    {
+      "dst": 68719476878,
+      "label": "REACHING_DEF",
+      "src": 68719476872
+    },
+    {
+      "dst": 30064771236,
+      "label": "REACHING_DEF",
+      "src": 68719476875
+    }
+  ],
+  "nodes": [
+    {
+      "code": "rr",
+      "columnNumber": 5,
+      "id": 68719476791,
+      "label": "IDENTIFIER",
+      "lineNumber": 75,
+      "name": "rr",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "SSL3_RECORD*"
+    },
+    {
+      "code": "n",
+      "columnNumber": 20,
+      "id": 68719476884,
+      "label": "IDENTIFIER",
+      "lineNumber": 173,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "n",
+      "columnNumber": 17,
+      "id": 68719476874,
+      "label": "IDENTIFIER",
+      "lineNumber": 168,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "unsigned char *buf",
+      "columnNumber": 56,
+      "id": 115964116995,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "buf",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "&(rr->data[rr->off])",
+      "columnNumber": 25,
+      "id": 30064771241,
+      "label": "CALL",
+      "lineNumber": 172,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 13,
+      "id": 68719476883,
+      "label": "IDENTIFIER",
+      "lineNumber": 173,
+      "name": "buf",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "rr",
+      "columnNumber": 44,
+      "id": 68719476875,
+      "label": "IDENTIFIER",
+      "lineNumber": 168,
+      "name": "rr",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "SSL3_RECORD*"
+    },
+    {
+      "code": "rr->type",
+      "columnNumber": 26,
+      "id": 30064771295,
+      "label": "CALL",
+      "lineNumber": 228,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "SSL3_RECORD_get_length(rr)",
+      "columnNumber": 21,
+      "id": 30064771236,
+      "label": "CALL",
+      "lineNumber": 168,
+      "name": "SSL3_RECORD_get_length",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 20,
+      "id": 68719476879,
+      "label": "IDENTIFIER",
+      "lineNumber": 172,
+      "name": "buf",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "n",
+      "columnNumber": 17,
+      "id": 68719476876,
+      "label": "IDENTIFIER",
+      "lineNumber": 170,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "n",
+      "columnNumber": 47,
+      "id": 68719476882,
+      "label": "IDENTIFIER",
+      "lineNumber": 172,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "rr->rec_version",
+      "columnNumber": 9,
+      "id": 30064771285,
+      "label": "CALL",
+      "lineNumber": 215,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(unsigned int)len",
+      "columnNumber": 21,
+      "id": 30064771239,
+      "label": "CALL",
+      "lineNumber": 170,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "len",
+      "columnNumber": 13,
+      "id": 68719476868,
+      "label": "IDENTIFIER",
+      "lineNumber": 162,
+      "name": "len",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "int"
+    },
+    {
+      "code": "rr",
+      "columnNumber": 73,
+      "id": 68719476873,
+      "label": "IDENTIFIER",
+      "lineNumber": 167,
+      "name": "rr",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "SSL3_RECORD*"
+    },
+    {
+      "code": "(unsigned int)len - read_bytes",
+      "columnNumber": 21,
+      "id": 30064771238,
+      "label": "CALL",
+      "lineNumber": 170,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "read_bytes",
+      "columnNumber": 41,
+      "id": 68719476878,
+      "label": "IDENTIFIER",
+      "lineNumber": 170,
+      "name": "read_bytes",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "read_bytes",
+      "columnNumber": 37,
+      "id": 68719476872,
+      "label": "IDENTIFIER",
+      "lineNumber": 167,
+      "name": "read_bytes",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "unsigned int"
+    },
+    {
+      "code": "&rr[curr_rec]",
+      "columnNumber": 57,
+      "id": 30064771165,
+      "label": "CALL",
+      "lineNumber": 94,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_503768.c",
+      "parentMethod": "ssl3_read_bytes",
+      "typeFullName": "ANY"
+    }
+  ]
+}

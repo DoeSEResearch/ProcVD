@@ -1,0 +1,233 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      }
+    ],
+    "nodes": [
+      {
+        "code": "vcpu",
+        "columnNumber": 22,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 21,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 32,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "struct kvm_vcpu *vcpu",
+        "columnNumber": 37,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "UD_VECTOR",
+        "columnNumber": 28,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "UD_VECTOR",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 51,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      }
+    ],
+    "nodes": [
+      {
+        "code": "KVM_EXIT_INTERNAL_ERROR",
+        "columnNumber": 28,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "KVM_EXIT_INTERNAL_ERROR",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 21,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 32,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "struct kvm_vcpu *vcpu",
+        "columnNumber": 37,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "exit_reason",
+        "columnNumber": 3,
+        "id": 55834574852,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 51,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu->run->exit_reason",
+        "columnNumber": 3,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "vcpu->run",
+        "columnNumber": 3,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317529.c",
+        "parentMethod": "handle_emulation_failure",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4912 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771156,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771168,
+        "label": "REACHING_DEF",
+        "src": 68719476834
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476817
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 30064771150
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 30064771166,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 30064771171
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 68719476825
+      },
+      {
+        "dst": 30064771175,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 30064771178
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 68719476843
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771166,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 30064771175
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 30064771156,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 90194313228
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 30064771175,
+        "label": "REACHING_DEF",
+        "src": 90194313244
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 68719476844
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 90194313229
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 90194313233
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771178,
+        "label": "REACHING_DEF",
+        "src": 90194313245
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771150,
+        "label": "REACHING_DEF",
+        "src": 90194313236
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 90194313244
+      },
+      {
+        "dst": 68719476825,
+        "label": "REACHING_DEF",
+        "src": 30064771161
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 90194313223
+      },
+      {
+        "dst": 30064771164,
+        "label": "REACHING_DEF",
+        "src": 30064771166
+      }
+    ],
+    "nodes": [
+      {
+        "code": "szLineConv",
+        "columnNumber": 29,
+        "id": 68719476839,
+        "label": "IDENTIFIER",
+        "lineNumber": 78,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 18,
+        "id": 30064771166,
+        "label": "CALL",
+        "lineNumber": 72,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 3,
+        "id": 30064771150,
+        "label": "CALL",
+        "lineNumber": 56,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771115,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 7,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0xf0",
+        "columnNumber": 28,
+        "id": 90194313231,
+        "label": "LITERAL",
+        "lineNumber": 29,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "sptr",
+        "columnNumber": 2,
+        "id": 68719476836,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "sptr",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "shortunsigned*"
+      },
+      {
+        "code": "u32 lineSize",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[1024]",
+        "columnNumber": 7,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.alloc",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0xf8",
+        "columnNumber": 28,
+        "id": 90194313233,
+        "label": "LITERAL",
+        "lineNumber": 38,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 19,
+        "id": 90194313236,
+        "label": "LITERAL",
+        "lineNumber": 56,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0xc0",
+        "columnNumber": 24,
+        "id": 90194313223,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "1024",
+        "columnNumber": 18,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 23,
+        "id": 30064771158,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0xbf",
+        "columnNumber": 19,
+        "id": 90194313228,
+        "label": "LITERAL",
+        "lineNumber": 20,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 18,
+        "id": 90194313245,
+        "label": "LITERAL",
+        "lineNumber": 79,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "c",
+        "columnNumber": 4,
+        "id": 68719476825,
+        "label": "IDENTIFIER",
+        "lineNumber": 71,
+        "name": "c",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 26,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 9,
+        "id": 30064771156,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0x80",
+        "columnNumber": 38,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 15,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 10,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 32,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "txt_in",
+        "columnNumber": 35,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "(u16 *)szLine",
+        "columnNumber": 9,
+        "id": 30064771171,
+        "label": "CALL",
+        "lineNumber": 77,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "c",
+        "columnNumber": 16,
+        "id": 68719476834,
+        "label": "IDENTIFIER",
+        "lineNumber": 73,
+        "name": "c",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 17,
+        "id": 68719476844,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "1024",
+        "columnNumber": 41,
+        "id": 90194313244,
+        "label": "LITERAL",
+        "lineNumber": 78,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv[i]",
+        "columnNumber": 2,
+        "id": 30064771178,
+        "label": "CALL",
+        "lineNumber": 79,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "char *szLine",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "6",
+        "columnNumber": 45,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 18,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 6,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 20,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 18,
+        "id": 68719476817,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(const unsigned short **) &sptr",
+        "columnNumber": 47,
+        "id": 30064771175,
+        "label": "CALL",
+        "lineNumber": 78,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 33,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "sizeof(char)*lineSize",
+        "columnNumber": 20,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 17,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 10,
+        "id": 68719476816,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 8,
+        "id": 30064771161,
+        "label": "CALL",
+        "lineNumber": 71,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "FILE *txt_in",
+        "columnNumber": 57,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "0xe0",
+        "columnNumber": 28,
+        "id": 90194313229,
+        "label": "LITERAL",
+        "lineNumber": 23,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771107,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 4,
+        "id": 30064771168,
+        "label": "CALL",
+        "lineNumber": 73,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476843,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 25,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 4,
+        "id": 30064771164,
+        "label": "CALL",
+        "lineNumber": 72,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      }
+    ],
+    "nodes": [
+      {
+        "code": "txt_in",
+        "columnNumber": 35,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "sOK",
+        "columnNumber": 2,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "sOK",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "char *szLine",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u32 lineSize",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "FILE *txt_in",
+        "columnNumber": 57,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "gf_fgets(szLine, lineSize, txt_in)",
+        "columnNumber": 8,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "gf_fgets",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 25,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 33,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "sizeof(char)*lineSize",
+        "columnNumber": 20,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 17,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771168,
+        "label": "REACHING_DEF",
+        "src": 68719476834
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476822,
+        "label": "REACHING_DEF",
+        "src": 68719476820
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476817
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476795,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 68719476826,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 90194313229
+      },
+      {
+        "dst": 68719476811,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476781
+      },
+      {
+        "dst": 68719476782,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771174,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476781,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 90194313223
+      },
+      {
+        "dst": 68719476795,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 30064771150
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476826,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771141
+      },
+      {
+        "dst": 30064771166,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476787
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476804,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 90194313232
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 30064771171
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476788,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 90194313225
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476811,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476803,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 68719476825
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 30064771175,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 30064771178
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476844,
+        "label": "REACHING_DEF",
+        "src": 68719476843
+      },
+      {
+        "dst": 68719476786,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 30064771155,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476811,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476826,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771109
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771118,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476820,
+        "label": "REACHING_DEF",
+        "src": 90194313238
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476830,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476787,
+        "label": "REACHING_DEF",
+        "src": 68719476781
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476823,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 30064771090,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 30064771090
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771135,
+        "label": "REACHING_DEF",
+        "src": 30064771136
+      },
+      {
+        "dst": 30064771155,
+        "label": "REACHING_DEF",
+        "src": 30064771157
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476796,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476823,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771166,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 90194313230
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476804,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771136,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476782,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771118,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771158
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771140,
+        "label": "REACHING_DEF",
+        "src": 30064771141
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771118
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476787
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313233
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476806
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476807
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771156,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476838
+      },
+      {
+        "dst": 30064771157,
+        "label": "REACHING_DEF",
+        "src": 30064771155
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 30064771099,
+        "label": "REACHING_DEF",
+        "src": 90194313225
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476806
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 30064771175
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771109,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476812,
+        "label": "REACHING_DEF",
+        "src": 68719476786
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476796,
+        "label": "REACHING_DEF",
+        "src": 30064771130
+      },
+      {
+        "dst": 30064771130,
+        "label": "REACHING_DEF",
+        "src": 30064771131
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 68719476795
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 30064771156,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 68719476788,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771099,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771161,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771090,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476806,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771140
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476807
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 90194313228
+      },
+      {
+        "dst": 30064771115,
+        "label": "REACHING_DEF",
+        "src": 90194313231
+      },
+      {
+        "dst": 68719476807,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476817,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      },
+      {
+        "dst": 68719476811,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 30064771174,
+        "label": "REACHING_DEF",
+        "src": 90194313244
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476826,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 68719476830,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476808
+      },
+      {
+        "dst": 68719476828,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 68719476844
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 30064771175,
+        "label": "REACHING_DEF",
+        "src": 90194313244
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 30064771166
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 30064771168
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 30064771091
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476822,
+        "label": "REACHING_DEF",
+        "src": 68719476835
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313234
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771158,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476811,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476781,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476828,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 90194313229
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 90194313233
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771178,
+        "label": "REACHING_DEF",
+        "src": 90194313245
+      },
+      {
+        "dst": 68719476788,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476808,
+        "label": "REACHING_DEF",
+        "src": 90194313235
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 68719476838,
+        "label": "REACHING_DEF",
+        "src": 30064771173
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771150,
+        "label": "REACHING_DEF",
+        "src": 90194313236
+      },
+      {
+        "dst": 68719476809,
+        "label": "REACHING_DEF",
+        "src": 30064771122
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 30064771135
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771141,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 30064771146
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476825,
+        "label": "REACHING_DEF",
+        "src": 30064771161
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 30064771174,
+        "label": "REACHING_DEF",
+        "src": 30064771175
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 90194313244
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771099,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 30064771164
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 90194313223
+      },
+      {
+        "dst": 68719476805,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 30064771164,
+        "label": "REACHING_DEF",
+        "src": 30064771166
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476839,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 90194313224
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476835,
+        "label": "REACHING_DEF",
+        "src": 90194313243
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476795
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 30064771090,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476810,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 30064771115
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 68719476823,
+        "label": "REACHING_DEF",
+        "src": 30064771156
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476786
+      }
+    ],
+    "nodes": [
+      {
+        "code": "szLineConv",
+        "columnNumber": 29,
+        "id": 68719476839,
+        "label": "IDENTIFIER",
+        "lineNumber": 78,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "j",
+        "columnNumber": 14,
+        "id": 68719476815,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 16,
+        "id": 68719476837,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0xc0",
+        "columnNumber": 24,
+        "id": 90194313223,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "1024",
+        "columnNumber": 18,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "j",
+        "columnNumber": 4,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 54,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 16,
+        "id": 68719476822,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476782,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476800,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i] & 0xe0",
+        "columnNumber": 16,
+        "id": 30064771106,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 32,
+        "id": 68719476761,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476799,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "u32",
+        "columnNumber": 7,
+        "id": 184683593730,
+        "label": "UNKNOWN",
+        "lineNumber": 78,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "<empty>"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 23,
+        "id": 30064771158,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0xbf",
+        "columnNumber": 19,
+        "id": 90194313228,
+        "label": "LITERAL",
+        "lineNumber": 20,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 18,
+        "id": 90194313245,
+        "label": "LITERAL",
+        "lineNumber": 79,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "c",
+        "columnNumber": 4,
+        "id": 68719476825,
+        "label": "IDENTIFIER",
+        "lineNumber": 71,
+        "name": "c",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char"
+      },
+      {
+        "code": "i",
+        "columnNumber": 39,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "gf_utf8_wcstombs(szLineConv, 1024, (const unsigned short **) &sptr)",
+        "columnNumber": 12,
+        "id": 30064771174,
+        "label": "CALL",
+        "lineNumber": 78,
+        "name": "gf_utf8_wcstombs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 26,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476802,
+        "label": "IDENTIFIER",
+        "lineNumber": 45,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476792,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476794,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 18,
+        "id": 30064771166,
+        "label": "CALL",
+        "lineNumber": 72,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 20,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "strlen(szLine)",
+        "columnNumber": 15,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "strlen",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 13,
+        "id": 68719476765,
+        "label": "IDENTIFIER",
+        "lineNumber": 20,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771109,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 27,
+        "id": 68719476812,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476781,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 3,
+        "id": 30064771150,
+        "label": "CALL",
+        "lineNumber": 56,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i] & 0xf0",
+        "columnNumber": 16,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476806,
+        "label": "IDENTIFIER",
+        "lineNumber": 46,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 9,
+        "id": 30064771156,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0x80",
+        "columnNumber": 38,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 15,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i] >> 6",
+        "columnNumber": 32,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.arithmeticShiftRight",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 10,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0xc0",
+        "columnNumber": 37,
+        "id": 90194313230,
+        "label": "LITERAL",
+        "lineNumber": 23,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476791,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476805,
+        "label": "IDENTIFIER",
+        "lineNumber": 45,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476778,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 10,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 14,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "s32 unicode_type",
+        "columnNumber": 71,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "unicode_type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "s32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 6,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 20,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 32,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771136,
+        "label": "CALL",
+        "lineNumber": 42,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 15,
+        "id": 68719476810,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771131,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "txt_in",
+        "columnNumber": 35,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771135,
+        "label": "CALL",
+        "lineNumber": 42,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "j",
+        "columnNumber": 3,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771115,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476807,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 2,
+        "id": 68719476838,
+        "label": "IDENTIFIER",
+        "lineNumber": 78,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 33,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i] & 0xf8",
+        "columnNumber": 16,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476784,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "len",
+        "columnNumber": 3,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 17,
+        "id": 68719476844,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0xe0",
+        "columnNumber": 37,
+        "id": 90194313232,
+        "label": "LITERAL",
+        "lineNumber": 29,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(u16 *)szLine",
+        "columnNumber": 9,
+        "id": 30064771171,
+        "label": "CALL",
+        "lineNumber": 77,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sOK",
+        "columnNumber": 2,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "sOK",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "c",
+        "columnNumber": 16,
+        "id": 68719476834,
+        "label": "IDENTIFIER",
+        "lineNumber": 73,
+        "name": "c",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char"
+      },
+      {
+        "code": "i",
+        "columnNumber": 33,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "1024",
+        "columnNumber": 41,
+        "id": 90194313244,
+        "label": "LITERAL",
+        "lineNumber": 78,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv[i]",
+        "columnNumber": 2,
+        "id": 30064771178,
+        "label": "CALL",
+        "lineNumber": 79,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 25,
+        "id": 68719476831,
+        "label": "IDENTIFIER",
+        "lineNumber": 72,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "!unicode_type",
+        "columnNumber": 8,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "char *szLine",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "6",
+        "columnNumber": 45,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 18,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0xf0",
+        "columnNumber": 37,
+        "id": 90194313234,
+        "label": "LITERAL",
+        "lineNumber": 38,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476797,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476798,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 7,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0xc0 | ( (szLine[i] >> 6) & 0x3 )",
+        "columnNumber": 22,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 20,
+        "id": 68719476811,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "unicode_type",
+        "columnNumber": 9,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "unicode_type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "s32"
+      },
+      {
+        "code": "i+1",
+        "columnNumber": 15,
+        "id": 30064771162,
+        "label": "CALL",
+        "lineNumber": 71,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771141,
+        "label": "CALL",
+        "lineNumber": 45,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 18,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 4,
+        "id": 30064771146,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 5,
+        "id": 90194313238,
+        "label": "LITERAL",
+        "lineNumber": 67,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0x80",
+        "columnNumber": 33,
+        "id": 90194313224,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476776,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 6,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 20,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 16,
+        "id": 68719476774,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "(szLine[i] >> 6) & 0x3",
+        "columnNumber": 31,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 18,
+        "id": 68719476817,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(const unsigned short **) &sptr",
+        "columnNumber": 47,
+        "id": 30064771175,
+        "label": "CALL",
+        "lineNumber": 78,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 13,
+        "id": 68719476842,
+        "label": "IDENTIFIER",
+        "lineNumber": 79,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 4,
+        "id": 68719476835,
+        "label": "IDENTIFIER",
+        "lineNumber": 74,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476786,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i+1",
+        "columnNumber": 17,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476787,
+        "label": "IDENTIFIER",
+        "lineNumber": 35,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "2",
+        "columnNumber": 7,
+        "id": 90194313243,
+        "label": "LITERAL",
+        "lineNumber": 74,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 4,
+        "id": 68719476809,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "0xf0",
+        "columnNumber": 28,
+        "id": 90194313231,
+        "label": "LITERAL",
+        "lineNumber": 29,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 3,
+        "id": 68719476814,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771110,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "u32",
+        "columnNumber": 10,
+        "id": 184683593728,
+        "label": "UNKNOWN",
+        "lineNumber": 13,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "<empty>"
+      },
+      {
+        "code": "unicode_type",
+        "columnNumber": 6,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "unicode_type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "s32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476821,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476790,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "sptr",
+        "columnNumber": 2,
+        "id": 68719476836,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "sptr",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "shortunsigned*"
+      },
+      {
+        "code": "0xc0",
+        "columnNumber": 22,
+        "id": 90194313225,
+        "label": "LITERAL",
+        "lineNumber": 18,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 23,
+        "id": 68719476823,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 6,
+        "id": 68719476796,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 33,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771122,
+        "label": "CALL",
+        "lineNumber": 33,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0x3",
+        "columnNumber": 50,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 18,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 8,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476793,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476785,
+        "label": "IDENTIFIER",
+        "lineNumber": 33,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 11,
+        "id": 68719476833,
+        "label": "IDENTIFIER",
+        "lineNumber": 73,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "u32 lineSize",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "len",
+        "columnNumber": 15,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "len",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "!szLine[i+1]",
+        "columnNumber": 22,
+        "id": 30064771157,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 23,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 18,
+        "id": 68719476830,
+        "label": "IDENTIFIER",
+        "lineNumber": 72,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 20,
+        "id": 30064771147,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i+1",
+        "columnNumber": 30,
+        "id": 30064771159,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv[1024]",
+        "columnNumber": 7,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.alloc",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476795,
+        "label": "IDENTIFIER",
+        "lineNumber": 41,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 26,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "1",
+        "columnNumber": 9,
+        "id": 90194313235,
+        "label": "LITERAL",
+        "lineNumber": 49,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 5,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 12,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u16 *",
+        "columnNumber": 10,
+        "id": 184683593729,
+        "label": "UNKNOWN",
+        "lineNumber": 77,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "<empty>"
+      },
+      {
+        "code": "j",
+        "columnNumber": 6,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 19,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "0xf8",
+        "columnNumber": 28,
+        "id": 90194313233,
+        "label": "LITERAL",
+        "lineNumber": 38,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine[i] & 0x80",
+        "columnNumber": 26,
+        "id": 30064771090,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "i",
+        "columnNumber": 29,
+        "id": 68719476779,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 18,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(char)*lineSize",
+        "columnNumber": 20,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 17,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 10,
+        "id": 68719476816,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476804,
+        "label": "IDENTIFIER",
+        "lineNumber": 45,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 16,
+        "id": 68719476788,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 6,
+        "id": 68719476808,
+        "label": "IDENTIFIER",
+        "lineNumber": 49,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 13,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 4,
+        "id": 68719476828,
+        "label": "IDENTIFIER",
+        "lineNumber": 72,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "i+1",
+        "columnNumber": 11,
+        "id": 30064771165,
+        "label": "CALL",
+        "lineNumber": 72,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 22,
+        "id": 30064771118,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476803,
+        "label": "IDENTIFIER",
+        "lineNumber": 45,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "FILE *txt_in",
+        "columnNumber": 57,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "i",
+        "columnNumber": 3,
+        "id": 68719476820,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "(u32) gf_utf8_wcstombs(szLineConv, 1024, (const unsigned short **) &sptr)",
+        "columnNumber": 6,
+        "id": 30064771173,
+        "label": "CALL",
+        "lineNumber": 78,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 8,
+        "id": 30064771161,
+        "label": "CALL",
+        "lineNumber": 71,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 10,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0xe0",
+        "columnNumber": 28,
+        "id": 90194313229,
+        "label": "LITERAL",
+        "lineNumber": 23,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gf_fgets(szLine, lineSize, txt_in)",
+        "columnNumber": 8,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "gf_fgets",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771140,
+        "label": "CALL",
+        "lineNumber": 45,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "!szLine[i]",
+        "columnNumber": 8,
+        "id": 30064771155,
+        "label": "CALL",
+        "lineNumber": 70,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "j",
+        "columnNumber": 17,
+        "id": 68719476777,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "j",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 16,
+        "id": 30064771107,
+        "label": "CALL",
+        "lineNumber": 23,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i]",
+        "columnNumber": 4,
+        "id": 30064771168,
+        "label": "CALL",
+        "lineNumber": 73,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476843,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLineConv",
+        "columnNumber": 2,
+        "id": 68719476841,
+        "label": "IDENTIFIER",
+        "lineNumber": 79,
+        "name": "szLineConv",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char[1024]"
+      },
+      {
+        "code": "szLineConv[j]",
+        "columnNumber": 6,
+        "id": 30064771130,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 20,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "i",
+        "columnNumber": 23,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 16,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 4,
+        "id": 68719476832,
+        "label": "IDENTIFIER",
+        "lineNumber": 73,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 25,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "i",
+        "columnNumber": 23,
+        "id": 68719476789,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "i",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "0",
+        "columnNumber": 19,
+        "id": 90194313236,
+        "label": "LITERAL",
+        "lineNumber": 56,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 8,
+        "id": 68719476826,
+        "label": "IDENTIFIER",
+        "lineNumber": 71,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine[i+1] & 0xc0",
+        "columnNumber": 10,
+        "id": 30064771093,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine[i+1]",
+        "columnNumber": 4,
+        "id": 30064771164,
+        "label": "CALL",
+        "lineNumber": 72,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 22,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "(u32) strlen(szLine)",
+        "columnNumber": 9,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      }
+    ],
+    "nodes": [
+      {
+        "code": "txt_in",
+        "columnNumber": 35,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "sOK",
+        "columnNumber": 2,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "sOK",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 17,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "int"
+      },
+      {
+        "code": "u32 lineSize",
+        "columnNumber": 43,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "FILE *txt_in",
+        "columnNumber": 57,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "txt_in",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "FILE*"
+      },
+      {
+        "code": "gf_fgets(szLine, lineSize, txt_in)",
+        "columnNumber": 8,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "gf_fgets",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 25,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "sizeof(char)",
+        "columnNumber": 20,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.sizeOf",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "char *szLine",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 9,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "lineSize",
+        "columnNumber": 33,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "lineSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "sizeof(char)*lineSize",
+        "columnNumber": 20,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "szLine",
+        "columnNumber": 17,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "szLine",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195328.c",
+        "parentMethod": "gf_text_get_utf8_line",
+        "typeFullName": "char*"
+      }
+    ]
+  }
+]

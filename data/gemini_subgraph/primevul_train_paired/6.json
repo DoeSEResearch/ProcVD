@@ -1,0 +1,958 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476904,
+        "label": "REACHING_DEF",
+        "src": 30064771256
+      },
+      {
+        "dst": 30064771246,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 30064771255,
+        "label": "REACHING_DEF",
+        "src": 30064771256
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771256,
+        "label": "REACHING_DEF",
+        "src": 68719476904
+      },
+      {
+        "dst": 30064771246,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476899,
+        "label": "REACHING_DEF",
+        "src": 30064771248
+      },
+      {
+        "dst": 30064771256,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 30064771254,
+        "label": "REACHING_DEF",
+        "src": 30064771255
+      },
+      {
+        "dst": 30064771255,
+        "label": "REACHING_DEF",
+        "src": 68719476906
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771251,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476904,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771257,
+        "label": "REACHING_DEF",
+        "src": 30064771256
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476902,
+        "label": "REACHING_DEF",
+        "src": 30064771253
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771251,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 30064771253,
+        "label": "REACHING_DEF",
+        "src": 30064771254
+      },
+      {
+        "dst": 30064771256,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771257,
+        "label": "REACHING_DEF",
+        "src": 68719476906
+      },
+      {
+        "dst": 30064771246,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476904,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476906,
+        "label": "REACHING_DEF",
+        "src": 68719476904
+      },
+      {
+        "dst": 30064771253,
+        "label": "REACHING_DEF",
+        "src": 30064771255
+      },
+      {
+        "dst": 68719476904,
+        "label": "REACHING_DEF",
+        "src": 68719476906
+      },
+      {
+        "dst": 30064771251,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 30064771256,
+        "label": "REACHING_DEF",
+        "src": 68719476906
+      },
+      {
+        "dst": 68719476906,
+        "label": "REACHING_DEF",
+        "src": 30064771256
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771257,
+        "label": "REACHING_DEF",
+        "src": 68719476904
+      },
+      {
+        "dst": 30064771251,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771255,
+        "label": "REACHING_DEF",
+        "src": 68719476904
+      },
+      {
+        "dst": 30064771256,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476906,
+        "label": "REACHING_DEF",
+        "src": 68719476899
+      },
+      {
+        "dst": 30064771251,
+        "label": "REACHING_DEF",
+        "src": 30064771246
+      }
+    ],
+    "nodes": [
+      {
+        "code": "ctx",
+        "columnNumber": 51,
+        "id": 68719476800,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "fz_context*"
+      },
+      {
+        "code": "new_cap",
+        "columnNumber": 56,
+        "id": 68719476906,
+        "label": "IDENTIFIER",
+        "lineNumber": 120,
+        "name": "new_cap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "cmap->tree",
+        "columnNumber": 10,
+        "id": 30064771254,
+        "label": "CALL",
+        "lineNumber": 120,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 39,
+        "id": 68719476904,
+        "label": "IDENTIFIER",
+        "lineNumber": 120,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "fz_context*"
+      },
+      {
+        "code": "cmap->tree = fz_resize_array(ctx, cmap->tree, new_cap, sizeof *cmap->tree)",
+        "columnNumber": 10,
+        "id": 30064771253,
+        "label": "CALL",
+        "lineNumber": 120,
+        "name": "<operator>.assignment",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap->tcap",
+        "columnNumber": 30,
+        "id": 30064771251,
+        "label": "CALL",
+        "lineNumber": 119,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof *cmap->tree",
+        "columnNumber": 65,
+        "id": 30064771257,
+        "label": "CALL",
+        "lineNumber": 120,
+        "name": "<operator>.sizeOf",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fz_context *ctx",
+        "columnNumber": 11,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "fz_context*"
+      },
+      {
+        "code": "current",
+        "columnNumber": 32,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "fz_resize_array(ctx, cmap->tree, new_cap, sizeof *cmap->tree)",
+        "columnNumber": 23,
+        "id": 30064771255,
+        "label": "CALL",
+        "lineNumber": 120,
+        "name": "fz_resize_array",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 26,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "tree",
+        "columnNumber": 3,
+        "id": 68719476902,
+        "label": "IDENTIFIER",
+        "lineNumber": 120,
+        "name": "tree",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "cmap_splay*"
+      },
+      {
+        "code": "new_cap",
+        "columnNumber": 7,
+        "id": 68719476899,
+        "label": "IDENTIFIER",
+        "lineNumber": 119,
+        "name": "new_cap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 15,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "cmap->tcap ? cmap->tcap * 2 : 256",
+        "columnNumber": 17,
+        "id": 30064771248,
+        "label": "CALL",
+        "lineNumber": 119,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap->tree",
+        "columnNumber": 44,
+        "id": 30064771256,
+        "label": "CALL",
+        "lineNumber": 120,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "2",
+        "columnNumber": 43,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 119,
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "pdf_cmap *cmap",
+        "columnNumber": 28,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 56,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "cmap->tcap",
+        "columnNumber": 20,
+        "id": 30064771246,
+        "label": "CALL",
+        "lineNumber": 117,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476821
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476822
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476815
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476858,
+        "label": "REACHING_DEF",
+        "src": 68719476857
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 68719476842
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476858
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476875
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476875,
+        "label": "REACHING_DEF",
+        "src": 68719476874
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 68719476832
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476875,
+        "label": "REACHING_DEF",
+        "src": 68719476857
+      },
+      {
+        "dst": 68719476822,
+        "label": "REACHING_DEF",
+        "src": 68719476821
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 68719476823
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476858,
+        "label": "REACHING_DEF",
+        "src": 68719476842
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476822
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476831
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476841
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      }
+    ],
+    "nodes": [
+      {
+        "code": "gt",
+        "columnNumber": 6,
+        "id": 68719476814,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 11,
+        "id": 68719476832,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 24,
+        "id": 68719476875,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 11,
+        "id": 68719476815,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 16,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 6,
+        "id": 68719476816,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "pdf_cmap *cmap",
+        "columnNumber": 28,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 56,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 6,
+        "id": 68719476831,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 21,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "current",
+        "columnNumber": 32,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 14,
+        "id": 68719476842,
+        "label": "IDENTIFIER",
+        "lineNumber": 96,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 15,
+        "id": 68719476858,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 9,
+        "id": 68719476857,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "delete_node(cmap, current)",
+        "columnNumber": 14,
+        "id": 30064771107,
+        "label": "CALL",
+        "lineNumber": 42,
+        "name": "delete_node",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 18,
+        "id": 68719476874,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "move",
+        "columnNumber": 11,
+        "id": 68719476821,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 16,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap->ttop",
+        "columnNumber": 23,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 26,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "lt",
+        "columnNumber": 8,
+        "id": 68719476841,
+        "label": "IDENTIFIER",
+        "lineNumber": 96,
+        "name": "lt",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 19,
+        "id": 68719476822,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 21,
+        "id": 68719476839,
+        "label": "IDENTIFIER",
+        "lineNumber": 87,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "move",
+        "columnNumber": 15,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476823,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "current",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 7,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "move",
+        "parentFile": "code_PrimeVul_balanced_train_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      }
+    ]
+  }
+]

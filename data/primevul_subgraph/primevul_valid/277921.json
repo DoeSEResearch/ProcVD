@@ -1,0 +1,128 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771074,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    },
+    {
+      "dst": 30064771074,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 30064771074
+    },
+    {
+      "dst": 30064771074,
+      "label": "REACHING_DEF",
+      "src": 68719476739
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    }
+  ],
+  "nodes": [
+    {
+      "code": "ctrl_x_mode == CTRL_X_CMDLINE_CTRL_X",
+      "columnNumber": 6,
+      "id": 30064771074,
+      "label": "CALL",
+      "lineNumber": 3,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "CTRL_X_CMDLINE_CTRL_X",
+      "columnNumber": 21,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "CTRL_X_CMDLINE_CTRL_X",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctrl_x_mode == CTRL_X_CMDLINE",
+      "columnNumber": 9,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 2,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "CTRL_X_CMDLINE",
+      "columnNumber": 24,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 2,
+      "name": "CTRL_X_CMDLINE",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctrl_x_mode",
+      "columnNumber": 6,
+      "id": 68719476738,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "ctrl_x_mode",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctrl_x_mode",
+      "columnNumber": 9,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 2,
+      "name": "ctrl_x_mode",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_277921.c",
+      "parentMethod": "ctrl_x_mode_cmdline",
+      "typeFullName": "ANY"
+    }
+  ]
+}

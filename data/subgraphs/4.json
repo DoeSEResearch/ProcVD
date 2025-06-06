@@ -1,0 +1,275 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476741,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 68719476741
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 68719476741,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    },
+    {
+      "dst": 68719476741,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476741
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476741
+    },
+    {
+      "dst": 68719476745,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 68719476741,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 68719476741
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    }
+  ],
+  "nodes": [
+    {
+      "code": "malloc (total + 1)",
+      "columnNumber": 21,
+      "id": 30064771081,
+      "label": "CALL",
+      "lineNumber": 22,
+      "name": "malloc",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "DL_DST_REQUIRED (l, s, strlen (s), cnt)",
+      "columnNumber": 11,
+      "id": 30064771077,
+      "label": "CALL",
+      "lineNumber": 19,
+      "name": "DL_DST_REQUIRED",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "struct link_map *l",
+      "columnNumber": 30,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "l",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "link_map*"
+    },
+    {
+      "code": "cnt",
+      "columnNumber": 7,
+      "id": 68719476738,
+      "label": "IDENTIFIER",
+      "lineNumber": 15,
+      "name": "cnt",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "result",
+      "columnNumber": 3,
+      "id": 68719476745,
+      "label": "IDENTIFIER",
+      "lineNumber": 22,
+      "name": "result",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(char *) malloc (total + 1)",
+      "columnNumber": 12,
+      "id": 30064771080,
+      "label": "CALL",
+      "lineNumber": 22,
+      "name": "<operator>.cast",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "char *",
+      "columnNumber": 13,
+      "id": 184683593728,
+      "label": "UNKNOWN",
+      "lineNumber": 22,
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "<empty>"
+    },
+    {
+      "code": "l",
+      "columnNumber": 28,
+      "id": 68719476741,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "l",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "link_map*"
+    },
+    {
+      "code": "s",
+      "columnNumber": 42,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "s",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "total",
+      "columnNumber": 3,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "total",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "total + 1",
+      "columnNumber": 29,
+      "id": 30064771082,
+      "label": "CALL",
+      "lineNumber": 22,
+      "name": "<operator>.addition",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "cnt",
+      "columnNumber": 46,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "cnt",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "strlen (s)",
+      "columnNumber": 34,
+      "id": 30064771078,
+      "label": "CALL",
+      "lineNumber": 19,
+      "name": "strlen",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s",
+      "columnNumber": 31,
+      "id": 68719476742,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "s",
+      "parentFile": "temp_4.c",
+      "parentMethod": "expand_dynamic_string_token",
+      "typeFullName": "char*"
+    }
+  ]
+}

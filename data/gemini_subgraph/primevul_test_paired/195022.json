@@ -1,0 +1,332 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 68719476764
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 90194313224
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 30064771108
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 30064771107
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 30064771104
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 30064771108,
+      "label": "REACHING_DEF",
+      "src": 90194313226
+    },
+    {
+      "dst": 30064771108,
+      "label": "REACHING_DEF",
+      "src": 68719476765
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 90194313226
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771107
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771107
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476764
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    }
+  ],
+  "nodes": [
+    {
+      "code": "j_param",
+      "columnNumber": 92,
+      "id": 68719476764,
+      "label": "IDENTIFIER",
+      "lineNumber": 18,
+      "name": "j_param",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "json_string_value(json_object_get(j_param, \"username\"))",
+      "columnNumber": 58,
+      "id": 30064771105,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "json_string_value",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "j_param",
+      "columnNumber": 48,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "j_param",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "(struct config_elements *)user_data",
+      "columnNumber": 37,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 2,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "j_param",
+      "columnNumber": 110,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 16,
+      "name": "j_param",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "j_param",
+      "columnNumber": 27,
+      "id": 68719476758,
+      "label": "IDENTIFIER",
+      "lineNumber": 16,
+      "name": "j_param",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "\"username\"",
+      "columnNumber": 101,
+      "id": 90194313225,
+      "label": "LITERAL",
+      "lineNumber": 18,
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "j_param",
+      "columnNumber": 149,
+      "id": 68719476765,
+      "label": "IDENTIFIER",
+      "lineNumber": 18,
+      "name": "j_param",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "void * user_data",
+      "columnNumber": 100,
+      "id": 115964116994,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "user_data",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "void*"
+    },
+    {
+      "code": "json_object_get(j_param, \"username\")",
+      "columnNumber": 76,
+      "id": 30064771106,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "json_object_get",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "config",
+      "columnNumber": 50,
+      "id": 68719476763,
+      "label": "IDENTIFIER",
+      "lineNumber": 18,
+      "name": "config",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "config_elements*"
+    },
+    {
+      "code": "json_string_value(json_object_get(j_param, \"password\"))",
+      "columnNumber": 115,
+      "id": 30064771107,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "json_string_value",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"password\"",
+      "columnNumber": 57,
+      "id": 90194313224,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "j_result",
+      "columnNumber": 11,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 18,
+      "name": "j_result",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "json_t*"
+    },
+    {
+      "code": "json_object_get(j_param, \"password\")",
+      "columnNumber": 133,
+      "id": 30064771108,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "json_object_get",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"password\"",
+      "columnNumber": 158,
+      "id": 90194313226,
+      "label": "LITERAL",
+      "lineNumber": 18,
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "auth_check_user_credentials(config, json_string_value(json_object_get(j_param, \"username\")), json_string_value(json_object_get(j_param, \"password\")))",
+      "columnNumber": 22,
+      "id": 30064771104,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "auth_check_user_credentials",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "config",
+      "columnNumber": 28,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 2,
+      "name": "config",
+      "parentFile": "code_PrimeVul_balanced_test_195022.c",
+      "parentMethod": "callback_glewlwyd_user_auth",
+      "typeFullName": "config_elements*"
+    }
+  ]
+}

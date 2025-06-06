@@ -1,0 +1,3817 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      }
+    ],
+    "nodes": [
+      {
+        "code": "mul_left_child",
+        "columnNumber": 12,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "mul_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_right_child",
+        "columnNumber": 12,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(1))",
+        "columnNumber": 31,
+        "id": 30064771126,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(0))",
+        "columnNumber": 29,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_left_child",
+        "columnNumber": 12,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_right_child",
+        "columnNumber": 12,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "mul_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(1)",
+        "columnNumber": 49,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node->input(0)",
+        "columnNumber": 48,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 17,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 60,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 16,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "NodeDef* node",
+        "columnNumber": 66,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 50,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 28,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 7,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 36,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 66,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 43,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(1))",
+        "columnNumber": 30,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(0))",
+        "columnNumber": 30,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 12,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node",
+        "columnNumber": 48,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->input(1)",
+        "columnNumber": 50,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 17,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 67,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 44,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "*node_map_",
+        "columnNumber": 40,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 47,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 61,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "conv_node->input(0)",
+        "columnNumber": 49,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 42,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 29,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 49,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 49,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "left_child_is_constant ? mul_right_child : mul_left_child",
+        "columnNumber": 7,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      }
+    ],
+    "nodes": [
+      {
+        "code": "mul_left_child",
+        "columnNumber": 12,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "mul_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_right_child",
+        "columnNumber": 12,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(1))",
+        "columnNumber": 31,
+        "id": 30064771126,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(0))",
+        "columnNumber": 29,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_left_child",
+        "columnNumber": 12,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_right_child",
+        "columnNumber": 12,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "mul_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(1)",
+        "columnNumber": 49,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node->input(0)",
+        "columnNumber": 48,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 17,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 60,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 16,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "NodeDef* node",
+        "columnNumber": 66,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 50,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 28,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 7,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 36,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 66,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 43,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(1))",
+        "columnNumber": 30,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(0))",
+        "columnNumber": 30,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 12,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node",
+        "columnNumber": 48,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->input(1)",
+        "columnNumber": 50,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 17,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 67,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 44,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "*node_map_",
+        "columnNumber": 40,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 47,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 61,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "conv_node->input(0)",
+        "columnNumber": 49,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 42,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 29,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 49,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 49,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "left_child_is_constant ? mul_right_child : mul_left_child",
+        "columnNumber": 7,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      }
+    ],
+    "nodes": [
+      {
+        "code": "mul_left_child",
+        "columnNumber": 12,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "mul_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_right_child",
+        "columnNumber": 12,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(1))",
+        "columnNumber": 31,
+        "id": 30064771126,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(0))",
+        "columnNumber": 29,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_left_child",
+        "columnNumber": 12,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_right_child",
+        "columnNumber": 12,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "mul_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(1)",
+        "columnNumber": 49,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node->input(0)",
+        "columnNumber": 48,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 17,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 60,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 16,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "NodeDef* node",
+        "columnNumber": 66,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 50,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 28,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 7,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 36,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 66,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 43,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(1))",
+        "columnNumber": 30,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(0))",
+        "columnNumber": 30,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 12,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node",
+        "columnNumber": 48,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->input(1)",
+        "columnNumber": 50,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 17,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 67,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 44,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "*node_map_",
+        "columnNumber": 40,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 47,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 61,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "conv_node->input(0)",
+        "columnNumber": 49,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 42,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 29,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 49,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 49,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "left_child_is_constant ? mul_right_child : mul_left_child",
+        "columnNumber": 7,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476760,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771123
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 90194313226
+      },
+      {
+        "dst": 30064771123,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476760
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 90194313227
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      }
+    ],
+    "nodes": [
+      {
+        "code": "mul_left_child",
+        "columnNumber": 12,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "mul_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_right_child",
+        "columnNumber": 12,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(1))",
+        "columnNumber": 31,
+        "id": 30064771126,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(0))",
+        "columnNumber": 29,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_left_child",
+        "columnNumber": 12,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_left_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_right_child",
+        "columnNumber": 12,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "mul_right_child",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(1)",
+        "columnNumber": 49,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node->input(0)",
+        "columnNumber": 48,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 17,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 60,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 16,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "NodeDef* node",
+        "columnNumber": 66,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 50,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 28,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 7,
+        "id": 68719476760,
+        "label": "IDENTIFIER",
+        "lineNumber": 36,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "0",
+        "columnNumber": 66,
+        "id": 90194313226,
+        "label": "LITERAL",
+        "lineNumber": 43,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "node_map_->GetNode(node->input(1))",
+        "columnNumber": 30,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 17,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_->GetNode(conv_node->input(0))",
+        "columnNumber": 30,
+        "id": 30064771123,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 12,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node",
+        "columnNumber": 48,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->input(1)",
+        "columnNumber": 50,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 17,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 67,
+        "id": 90194313227,
+        "label": "LITERAL",
+        "lineNumber": 44,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "*node_map_",
+        "columnNumber": 40,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 47,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 61,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 17,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "conv_node->input(0)",
+        "columnNumber": 49,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 43,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 42,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 29,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 49,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 49,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "left_child_is_constant ? mul_right_child : mul_left_child",
+        "columnNumber": 7,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 25,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771194
+      },
+      {
+        "dst": 30064771195,
+        "label": "REACHING_DEF",
+        "src": 68719476836
+      },
+      {
+        "dst": 68719476782,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 30064771195
+      },
+      {
+        "dst": 68719476824,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 68719476832
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771198
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771195,
+        "label": "REACHING_DEF",
+        "src": 90194313245
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 30064771194
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476815
+      },
+      {
+        "dst": 30064771194,
+        "label": "REACHING_DEF",
+        "src": 30064771195
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 30064771199
+      },
+      {
+        "dst": 30064771199,
+        "label": "REACHING_DEF",
+        "src": 68719476840
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476831
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476830,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 90194313245
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476824,
+        "label": "REACHING_DEF",
+        "src": 68719476815
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 68719476840
+      },
+      {
+        "dst": 68719476843,
+        "label": "REACHING_DEF",
+        "src": 30064771199
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      },
+      {
+        "dst": 68719476820,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476829,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771194,
+        "label": "REACHING_DEF",
+        "src": 68719476834
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771127
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 68719476829
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 68719476830
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476820
+      },
+      {
+        "dst": 30064771198,
+        "label": "REACHING_DEF",
+        "src": 68719476843
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476819
+      },
+      {
+        "dst": 68719476820,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 30064771178
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 68719476832
+      },
+      {
+        "dst": 68719476828,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 68719476832
+      },
+      {
+        "dst": 68719476828,
+        "label": "REACHING_DEF",
+        "src": 68719476824
+      },
+      {
+        "dst": 68719476782,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476829,
+        "label": "REACHING_DEF",
+        "src": 30064771191
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476816,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771127,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 68719476828
+      },
+      {
+        "dst": 30064771195,
+        "label": "REACHING_DEF",
+        "src": 68719476837
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 68719476831
+      },
+      {
+        "dst": 30064771194,
+        "label": "REACHING_DEF",
+        "src": 68719476835
+      },
+      {
+        "dst": 30064771199,
+        "label": "REACHING_DEF",
+        "src": 68719476842
+      },
+      {
+        "dst": 68719476835,
+        "label": "REACHING_DEF",
+        "src": 68719476829
+      },
+      {
+        "dst": 30064771198,
+        "label": "REACHING_DEF",
+        "src": 68719476841
+      },
+      {
+        "dst": 30064771195,
+        "label": "REACHING_DEF",
+        "src": 30064771194
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476829,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476830,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 68719476824
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 90194313247
+      },
+      {
+        "dst": 30064771198,
+        "label": "REACHING_DEF",
+        "src": 68719476840
+      },
+      {
+        "dst": 30064771198,
+        "label": "REACHING_DEF",
+        "src": 30064771199
+      },
+      {
+        "dst": 68719476836,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771191,
+        "label": "REACHING_DEF",
+        "src": 68719476829
+      },
+      {
+        "dst": 68719476835,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476820,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 68719476843
+      },
+      {
+        "dst": 30064771199,
+        "label": "REACHING_DEF",
+        "src": 68719476843
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476835,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476830,
+        "label": "REACHING_DEF",
+        "src": 68719476782
+      },
+      {
+        "dst": 68719476835,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476819,
+        "label": "REACHING_DEF",
+        "src": 30064771099
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 68719476831
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 68719476828
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 30064771195
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476837,
+        "label": "REACHING_DEF",
+        "src": 68719476834
+      },
+      {
+        "dst": 68719476829,
+        "label": "REACHING_DEF",
+        "src": 68719476821
+      },
+      {
+        "dst": 30064771194,
+        "label": "REACHING_DEF",
+        "src": 68719476837
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 30064771198
+      },
+      {
+        "dst": 30064771199,
+        "label": "REACHING_DEF",
+        "src": 30064771198
+      },
+      {
+        "dst": 68719476834,
+        "label": "REACHING_DEF",
+        "src": 68719476837
+      },
+      {
+        "dst": 68719476840,
+        "label": "REACHING_DEF",
+        "src": 68719476824
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771195,
+        "label": "REACHING_DEF",
+        "src": 68719476834
+      },
+      {
+        "dst": 68719476829,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771191,
+        "label": "REACHING_DEF",
+        "src": 68719476830
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771199,
+        "label": "REACHING_DEF",
+        "src": 90194313247
+      }
+    ],
+    "nodes": [
+      {
+        "code": "node_map_",
+        "columnNumber": 7,
+        "id": 68719476815,
+        "label": "IDENTIFIER",
+        "lineNumber": 85,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node->name()",
+        "columnNumber": 28,
+        "id": 30064771198,
+        "label": "CALL",
+        "lineNumber": 105,
+        "name": "name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node_map_",
+        "columnNumber": 40,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 47,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "AddPrefixToNodeName(\"merged_input\", conv_node->name())",
+        "columnNumber": 25,
+        "id": 30064771178,
+        "label": "CALL",
+        "lineNumber": 84,
+        "name": "AddPrefixToNodeName",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 42,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 44,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 59,
+        "id": 90194313245,
+        "label": "LITERAL",
+        "lineNumber": 102,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "mul_new_name",
+        "columnNumber": 18,
+        "id": 68719476832,
+        "label": "IDENTIFIER",
+        "lineNumber": 100,
+        "name": "mul_new_name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 28,
+        "id": 68719476835,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476819,
+        "label": "IDENTIFIER",
+        "lineNumber": 91,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 5,
+        "id": 68719476834,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 31,
+        "id": 68719476824,
+        "label": "IDENTIFIER",
+        "lineNumber": 93,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 26,
+        "id": 68719476828,
+        "label": "IDENTIFIER",
+        "lineNumber": 96,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node->name()",
+        "columnNumber": 23,
+        "id": 30064771191,
+        "label": "CALL",
+        "lineNumber": 99,
+        "name": "name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 28,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 58,
+        "id": 68719476782,
+        "label": "IDENTIFIER",
+        "lineNumber": 55,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node",
+        "columnNumber": 3,
+        "id": 68719476831,
+        "label": "IDENTIFIER",
+        "lineNumber": 100,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "1",
+        "columnNumber": 59,
+        "id": 90194313247,
+        "label": "LITERAL",
+        "lineNumber": 105,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 31,
+        "id": 68719476821,
+        "label": "IDENTIFIER",
+        "lineNumber": 92,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(0)",
+        "columnNumber": 47,
+        "id": 30064771195,
+        "label": "CALL",
+        "lineNumber": 102,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mul_new_name",
+        "columnNumber": 10,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 84,
+        "name": "mul_new_name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "node",
+        "columnNumber": 47,
+        "id": 68719476836,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->input(1)",
+        "columnNumber": 50,
+        "id": 30064771127,
+        "label": "CALL",
+        "lineNumber": 44,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 3,
+        "id": 68719476829,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "*conv_node",
+        "columnNumber": 17,
+        "id": 30064771099,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 47,
+        "id": 68719476842,
+        "label": "IDENTIFIER",
+        "lineNumber": 105,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "conv_node->name()",
+        "columnNumber": 28,
+        "id": 30064771194,
+        "label": "CALL",
+        "lineNumber": 102,
+        "name": "name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 53,
+        "id": 68719476820,
+        "label": "IDENTIFIER",
+        "lineNumber": 91,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_new_name",
+        "columnNumber": 63,
+        "id": 68719476843,
+        "label": "IDENTIFIER",
+        "lineNumber": 105,
+        "name": "mul_new_name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "*node",
+        "columnNumber": 17,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 14,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "conv_node",
+        "columnNumber": 28,
+        "id": 68719476841,
+        "label": "IDENTIFIER",
+        "lineNumber": 105,
+        "name": "conv_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "mul_new_name",
+        "columnNumber": 63,
+        "id": 68719476837,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "mul_new_name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "mul_new_name",
+        "columnNumber": 29,
+        "id": 68719476816,
+        "label": "IDENTIFIER",
+        "lineNumber": 85,
+        "name": "mul_new_name",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "string"
+      },
+      {
+        "code": "node",
+        "columnNumber": 23,
+        "id": 68719476830,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "node->input(1)",
+        "columnNumber": 47,
+        "id": 30064771199,
+        "label": "CALL",
+        "lineNumber": 105,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 30,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 43,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node_map_",
+        "columnNumber": 5,
+        "id": 68719476840,
+        "label": "IDENTIFIER",
+        "lineNumber": 105,
+        "name": "node_map_",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195274.cpp",
+        "parentMethod": "ConstantFolding.MulConvPushDown:bool(GraphDef*,NodeDef*,GraphProperties&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

@@ -1,0 +1,443 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476775,
+      "label": "REACHING_DEF",
+      "src": 68719476776
+    },
+    {
+      "dst": 68719476775,
+      "label": "REACHING_DEF",
+      "src": 68719476766
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 30064771091
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476776
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476780
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476776
+    },
+    {
+      "dst": 68719476775,
+      "label": "REACHING_DEF",
+      "src": 68719476771
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 30064771087
+    },
+    {
+      "dst": 30064771125,
+      "label": "REACHING_DEF",
+      "src": 90194313250
+    },
+    {
+      "dst": 68719476776,
+      "label": "REACHING_DEF",
+      "src": 68719476775
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 68719476752
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 68719476752
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 68719476754
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476766
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476766
+    },
+    {
+      "dst": 68719476752,
+      "label": "REACHING_DEF",
+      "src": 30064771087
+    },
+    {
+      "dst": 68719476754,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 68719476766,
+      "label": "REACHING_DEF",
+      "src": 68719476765
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 68719476776,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 68719476776,
+      "label": "REACHING_DEF",
+      "src": 68719476766
+    },
+    {
+      "dst": 68719476779,
+      "label": "REACHING_DEF",
+      "src": 30064771127
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 68719476753
+    },
+    {
+      "dst": 68719476776,
+      "label": "REACHING_DEF",
+      "src": 68719476771
+    },
+    {
+      "dst": 68719476770,
+      "label": "REACHING_DEF",
+      "src": 68719476769
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 68719476780
+    },
+    {
+      "dst": 68719476765,
+      "label": "REACHING_DEF",
+      "src": 68719476771
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476771
+    },
+    {
+      "dst": 68719476771,
+      "label": "REACHING_DEF",
+      "src": 68719476770
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 68719476779,
+      "label": "REACHING_DEF",
+      "src": 68719476754
+    },
+    {
+      "dst": 68719476775,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    }
+  ],
+  "nodes": [
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476771,
+      "label": "IDENTIFIER",
+      "lineNumber": 42,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "q - out_str",
+      "columnNumber": 22,
+      "id": 30064771127,
+      "label": "CALL",
+      "lineNumber": 54,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "q",
+      "columnNumber": 10,
+      "id": 68719476775,
+      "label": "IDENTIFIER",
+      "lineNumber": 47,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476770,
+      "label": "IDENTIFIER",
+      "lineNumber": 41,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "ret",
+      "columnNumber": 10,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 20,
+      "name": "ret",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "String"
+    },
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476776,
+      "label": "IDENTIFIER",
+      "lineNumber": 48,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(4 * str.size() + 1, ReserveString)",
+      "columnNumber": 13,
+      "id": 30064771086,
+      "label": "CALL",
+      "lineNumber": 20,
+      "name": "<operator>.constructorInitializer",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ret",
+      "columnNumber": 10,
+      "id": 68719476779,
+      "label": "IDENTIFIER",
+      "lineNumber": 54,
+      "name": "ret",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "String"
+    },
+    {
+      "code": "ReserveString",
+      "columnNumber": 34,
+      "id": 68719476752,
+      "label": "IDENTIFIER",
+      "lineNumber": 20,
+      "name": "ReserveString",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "4 * str.size() + 1",
+      "columnNumber": 14,
+      "id": 30064771087,
+      "label": "CALL",
+      "lineNumber": 20,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "out_str",
+      "columnNumber": 26,
+      "id": 68719476781,
+      "label": "IDENTIFIER",
+      "lineNumber": 54,
+      "name": "out_str",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "*q",
+      "columnNumber": 3,
+      "id": 30064771125,
+      "label": "CALL",
+      "lineNumber": 52,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "out_str",
+      "columnNumber": 9,
+      "id": 68719476753,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "out_str",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "ret.mutableData()",
+      "columnNumber": 19,
+      "id": 30064771091,
+      "label": "CALL",
+      "lineNumber": 21,
+      "name": "mutableData",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "q",
+      "columnNumber": 20,
+      "id": 68719476757,
+      "label": "IDENTIFIER",
+      "lineNumber": 26,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "'\\0'",
+      "columnNumber": 8,
+      "id": 90194313250,
+      "label": "LITERAL",
+      "lineNumber": 52,
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char"
+    },
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476765,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "out_str",
+      "columnNumber": 24,
+      "id": 68719476758,
+      "label": "IDENTIFIER",
+      "lineNumber": 26,
+      "name": "out_str",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476769,
+      "label": "IDENTIFIER",
+      "lineNumber": 40,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "q",
+      "columnNumber": 22,
+      "id": 68719476780,
+      "label": "IDENTIFIER",
+      "lineNumber": 54,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "q",
+      "columnNumber": 8,
+      "id": 68719476766,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "q",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "ret",
+      "columnNumber": 19,
+      "id": 68719476754,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "ret",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_194999.cpp",
+      "parentMethod": "preg_quote:String(String&,String&)",
+      "typeFullName": "String"
+    }
+  ]
+}

@@ -1,0 +1,2613 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "m->B",
+        "columnNumber": 40,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "2",
+        "columnNumber": 25,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 22,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 46,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 23,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "m->B",
+        "columnNumber": 59,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 43,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "size_t digest_size",
+        "columnNumber": 22,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 7,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 45,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp_limb_t *rp",
+        "columnNumber": 7,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 26,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 27,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 21,
+        "id": 90194313222,
+        "label": "LITERAL",
+        "lineNumber": 25,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 65,
+        "id": 30064771105,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest",
+        "columnNumber": 35,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "mod",
+        "columnNumber": 3,
+        "id": 55834574858,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 29,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash"
+      },
+      {
+        "code": "(8*digest_size + GMP_NUMB_BITS - 1) / GMP_NUMB_BITS",
+        "columnNumber": 22,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.division",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 17,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 18,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 31,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const struct ecc_modulo *m",
+        "columnNumber": 14,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "2",
+        "columnNumber": 16,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 15,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "const uint8_t *digest",
+        "columnNumber": 42,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 27,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 14,
+        "id": 30064771110,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 13,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 25,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "8",
+        "columnNumber": 23,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 29,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 55,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 27,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 27,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 21,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m",
+        "columnNumber": 11,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "m",
+        "columnNumber": 3,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 30064771113
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 30064771121
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771121,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "rp",
+        "columnNumber": 23,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "m->B",
+        "columnNumber": 59,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 43,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "size_t digest_size",
+        "columnNumber": 22,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "cy",
+        "columnNumber": 13,
+        "id": 68719476778,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "cy",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 45,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 26,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 27,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 65,
+        "id": 30064771105,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest",
+        "columnNumber": 35,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 19,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "m->B",
+        "columnNumber": 40,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 17,
+        "id": 68719476779,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "cy",
+        "columnNumber": 3,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "cy",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "(8*digest_size + GMP_NUMB_BITS - 1) / GMP_NUMB_BITS",
+        "columnNumber": 22,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.division",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 46,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 23,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 18,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 31,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const struct ecc_modulo *m",
+        "columnNumber": 14,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "2",
+        "columnNumber": 16,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 15,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "const uint8_t *digest",
+        "columnNumber": 42,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 27,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 14,
+        "id": 30064771110,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 13,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 25,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "8",
+        "columnNumber": 23,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 29,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "mpn_sub_n (rp, rp + m->size, m->m, m->size)",
+        "columnNumber": 8,
+        "id": 30064771113,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "mpn_sub_n",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp_limb_t *rp",
+        "columnNumber": 7,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 55,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 27,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 35,
+        "id": 30064771121,
+        "label": "CALL",
+        "lineNumber": 32,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m",
+        "columnNumber": 11,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 21,
+        "id": 30064771119,
+        "label": "CALL",
+        "lineNumber": 32,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->m",
+        "columnNumber": 37,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 43,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 30064771113
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476756
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771105
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771110,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476756,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771113,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771116
+      },
+      {
+        "dst": 30064771105,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771110
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771116,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "2",
+        "columnNumber": 25,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 22,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 23,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "m->B",
+        "columnNumber": 59,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 43,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "size_t digest_size",
+        "columnNumber": 22,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 7,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 45,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 26,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 27,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 21,
+        "id": 90194313222,
+        "label": "LITERAL",
+        "lineNumber": 25,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 65,
+        "id": 30064771105,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "digest",
+        "columnNumber": 35,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 19,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "m->B",
+        "columnNumber": 40,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cy",
+        "columnNumber": 3,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "cy",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "(8*digest_size + GMP_NUMB_BITS - 1) / GMP_NUMB_BITS",
+        "columnNumber": 22,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.division",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 46,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 24,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 23,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 17,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 21,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 18,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 31,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const struct ecc_modulo *m",
+        "columnNumber": 14,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "2",
+        "columnNumber": 16,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 15,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 25,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "const uint8_t *digest",
+        "columnNumber": 42,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "digest",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "uint8_t*"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 27,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "rp + m->size",
+        "columnNumber": 14,
+        "id": 30064771110,
+        "label": "CALL",
+        "lineNumber": 29,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nlimbs",
+        "columnNumber": 13,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "nlimbs",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_size_t"
+      },
+      {
+        "code": "digest_size",
+        "columnNumber": 25,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "digest_size",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "8",
+        "columnNumber": 23,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "int"
+      },
+      {
+        "code": "rp",
+        "columnNumber": 29,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "mpn_sub_n (rp, rp + m->size, m->m, m->size)",
+        "columnNumber": 8,
+        "id": 30064771113,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "mpn_sub_n",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "mp_limb_t *rp",
+        "columnNumber": 7,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "rp",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t*"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 55,
+        "id": 68719476756,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "hi",
+        "columnNumber": 27,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "hi",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "mp_limb_t"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 27,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 21,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m",
+        "columnNumber": 11,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "m",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ecc_modulo*"
+      },
+      {
+        "code": "m->m",
+        "columnNumber": 37,
+        "id": 30064771116,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "m->size",
+        "columnNumber": 43,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499623.c",
+        "parentMethod": "_eddsa_hash",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

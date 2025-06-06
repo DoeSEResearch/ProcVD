@@ -1,0 +1,43 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    }
+  ],
+  "nodes": [
+    {
+      "code": "adata",
+      "columnNumber": 9,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "adata",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_233855.c",
+      "parentMethod": "fmtutil_atari_set_standard_density",
+      "typeFullName": "atari_img_decode_data*"
+    },
+    {
+      "code": "struct atari_img_decode_data *adata",
+      "columnNumber": 51,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "adata",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_233855.c",
+      "parentMethod": "fmtutil_atari_set_standard_density",
+      "typeFullName": "atari_img_decode_data*"
+    },
+    {
+      "code": "bpp",
+      "columnNumber": 9,
+      "id": 55834574848,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 4,
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_233855.c",
+      "parentMethod": "fmtutil_atari_set_standard_density"
+    }
+  ]
+}

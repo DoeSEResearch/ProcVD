@@ -1,0 +1,1160 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      }
+    ],
+    "nodes": [
+      {
+        "code": "data_size",
+        "columnNumber": 15,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "size_t data_size",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "read_le16(&buffer->length)",
+        "columnNumber": 20,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&buffer->length",
+        "columnNumber": 30,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "length",
+        "columnNumber": 11,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      }
+    ],
+    "nodes": [
+      {
+        "code": "data_size",
+        "columnNumber": 15,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "&buffer->offset",
+        "columnNumber": 30,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "size_t data_size",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "read_le32(&buffer->offset)",
+        "columnNumber": 20,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "read_le32",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "length",
+        "columnNumber": 11,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "data_size",
+        "columnNumber": 16,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 6,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "const struct ntlmssp_buffer *buffer",
+        "columnNumber": 34,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ntlmssp_buffer*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "data_size",
+        "columnNumber": 15,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "&buffer->offset",
+        "columnNumber": 30,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "size_t data_size",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "offset + space",
+        "columnNumber": 6,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "space",
+        "columnNumber": 21,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "data_size",
+        "columnNumber": 23,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "&buffer->space",
+        "columnNumber": 29,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "read_le32(&buffer->offset)",
+        "columnNumber": 20,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "read_le32",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "read_le16(&buffer->space)",
+        "columnNumber": 19,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "data_size",
+        "columnNumber": 16,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 6,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "space",
+        "columnNumber": 11,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "const struct ntlmssp_buffer *buffer",
+        "columnNumber": 34,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ntlmssp_buffer*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "data_size",
+        "columnNumber": 15,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "&buffer->offset",
+        "columnNumber": 30,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "size_t data_size",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "data_size",
+        "columnNumber": 23,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 22,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "&buffer->space",
+        "columnNumber": 29,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "read_le32(&buffer->offset)",
+        "columnNumber": 20,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "read_le32",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "read_le16(&buffer->space)",
+        "columnNumber": 19,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "length",
+        "columnNumber": 11,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "data_size",
+        "columnNumber": 16,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "data_size",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "offset",
+        "columnNumber": 6,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "offset",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint32_t"
+      },
+      {
+        "code": "space",
+        "columnNumber": 11,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "const struct ntlmssp_buffer *buffer",
+        "columnNumber": 34,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "buffer",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ntlmssp_buffer*"
+      },
+      {
+        "code": "offset + space",
+        "columnNumber": 6,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 22,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "read_le16(&buffer->length)",
+        "columnNumber": 20,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&buffer->length",
+        "columnNumber": 30,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "space",
+        "columnNumber": 21,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 30064771086
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771082
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      }
+    ],
+    "nodes": [
+      {
+        "code": "length",
+        "columnNumber": 6,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "space == 0",
+        "columnNumber": 21,
+        "id": 30064771086,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "read_le16(&buffer->length)",
+        "columnNumber": 20,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&buffer->space",
+        "columnNumber": 29,
+        "id": 30064771082,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "length == 0",
+        "columnNumber": 6,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "read_le16(&buffer->space)",
+        "columnNumber": 19,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "read_le16",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "length",
+        "columnNumber": 11,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "length",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "space",
+        "columnNumber": 11,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      },
+      {
+        "code": "0",
+        "columnNumber": 16,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 9,
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "int"
+      },
+      {
+        "code": "&buffer->length",
+        "columnNumber": 30,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "space",
+        "columnNumber": 21,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "space",
+        "parentFile": "code_PrimeVul_balanced_valid_506421.c",
+        "parentMethod": "ntlmssp_check_buffer",
+        "typeFullName": "uint16_t"
+      }
+    ]
+  }
+]

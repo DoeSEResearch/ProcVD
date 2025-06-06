@@ -1,0 +1,87 @@
+{
+  "idx": "195023",
+  "total_critical_nodes": 5,
+  "processed_nodes": 5,
+  "slices": [
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "Shape Validation",
+        "code_reference": "TensorShapeUtils::IsMatrix(input_indices->shape()), TensorShapeUtils::IsVector(input_values->shape()), TensorShapeUtils::IsVector(input_shape->shape())",
+        "line_start": 10,
+        "line_end": 18,
+        "confidence": 0.95,
+        "rationale": "Critical for preventing crashes or undefined behavior due to malformed input tensors. Lack of validation leads to potential out-of-bounds access and type confusion, making it a trigger for exploitable vulnerabilities.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 1,
+        "selection_reason": "top_after_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "MultiplyWithoutOverflow",
+        "code_reference": "MultiplyWithoutOverflow(new_num_elements, input_shape_vec(i))",
+        "line_start": 40,
+        "line_end": 46,
+        "confidence": 0.95,
+        "rationale": "A critical security mechanism. Prevents integer overflows when calculating the number of elements in the tensor. Integer overflow leads to undersized buffer allocation and subsequent heap overflows during data writes, a direct path to exploitation.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 2,
+        "selection_reason": "top_after_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "Overflow Check",
+        "code_reference": "!overflow_ocurred",
+        "line_start": 48,
+        "line_end": 50,
+        "confidence": 0.95,
+        "rationale": "Essential security control. Prevents computation from proceeding if `MultiplyWithoutOverflow` detects an overflow. Failing this check means continuing with corrupted shape information, directly leading to memory corruption or denial of service.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 3,
+        "selection_reason": "top_after_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "F_",
+        "name": "IndicesValid",
+        "code_reference": "input_st.IndicesValid()",
+        "line_start": 64,
+        "line_end": 64,
+        "confidence": 0.95,
+        "rationale": "Critical check to validate indices. Out-of-bounds indices are a direct path to memory corruption, making this a vital defense.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 4,
+        "selection_reason": "top_after_threshold"
+      },
+      "slice_data": {}
+    },
+    {
+      "critical_node": {
+        "type": "C_",
+        "name": "Batch index check",
+        "code_reference": "b > -1 && b < N",
+        "line_start": 79,
+        "line_end": 82,
+        "confidence": 0.95,
+        "rationale": "Validates the minibatch index `b`. Without this check, `sparse_handles_t(b)` becomes vulnerable to out-of-bounds write, leading to memory corruption. Acts as a crucial boundary protection.",
+        "original_confidence": 0.95,
+        "filtered_confidence": 0.95,
+        "confidence_rank": 5,
+        "selection_reason": "top_after_threshold"
+      },
+      "slice_data": {}
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "s",
+        "columnNumber": 31,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "s",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "GF_Box *s",
+        "columnNumber": 23,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "s",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "bs",
+        "columnNumber": 19,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "bs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_BitStream*"
+      },
+      {
+        "code": "ptr",
+        "columnNumber": 28,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "ptr",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_LASERConfigurationBox*"
+      },
+      {
+        "code": "ptr->hdr_size",
+        "columnNumber": 33,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hdr_size",
+        "columnNumber": 33,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write"
+      },
+      {
+        "code": "ptr",
+        "columnNumber": 33,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "ptr",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_LASERConfigurationBox*"
+      },
+      {
+        "code": "GF_BitStream *bs",
+        "columnNumber": 34,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "bs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_BitStream*"
+      },
+      {
+        "code": "ptr->hdr",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(GF_LASERConfigurationBox *)s",
+        "columnNumber": 34,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "bs",
+        "columnNumber": 34,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "bs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_BitStream*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      }
+    ],
+    "nodes": [
+      {
+        "code": "s",
+        "columnNumber": 31,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "s",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "GF_BitStream *bs",
+        "columnNumber": 34,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "bs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_BitStream*"
+      },
+      {
+        "code": "e",
+        "columnNumber": 2,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "e",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_Err"
+      },
+      {
+        "code": "bs",
+        "columnNumber": 34,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "bs",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_BitStream*"
+      },
+      {
+        "code": "GF_Box *s",
+        "columnNumber": 23,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "s",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "GF_Box*"
+      },
+      {
+        "code": "gf_isom_box_write_header(s, bs)",
+        "columnNumber": 6,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "gf_isom_box_write_header",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_244298.c",
+        "parentMethod": "lsrc_box_write",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

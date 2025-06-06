@@ -1,0 +1,1683 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771089,
+      "label": "REACHING_DEF",
+      "src": 30064771111
+    },
+    {
+      "dst": 30064771102,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 30064771111
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 68719476747,
+      "label": "REACHING_DEF",
+      "src": 30064771100
+    },
+    {
+      "dst": 30064771100,
+      "label": "REACHING_DEF",
+      "src": 68719476747
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 30064771113
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 90194313243
+    },
+    {
+      "dst": 30064771089,
+      "label": "REACHING_DEF",
+      "src": 30064771118
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    },
+    {
+      "dst": 30064771115,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 30064771114,
+      "label": "REACHING_DEF",
+      "src": 68719476753
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 90194313223
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 90194313231
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 90194313239
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 30064771124
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 90194313223
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 90194313246
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 30064771107
+    },
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 30064771108,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 30064771115,
+      "label": "REACHING_DEF",
+      "src": 30064771120
+    },
+    {
+      "dst": 30064771111,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 90194313227
+    },
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 90194313228
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 90194313245
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 30064771111
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 30064771092
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 90194313222
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 30064771085
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771115
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 90194313227
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 30064771079
+    },
+    {
+      "dst": 30064771113,
+      "label": "REACHING_DEF",
+      "src": 90194313240
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    },
+    {
+      "dst": 30064771116,
+      "label": "REACHING_DEF",
+      "src": 90194313244
+    },
+    {
+      "dst": 30064771089,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 90194313230
+    },
+    {
+      "dst": 30064771111,
+      "label": "REACHING_DEF",
+      "src": 90194313237
+    },
+    {
+      "dst": 30064771089,
+      "label": "REACHING_DEF",
+      "src": 90194313226
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 90194313242
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 30064771089
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 90194313228
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 30064771079
+    },
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 30064771102
+    },
+    {
+      "dst": 30064771079,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 90194313234
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771115,
+      "label": "REACHING_DEF",
+      "src": 30064771116
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 90194313238
+    },
+    {
+      "dst": 30064771100,
+      "label": "REACHING_DEF",
+      "src": 90194313232
+    },
+    {
+      "dst": 30064771113,
+      "label": "REACHING_DEF",
+      "src": 30064771091
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 30064771091
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 30064771118
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 30064771084
+    },
+    {
+      "dst": 30064771116,
+      "label": "REACHING_DEF",
+      "src": 30064771120
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 68719476755
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 90194313232
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 30064771113
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 90194313244
+    },
+    {
+      "dst": 30064771102,
+      "label": "REACHING_DEF",
+      "src": 30064771075
+    },
+    {
+      "dst": 30064771093,
+      "label": "REACHING_DEF",
+      "src": 30064771094
+    },
+    {
+      "dst": 30064771089,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 90194313230
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 30064771084
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 30064771111
+    },
+    {
+      "dst": 30064771102,
+      "label": "REACHING_DEF",
+      "src": 30064771103
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 30064771087
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 90194313234
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 30064771108
+    },
+    {
+      "dst": 30064771099,
+      "label": "REACHING_DEF",
+      "src": 30064771094
+    },
+    {
+      "dst": 30064771114,
+      "label": "REACHING_DEF",
+      "src": 90194313239
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 30064771115
+    },
+    {
+      "dst": 30064771111,
+      "label": "REACHING_DEF",
+      "src": 30064771089
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 90194313231
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771109,
+      "label": "REACHING_DEF",
+      "src": 30064771110
+    },
+    {
+      "dst": 30064771114,
+      "label": "REACHING_DEF",
+      "src": 90194313240
+    },
+    {
+      "dst": 30064771120,
+      "label": "REACHING_DEF",
+      "src": 30064771116
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771099
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    },
+    {
+      "dst": 30064771109,
+      "label": "REACHING_DEF",
+      "src": 90194313238
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 90194313226
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771120,
+      "label": "REACHING_DEF",
+      "src": 90194313246
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 30064771099,
+      "label": "REACHING_DEF",
+      "src": 68719476747
+    },
+    {
+      "dst": 30064771099,
+      "label": "REACHING_DEF",
+      "src": 30064771100
+    },
+    {
+      "dst": 68719476747,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 30064771100,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 30064771078,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 30064771109,
+      "label": "REACHING_DEF",
+      "src": 30064771108
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 30064771104
+    },
+    {
+      "dst": 30064771111,
+      "label": "REACHING_DEF",
+      "src": 30064771118
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 90194313222
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 90194313221
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 90194313236
+    },
+    {
+      "dst": 30064771107,
+      "label": "REACHING_DEF",
+      "src": 30064771109
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 30064771088
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 30064771091
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 90194313221
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 90194313219
+    },
+    {
+      "dst": 30064771093,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 30064771113,
+      "label": "REACHING_DEF",
+      "src": 30064771107
+    },
+    {
+      "dst": 30064771111,
+      "label": "REACHING_DEF",
+      "src": 90194313236
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 90194313242
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 30064771089
+    },
+    {
+      "dst": 30064771108,
+      "label": "REACHING_DEF",
+      "src": 30064771109
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 30064771089
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 90194313219
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 30064771087
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771103
+    },
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 30064771104
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 30064771118
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771089
+    },
+    {
+      "dst": 30064771120,
+      "label": "REACHING_DEF",
+      "src": 30064771121
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771113,
+      "label": "REACHING_DEF",
+      "src": 30064771114
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 30064771078
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 30064771113
+    },
+    {
+      "dst": 68719476755,
+      "label": "REACHING_DEF",
+      "src": 90194313245
+    },
+    {
+      "dst": 30064771093,
+      "label": "REACHING_DEF",
+      "src": 30064771099
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771079,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    },
+    {
+      "dst": 30064771110,
+      "label": "REACHING_DEF",
+      "src": 90194313237
+    },
+    {
+      "dst": 30064771116,
+      "label": "REACHING_DEF",
+      "src": 30064771117
+    },
+    {
+      "dst": 30064771118,
+      "label": "REACHING_DEF",
+      "src": 90194313243
+    }
+  ],
+  "nodes": [
+    {
+      "code": "name",
+      "columnNumber": 7,
+      "id": 68719476757,
+      "label": "IDENTIFIER",
+      "lineNumber": 22,
+      "name": "name",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "7",
+      "columnNumber": 39,
+      "id": 90194313237,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "strncmp (&name[2], \"ORIGIN}\", 7) == 0",
+      "columnNumber": 9,
+      "id": 30064771109,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "7",
+      "columnNumber": 57,
+      "id": 90194313222,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "len",
+      "columnNumber": 13,
+      "id": 68719476755,
+      "label": "IDENTIFIER",
+      "lineNumber": 19,
+      "name": "len",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "len",
+      "columnNumber": 53,
+      "id": 68719476742,
+      "label": "IDENTIFIER",
+      "lineNumber": 12,
+      "name": "len",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "strncmp (&name[2], \"ORIGIN}\", 7)",
+      "columnNumber": 9,
+      "id": 30064771110,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "strncmp",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[1], \"ORIGIN\", 6) == 0",
+      "columnNumber": 10,
+      "id": 30064771080,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[len]",
+      "columnNumber": 30,
+      "id": 30064771098,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "len",
+      "columnNumber": 51,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 11,
+      "name": "len",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "name[1]",
+      "columnNumber": 8,
+      "id": 30064771104,
+      "label": "CALL",
+      "lineNumber": 15,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "len = 11",
+      "columnNumber": 13,
+      "id": 30064771121,
+      "label": "CALL",
+      "lineNumber": 19,
+      "name": "<operator>.assignment",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 47,
+      "id": 90194313244,
+      "label": "LITERAL",
+      "lineNumber": 18,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "__libc_enable_secure",
+      "columnNumber": 15,
+      "id": 68719476738,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "__libc_enable_secure",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[1], \"PLATFORM\", 8) == 0",
+      "columnNumber": 10,
+      "id": 30064771087,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 45,
+      "id": 90194313238,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0",
+      "columnNumber": 65,
+      "id": 90194313229,
+      "label": "LITERAL",
+      "lineNumber": 12,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "__libc_enable_secure",
+      "columnNumber": 14,
+      "id": 68719476751,
+      "label": "IDENTIFIER",
+      "lineNumber": 16,
+      "name": "__libc_enable_secure",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(len = 11) != 0",
+      "columnNumber": 12,
+      "id": 30064771120,
+      "label": "CALL",
+      "lineNumber": 19,
+      "name": "<operator>.notEquals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'{'",
+      "columnNumber": 19,
+      "id": 90194313234,
+      "label": "LITERAL",
+      "lineNumber": 15,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char"
+    },
+    {
+      "code": "!__libc_enable_secure\n\t     && strncmp (&name[1], \"ORIGIN\", 6) == 0",
+      "columnNumber": 14,
+      "id": 30064771078,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 26,
+      "id": 90194313246,
+      "label": "LITERAL",
+      "lineNumber": 19,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "name[len] == '/'",
+      "columnNumber": 30,
+      "id": 30064771097,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[1], \"PLATFORM\", 8)",
+      "columnNumber": 10,
+      "id": 30064771088,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "strncmp",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 63,
+      "id": 90194313240,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "':'",
+      "columnNumber": 37,
+      "id": 90194313232,
+      "label": "LITERAL",
+      "lineNumber": 14,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char"
+    },
+    {
+      "code": "strncmp (&name[2], \"PLATFORM}\", 9) == 0\n\t\t      && (len = 11) != 0",
+      "columnNumber": 9,
+      "id": 30064771115,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(!__libc_enable_secure\n\t     && strncmp (&name[1], \"ORIGIN\", 6) == 0 && (len = 7) != 0)\n\t    || (strncmp (&name[1], \"PLATFORM\", 8) == 0 && (len = 9) != 0)",
+      "columnNumber": 13,
+      "id": 30064771076,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.logicalOr",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "11",
+      "columnNumber": 19,
+      "id": 90194313245,
+      "label": "LITERAL",
+      "lineNumber": 19,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "name[len] == ':'",
+      "columnNumber": 24,
+      "id": 30064771100,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 47,
+      "id": 90194313227,
+      "label": "LITERAL",
+      "lineNumber": 12,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "(len = 9) != 0",
+      "columnNumber": 52,
+      "id": 30064771091,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.notEquals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'\\0'",
+      "columnNumber": 22,
+      "id": 90194313230,
+      "label": "LITERAL",
+      "lineNumber": 13,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char"
+    },
+    {
+      "code": "!__libc_enable_secure\n\t\t   && strncmp (&name[2], \"ORIGIN}\", 7) == 0",
+      "columnNumber": 13,
+      "id": 30064771107,
+      "label": "CALL",
+      "lineNumber": 16,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "8",
+      "columnNumber": 41,
+      "id": 90194313226,
+      "label": "LITERAL",
+      "lineNumber": 12,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "((!__libc_enable_secure\n\t     && strncmp (&name[1], \"ORIGIN\", 6) == 0 && (len = 7) != 0)\n\t    || (strncmp (&name[1], \"PLATFORM\", 8) == 0 && (len = 9) != 0))\n\t   && (name[len] == '\\0' || name[len] == '/'\n\t       || (is_path && name[len] == ':'))",
+      "columnNumber": 12,
+      "id": 30064771075,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"ORIGIN\"",
+      "columnNumber": 29,
+      "id": 90194313219,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "!__libc_enable_secure\n\t\t   && strncmp (&name[2], \"ORIGIN}\", 7) == 0 && (len = 9) != 0",
+      "columnNumber": 13,
+      "id": 30064771106,
+      "label": "CALL",
+      "lineNumber": 16,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "6",
+      "columnNumber": 39,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "len",
+      "columnNumber": 51,
+      "id": 68719476753,
+      "label": "IDENTIFIER",
+      "lineNumber": 17,
+      "name": "len",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "name[len] == '\\0' || name[len] == '/'",
+      "columnNumber": 9,
+      "id": 30064771094,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.logicalOr",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "9",
+      "columnNumber": 57,
+      "id": 90194313239,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "'/'",
+      "columnNumber": 43,
+      "id": 90194313231,
+      "label": "LITERAL",
+      "lineNumber": 13,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char"
+    },
+    {
+      "code": "const char *name",
+      "columnNumber": 16,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "name",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "\"PLATFORM\"",
+      "columnNumber": 29,
+      "id": 90194313225,
+      "label": "LITERAL",
+      "lineNumber": 12,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "len = 7",
+      "columnNumber": 51,
+      "id": 30064771085,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "<operator>.assignment",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&name[2]",
+      "columnNumber": 18,
+      "id": 30064771118,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 63,
+      "id": 90194313223,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "name[1] == '{'\n\t      && ((!__libc_enable_secure\n\t\t   && strncmp (&name[2], \"ORIGIN}\", 7) == 0 && (len = 9) != 0)\n\t\t  || (strncmp (&name[2], \"PLATFORM}\", 9) == 0\n\t\t      && (len = 11) != 0))",
+      "columnNumber": 8,
+      "id": 30064771102,
+      "label": "CALL",
+      "lineNumber": 15,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"ORIGIN}\"",
+      "columnNumber": 28,
+      "id": 90194313236,
+      "label": "LITERAL",
+      "lineNumber": 17,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(len = 9) != 0",
+      "columnNumber": 50,
+      "id": 30064771113,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "<operator>.notEquals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[len]",
+      "columnNumber": 9,
+      "id": 30064771096,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "is_path && name[len] == ':'",
+      "columnNumber": 13,
+      "id": 30064771099,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&name[1]",
+      "columnNumber": 19,
+      "id": 30064771089,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[1], \"PLATFORM\", 8) == 0 && (len = 9) != 0",
+      "columnNumber": 10,
+      "id": 30064771086,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 45,
+      "id": 90194313221,
+      "label": "LITERAL",
+      "lineNumber": 11,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "(len = 7) != 0",
+      "columnNumber": 50,
+      "id": 30064771084,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "<operator>.notEquals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&name[1]",
+      "columnNumber": 19,
+      "id": 30064771082,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[len] == '\\0'",
+      "columnNumber": 9,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "9",
+      "columnNumber": 41,
+      "id": 90194313243,
+      "label": "LITERAL",
+      "lineNumber": 18,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "is_path",
+      "columnNumber": 13,
+      "id": 68719476747,
+      "label": "IDENTIFIER",
+      "lineNumber": 14,
+      "name": "is_path",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "!__libc_enable_secure\n\t     && strncmp (&name[1], \"ORIGIN\", 6) == 0 && (len = 7) != 0",
+      "columnNumber": 14,
+      "id": 30064771077,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.logicalAnd",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "len = 9",
+      "columnNumber": 51,
+      "id": 30064771114,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "<operator>.assignment",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(!__libc_enable_secure\n\t\t   && strncmp (&name[2], \"ORIGIN}\", 7) == 0 && (len = 9) != 0)\n\t\t  || (strncmp (&name[2], \"PLATFORM}\", 9) == 0\n\t\t      && (len = 11) != 0)",
+      "columnNumber": 12,
+      "id": 30064771105,
+      "label": "CALL",
+      "lineNumber": 16,
+      "name": "<operator>.logicalOr",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[1], \"ORIGIN\", 6)",
+      "columnNumber": 10,
+      "id": 30064771081,
+      "label": "CALL",
+      "lineNumber": 11,
+      "name": "strncmp",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&name[2]",
+      "columnNumber": 18,
+      "id": 30064771111,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "<operator>.addressOf",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "!__libc_enable_secure",
+      "columnNumber": 14,
+      "id": 30064771079,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.logicalNot",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[1] == '{'",
+      "columnNumber": 8,
+      "id": 30064771103,
+      "label": "CALL",
+      "lineNumber": 15,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "!__libc_enable_secure",
+      "columnNumber": 13,
+      "id": 30064771108,
+      "label": "CALL",
+      "lineNumber": 16,
+      "name": "<operator>.logicalNot",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "\"PLATFORM}\"",
+      "columnNumber": 28,
+      "id": 90194313242,
+      "label": "LITERAL",
+      "lineNumber": 18,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "name",
+      "columnNumber": 10,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 24,
+      "name": "name",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "9",
+      "columnNumber": 59,
+      "id": 90194313228,
+      "label": "LITERAL",
+      "lineNumber": 12,
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "strncmp (&name[2], \"PLATFORM}\", 9) == 0",
+      "columnNumber": 9,
+      "id": 30064771116,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "<operator>.equals",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "len = 9",
+      "columnNumber": 53,
+      "id": 30064771092,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.assignment",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[len]",
+      "columnNumber": 24,
+      "id": 30064771101,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strchr (name + len, '$')",
+      "columnNumber": 14,
+      "id": 30064771124,
+      "label": "CALL",
+      "lineNumber": 22,
+      "name": "strchr",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strncmp (&name[2], \"PLATFORM}\", 9)",
+      "columnNumber": 9,
+      "id": 30064771117,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "strncmp",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "name[len] == '\\0' || name[len] == '/'\n\t       || (is_path && name[len] == ':')",
+      "columnNumber": 9,
+      "id": 30064771093,
+      "label": "CALL",
+      "lineNumber": 13,
+      "name": "<operator>.logicalOr",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "int is_path",
+      "columnNumber": 34,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "is_path",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "int"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 18,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 24,
+      "name": "NULL",
+      "parentFile": "temp_0.c",
+      "parentMethod": "_dl_dst_count",
+      "typeFullName": "ANY"
+    }
+  ]
+}

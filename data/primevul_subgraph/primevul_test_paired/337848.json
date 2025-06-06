@@ -1,0 +1,444 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      }
+    ],
+    "nodes": [
+      {
+        "code": "stream_num * sizeof(__u16)",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "__u16 stream_num",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "stream_num",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "stream_len",
+        "columnNumber": 8,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "stream_len",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "sizeof(__u16)",
+        "columnNumber": 34,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.sizeOf",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "stream_num",
+        "columnNumber": 21,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "stream_num",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476785
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476785
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476769
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771112
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476769
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476784
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476769,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476784
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771112,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476769
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476785,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "stream_len",
+        "columnNumber": 29,
+        "id": 68719476769,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "stream_len",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "&inreq",
+        "columnNumber": 43,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 37,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "stream_list",
+        "columnNumber": 41,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "stream_list",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__be16*"
+      },
+      {
+        "code": "stream_len",
+        "columnNumber": 29,
+        "id": 68719476784,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "stream_len",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 7,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "&outreq",
+        "columnNumber": 44,
+        "id": 30064771112,
+        "label": "CALL",
+        "lineNumber": 26,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 20,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "stream_num",
+        "columnNumber": 21,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "stream_num",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "__be16 *stream_list",
+        "columnNumber": 24,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "stream_list",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__be16*"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 20,
+        "id": 68719476779,
+        "label": "IDENTIFIER",
+        "lineNumber": 37,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 21,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 29,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "stream_num * sizeof(__u16)",
+        "columnNumber": 21,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "stream_list",
+        "columnNumber": 41,
+        "id": 68719476785,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "stream_list",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__be16*"
+      },
+      {
+        "code": "__u16 stream_num",
+        "columnNumber": 6,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "stream_num",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 21,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "retval",
+        "columnNumber": 2,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "retval",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "sctp_chunk*"
+      },
+      {
+        "code": "stream_len",
+        "columnNumber": 8,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "stream_len",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "__u16"
+      },
+      {
+        "code": "sctp_make_reconf(asoc, SCTP_PAD4(outlen) + SCTP_PAD4(inlen))",
+        "columnNumber": 11,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "sctp_make_reconf",
+        "parentFile": "code_PrimeVul_balanced_test_337848.c",
+        "parentMethod": "sctp_make_strreset_req",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

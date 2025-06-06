@@ -1,0 +1,138 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 90194313221
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 68719476747,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771087,
+      "label": "REACHING_DEF",
+      "src": 30064771088
+    },
+    {
+      "dst": 30064771086,
+      "label": "REACHING_DEF",
+      "src": 30064771087
+    },
+    {
+      "dst": 30064771088,
+      "label": "REACHING_DEF",
+      "src": 68719476749
+    },
+    {
+      "dst": 68719476747,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    }
+  ],
+  "nodes": [
+    {
+      "code": "i % 8",
+      "columnNumber": 22,
+      "id": 30064771088,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "<operator>.modulo",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "*buf",
+      "columnNumber": 8,
+      "id": 30064771086,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "i",
+      "columnNumber": 22,
+      "id": 68719476749,
+      "label": "IDENTIFIER",
+      "lineNumber": 8,
+      "name": "i",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "int"
+    },
+    {
+      "code": "8",
+      "columnNumber": 26,
+      "id": 90194313221,
+      "label": "LITERAL",
+      "lineNumber": 8,
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1",
+      "columnNumber": 16,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 8,
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1 << (i % 8)",
+      "columnNumber": 16,
+      "id": 30064771087,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "<operator>.shiftLeft",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "const ut8 *buf",
+      "columnNumber": 36,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "buf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "ut8*"
+    },
+    {
+      "code": "buf",
+      "columnNumber": 5,
+      "id": 68719476747,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "buf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_269001.c",
+      "parentMethod": "r_str_bits",
+      "typeFullName": "ut8*"
+    }
+  ]
+}

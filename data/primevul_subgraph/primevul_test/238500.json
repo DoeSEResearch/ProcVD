@@ -1,0 +1,127 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      }
+    ],
+    "nodes": [
+      {
+        "code": "stype",
+        "columnNumber": 3,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "stype",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "ptr_state->stack[spi].slot_type",
+        "columnNumber": 11,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ptr_state->stack[spi]",
+        "columnNumber": 11,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "slot_type",
+        "columnNumber": 11,
+        "id": 55834574852,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 15,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 30064771092
+      }
+    ],
+    "nodes": [
+      {
+        "code": "stype[slot % BPF_REG_SIZE]",
+        "columnNumber": 7,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "stype",
+        "columnNumber": 3,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "stype",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "u8*"
+      },
+      {
+        "code": "ptr_state->stack[spi].slot_type",
+        "columnNumber": 11,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 15,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "STACK_ZERO",
+        "columnNumber": 37,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "STACK_ZERO",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_238500.c",
+        "parentMethod": "mark_reg_stack_read",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

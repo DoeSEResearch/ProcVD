@@ -1,0 +1,122 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 30064771084
+    },
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 90194313216
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 30064771084
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    }
+  ],
+  "nodes": [
+    {
+      "code": "s",
+      "columnNumber": 18,
+      "id": 68719476742,
+      "label": "IDENTIFIER",
+      "lineNumber": 11,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "dynamic_string*"
+    },
+    {
+      "code": "s->ds_idx",
+      "columnNumber": 3,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 6,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s",
+      "columnNumber": 14,
+      "id": 68719476746,
+      "label": "IDENTIFIER",
+      "lineNumber": 14,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "dynamic_string*"
+    },
+    {
+      "code": "s->ds_idx",
+      "columnNumber": 20,
+      "id": 30064771084,
+      "label": "CALL",
+      "lineNumber": 12,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "dynamic_string *s",
+      "columnNumber": 22,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "dynamic_string*"
+    },
+    {
+      "code": "0",
+      "columnNumber": 15,
+      "id": 90194313216,
+      "label": "LITERAL",
+      "lineNumber": 6,
+      "parentFile": "code_PrimeVul_balanced_valid_499640.c",
+      "parentMethod": "ds_fgetstr",
+      "typeFullName": "int"
+    }
+  ]
+}

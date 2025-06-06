@@ -1,0 +1,173 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 30064771102,
+      "label": "REACHING_DEF",
+      "src": 30064771099
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 30064771085
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771102
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 115964116994
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 30064771102,
+      "label": "REACHING_DEF",
+      "src": 30064771104
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    }
+  ],
+  "nodes": [
+    {
+      "code": "const_cast<struct sockaddr_in6 *>(\n      reinterpret_cast<const struct sockaddr_in6 *>(input))",
+      "columnNumber": 44,
+      "id": 30064771085,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&output->klinux_sin6_addr",
+      "columnNumber": 25,
+      "id": 30064771102,
+      "label": "CALL",
+      "lineNumber": 18,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "input->sa_family",
+      "columnNumber": 50,
+      "id": 30064771080,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "AF_INET6",
+      "columnNumber": 70,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "AF_INET6",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "input",
+      "columnNumber": 8,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "input",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "sockaddr*"
+    },
+    {
+      "code": "klinux_sockaddr_in6 *output",
+      "columnNumber": 34,
+      "id": 115964116994,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 3,
+      "name": "output",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "klinux_sockaddr_in6*"
+    },
+    {
+      "code": "&output->klinux_sin6_addr",
+      "columnNumber": 26,
+      "id": 30064771099,
+      "label": "CALL",
+      "lineNumber": 17,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "output",
+      "columnNumber": 18,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "output",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "klinux_sockaddr_in6*"
+    },
+    {
+      "code": "&sockaddr_in6_from->sin6_addr",
+      "columnNumber": 25,
+      "id": 30064771104,
+      "label": "CALL",
+      "lineNumber": 19,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "const struct sockaddr *input",
+      "columnNumber": 34,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "input",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "sockaddr*"
+    },
+    {
+      "code": "sockaddr_in6_from",
+      "columnNumber": 24,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "sockaddr_in6_from",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_263433.cpp",
+      "parentMethod": "SockaddrTokLinuxSockaddrIn6:bool(sockaddr*,socklen_t,klinux_sockaddr_in6*)",
+      "typeFullName": "sockaddr_in6*"
+    }
+  ]
+}

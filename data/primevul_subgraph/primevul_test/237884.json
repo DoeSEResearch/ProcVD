@@ -1,0 +1,142 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "qeh->qeh_flags",
+        "columnNumber": 9,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const struct qpack_enc_hdl *qeh",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "qeh",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "qpack_enc_hdl*"
+      },
+      {
+        "code": "QEH_HAVE_SETTINGS",
+        "columnNumber": 26,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "QEH_HAVE_SETTINGS",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      }
+    ],
+    "nodes": [
+      {
+        "code": "QEH_HAVE_SETTINGS",
+        "columnNumber": 26,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "QEH_HAVE_SETTINGS",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "qeh_max_prefix_size",
+        "columnNumber": 16,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size"
+      },
+      {
+        "code": "qeh",
+        "columnNumber": 16,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "qeh",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "qpack_enc_hdl*"
+      },
+      {
+        "code": "const struct qpack_enc_hdl *qeh",
+        "columnNumber": 29,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "qeh",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "qpack_enc_hdl*"
+      },
+      {
+        "code": "qeh->qeh_flags",
+        "columnNumber": 9,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_237884.c",
+        "parentMethod": "lsquic_qeh_max_prefix_size",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

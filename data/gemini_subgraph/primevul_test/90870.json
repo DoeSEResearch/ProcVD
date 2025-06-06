@@ -1,0 +1,37 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [],
+  "nodes": [
+    {
+      "code": "data_dir_.CreateUniqueTempDir()",
+      "columnNumber": 17,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 2,
+      "name": "<operator>.pointerCall",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_90870.c",
+      "parentMethod": "SetUp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "data_dir_",
+      "columnNumber": 17,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 2,
+      "name": "data_dir_",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_90870.c",
+      "parentMethod": "SetUp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "CreateUniqueTempDir",
+      "columnNumber": 17,
+      "id": 55834574848,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 2,
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_90870.c",
+      "parentMethod": "SetUp"
+    }
+  ]
+}

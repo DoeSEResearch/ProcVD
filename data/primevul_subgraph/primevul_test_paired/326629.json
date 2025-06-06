@@ -1,0 +1,1521 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      }
+    ],
+    "nodes": [
+      {
+        "code": "clear",
+        "columnNumber": 26,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "clear",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "EXT2_IOC_GETFLAGS",
+        "columnNumber": 6,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "EXT2_IOC_GETFLAGS",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(oldflags & ~clear) | set",
+        "columnNumber": 13,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&oldflags",
+        "columnNumber": 6,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 12,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "oldflags & ~clear",
+        "columnNumber": 14,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "set",
+        "columnNumber": 35,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "set",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "sf_mask",
+        "columnNumber": 14,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "sf_mask",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 37,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "&newflags",
+        "columnNumber": 6,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 69,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "newflags",
+        "columnNumber": 2,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 75,
+        "name": "newflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "unsigned long clear",
+        "columnNumber": 37,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "clear",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "oldflags",
+        "columnNumber": 2,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "oldflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "EXT2_IOC_SETFLAGS",
+        "columnNumber": 6,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "EXT2_IOC_SETFLAGS",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 22,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 14,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 13,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 42,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "~clear",
+        "columnNumber": 25,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.not",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sf_mask",
+        "columnNumber": 12,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "sf_mask",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 33,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "sf_mask",
+        "columnNumber": 15,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 75,
+        "name": "sf_mask",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "newflags",
+        "columnNumber": 2,
+        "id": 68719476761,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "newflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 12,
+        "id": 68719476765,
+        "label": "IDENTIFIER",
+        "lineNumber": 63,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "set",
+        "columnNumber": 6,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "set",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "clear",
+        "columnNumber": 18,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "clear",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "~sf_mask",
+        "columnNumber": 14,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 75,
+        "name": "<operator>.not",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "oldflags",
+        "columnNumber": 14,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "oldflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 6,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 30064771086
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476761
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771108,
+        "label": "REACHING_DEF",
+        "src": 90194313223
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 30064771109,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771086
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 90194313225
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476759,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476766,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476764,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 30064771109
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476761,
+        "label": "REACHING_DEF",
+        "src": 30064771096
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 30064771109,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 68719476759
+      },
+      {
+        "dst": 68719476758,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 68719476766
+      },
+      {
+        "dst": 30064771108,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476765
+      },
+      {
+        "dst": 30064771086,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 30064771108,
+        "label": "REACHING_DEF",
+        "src": 30064771109
+      },
+      {
+        "dst": 30064771108,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 30064771109,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 30064771096,
+        "label": "REACHING_DEF",
+        "src": 68719476764
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 30064771109
+      },
+      {
+        "dst": 68719476765,
+        "label": "REACHING_DEF",
+        "src": 68719476758
+      }
+    ],
+    "nodes": [
+      {
+        "code": "(oldflags & ~clear) | set",
+        "columnNumber": 13,
+        "id": 30064771096,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "O_RDONLY | O_NONBLOCK | O_BINARY",
+        "columnNumber": 21,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&oldflags",
+        "columnNumber": 6,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "~clear",
+        "columnNumber": 25,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.not",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "int fd",
+        "columnNumber": 51,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "fd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "&newflags",
+        "columnNumber": 6,
+        "id": 30064771109,
+        "label": "CALL",
+        "lineNumber": 84,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sf_mask",
+        "columnNumber": 14,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "sf_mask",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "newflags",
+        "columnNumber": 2,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 75,
+        "name": "newflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 12,
+        "id": 68719476776,
+        "label": "IDENTIFIER",
+        "lineNumber": 78,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 13,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 37,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 13,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 42,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 8,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ioctl(myfd,\n#ifdef FS_IOC_SETFLAGS\n\t    FS_IOC_SETFLAGS,\n#else\n\t    EXT2_IOC_SETFLAGS,\n#endif\n\t    &newflags)",
+        "columnNumber": 6,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 63,
+        "name": "ioctl",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ioctl(myfd,\n#ifdef FS_IOC_GETFLAGS\n\t    FS_IOC_GETFLAGS,\n#else\n\t    EXT2_IOC_GETFLAGS,\n#endif\n\t    &oldflags)",
+        "columnNumber": 6,
+        "id": 30064771093,
+        "label": "CALL",
+        "lineNumber": 52,
+        "name": "ioctl",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "EXT2_IOC_GETFLAGS",
+        "columnNumber": 6,
+        "id": 68719476759,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "EXT2_IOC_GETFLAGS",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "oldflags",
+        "columnNumber": 14,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "oldflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 9,
+        "id": 68719476784,
+        "label": "IDENTIFIER",
+        "lineNumber": 94,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "O_NOFOLLOW",
+        "columnNumber": 19,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "O_NOFOLLOW",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fd",
+        "columnNumber": 15,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "fd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 11,
+        "id": 90194313225,
+        "label": "LITERAL",
+        "lineNumber": 93,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 19,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 58,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 12,
+        "id": 68719476758,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "newflags",
+        "columnNumber": 2,
+        "id": 68719476774,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "newflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 33,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 20,
+        "id": 90194313223,
+        "label": "LITERAL",
+        "lineNumber": 84,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "sf_mask",
+        "columnNumber": 15,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 75,
+        "name": "sf_mask",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "0",
+        "columnNumber": 20,
+        "id": 90194313222,
+        "label": "LITERAL",
+        "lineNumber": 69,
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "oldflags & ~clear",
+        "columnNumber": 14,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 62,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "fd",
+        "columnNumber": 6,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 93,
+        "name": "fd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "EXT2_IOC_SETFLAGS",
+        "columnNumber": 6,
+        "id": 68719476777,
+        "label": "IDENTIFIER",
+        "lineNumber": 82,
+        "name": "EXT2_IOC_SETFLAGS",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "name",
+        "columnNumber": 15,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "set",
+        "columnNumber": 35,
+        "id": 68719476764,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "set",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "newflags",
+        "columnNumber": 2,
+        "id": 68719476761,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "newflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 12,
+        "id": 68719476765,
+        "label": "IDENTIFIER",
+        "lineNumber": 63,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 6,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 37,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "O_RDONLY | O_NONBLOCK",
+        "columnNumber": 21,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "open(name, O_RDONLY | O_NONBLOCK | O_BINARY |\n\t\t    O_CLOEXEC | O_NOFOLLOW)",
+        "columnNumber": 10,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "open",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&newflags",
+        "columnNumber": 6,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 69,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "set",
+        "columnNumber": 6,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "set",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "O_CLOEXEC",
+        "columnNumber": 7,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 39,
+        "name": "O_CLOEXEC",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "~sf_mask",
+        "columnNumber": 14,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 75,
+        "name": "<operator>.not",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const char *name",
+        "columnNumber": 59,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "oldflags",
+        "columnNumber": 14,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "oldflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 6,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "myfd",
+        "columnNumber": 3,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "myfd",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "O_BINARY",
+        "columnNumber": 45,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 38,
+        "name": "O_BINARY",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "oldflags",
+        "columnNumber": 2,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "oldflags",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ioctl(myfd,\n#ifdef FS_IOC_SETFLAGS\n\t    FS_IOC_SETFLAGS,\n#else\n\t    EXT2_IOC_SETFLAGS,\n#endif\n\t    &newflags)",
+        "columnNumber": 6,
+        "id": 30064771108,
+        "label": "CALL",
+        "lineNumber": 78,
+        "name": "ioctl",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "EXT2_IOC_SETFLAGS",
+        "columnNumber": 6,
+        "id": 68719476766,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "EXT2_IOC_SETFLAGS",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "O_RDONLY | O_NONBLOCK | O_BINARY |\n\t\t    O_CLOEXEC",
+        "columnNumber": 21,
+        "id": 30064771086,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "O_RDONLY | O_NONBLOCK | O_BINARY |\n\t\t    O_CLOEXEC | O_NOFOLLOW",
+        "columnNumber": 21,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.or",
+        "parentFile": "code_PrimeVul_balanced_test_326629.c",
+        "parentMethod": "set_fflags_platform",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

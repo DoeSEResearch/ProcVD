@@ -1,0 +1,806 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771447,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476748,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 30064771382
+    },
+    {
+      "dst": 68719477216,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719477216,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 30064771383,
+      "label": "REACHING_DEF",
+      "src": 30064771384
+    },
+    {
+      "dst": 68719476771,
+      "label": "REACHING_DEF",
+      "src": 30064771418
+    },
+    {
+      "dst": 68719476748,
+      "label": "REACHING_DEF",
+      "src": 68719476749
+    },
+    {
+      "dst": 30064771446,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 30064771381,
+      "label": "REACHING_DEF",
+      "src": 30064771382
+    },
+    {
+      "dst": 30064771439,
+      "label": "REACHING_DEF",
+      "src": 90194313860
+    },
+    {
+      "dst": 30064771386,
+      "label": "REACHING_DEF",
+      "src": 30064771387
+    },
+    {
+      "dst": 68719477215,
+      "label": "REACHING_DEF",
+      "src": 30064771906
+    },
+    {
+      "dst": 30064771389,
+      "label": "REACHING_DEF",
+      "src": 30064771384
+    },
+    {
+      "dst": 30064771446,
+      "label": "REACHING_DEF",
+      "src": 30064771447
+    },
+    {
+      "dst": 30064771392,
+      "label": "REACHING_DEF",
+      "src": 90194313827
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 30064771383,
+      "label": "REACHING_DEF",
+      "src": 90194313825
+    },
+    {
+      "dst": 68719476754,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 90194313843
+    },
+    {
+      "dst": 30064771384,
+      "label": "REACHING_DEF",
+      "src": 90194313825
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 30064771382,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719477216,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 30064771906,
+      "label": "REACHING_DEF",
+      "src": 68719477216
+    },
+    {
+      "dst": 30064771386,
+      "label": "REACHING_DEF",
+      "src": 90194313826
+    },
+    {
+      "dst": 30064771392,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 30064771381,
+      "label": "REACHING_DEF",
+      "src": 30064771383
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 68719476749
+    },
+    {
+      "dst": 30064771446,
+      "label": "REACHING_DEF",
+      "src": 90194313863
+    },
+    {
+      "dst": 68719476748,
+      "label": "REACHING_DEF",
+      "src": 30064771384
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 30064771419,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 30064771383,
+      "label": "REACHING_DEF",
+      "src": 30064771381
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476749,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 30064771403
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 30064771447
+    },
+    {
+      "dst": 30064771409,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 30064771439
+    },
+    {
+      "dst": 30064771405,
+      "label": "REACHING_DEF",
+      "src": 90194313840
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 30064771409
+    },
+    {
+      "dst": 68719477216,
+      "label": "REACHING_DEF",
+      "src": 30064771439
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 30064771439
+    },
+    {
+      "dst": 30064771381,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476772,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    }
+  ],
+  "nodes": [
+    {
+      "code": "*(property+5)",
+      "columnNumber": 12,
+      "id": 30064771405,
+      "label": "CALL",
+      "lineNumber": 480,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "unsigned char",
+      "columnNumber": 26,
+      "id": 184683593731,
+      "label": "UNKNOWN",
+      "lineNumber": 445,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "<empty>"
+    },
+    {
+      "code": "isspace((int) ((unsigned char) *property))",
+      "columnNumber": 10,
+      "id": 30064771386,
+      "label": "CALL",
+      "lineNumber": 445,
+      "name": "isspace",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "property",
+      "columnNumber": 13,
+      "id": 68719476754,
+      "label": "IDENTIFIER",
+      "lineNumber": 451,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 14,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 480,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "EXIFTag[i].description",
+      "columnNumber": 27,
+      "id": 30064771447,
+      "label": "CALL",
+      "lineNumber": 518,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "*property",
+      "columnNumber": 45,
+      "id": 30064771384,
+      "label": "CALL",
+      "lineNumber": 443,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(unsigned char) *property",
+      "columnNumber": 25,
+      "id": 30064771388,
+      "label": "CALL",
+      "lineNumber": 445,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "c",
+      "columnNumber": 11,
+      "id": 68719476771,
+      "label": "IDENTIFIER",
+      "lineNumber": 493,
+      "name": "c",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "int",
+      "columnNumber": 19,
+      "id": 184683593730,
+      "label": "UNKNOWN",
+      "lineNumber": 445,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "<empty>"
+    },
+    {
+      "code": "*property++",
+      "columnNumber": 14,
+      "id": 30064771418,
+      "label": "CALL",
+      "lineNumber": 493,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "*property == '\\0'",
+      "columnNumber": 45,
+      "id": 30064771383,
+      "label": "CALL",
+      "lineNumber": 443,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "property",
+      "columnNumber": 42,
+      "id": 68719476748,
+      "label": "IDENTIFIER",
+      "lineNumber": 445,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 14,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 447,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(int) ((unsigned char) *property)",
+      "columnNumber": 18,
+      "id": 30064771387,
+      "label": "CALL",
+      "lineNumber": 445,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "5",
+      "columnNumber": 27,
+      "id": 90194313827,
+      "label": "LITERAL",
+      "lineNumber": 447,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "5",
+      "columnNumber": 23,
+      "id": 90194313839,
+      "label": "LITERAL",
+      "lineNumber": 480,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "property",
+      "columnNumber": 50,
+      "id": 68719476794,
+      "label": "IDENTIFIER",
+      "lineNumber": 518,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "strlen(property)",
+      "columnNumber": 7,
+      "id": 30064771392,
+      "label": "CALL",
+      "lineNumber": 447,
+      "name": "strlen",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(const char *) NULL",
+      "columnNumber": 20,
+      "id": 30064771382,
+      "label": "CALL",
+      "lineNumber": 443,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'\\0'",
+      "columnNumber": 29,
+      "id": 90194313860,
+      "label": "LITERAL",
+      "lineNumber": 506,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char"
+    },
+    {
+      "code": "5",
+      "columnNumber": 22,
+      "id": 90194313830,
+      "label": "LITERAL",
+      "lineNumber": 451,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "property",
+      "columnNumber": 33,
+      "id": 68719477216,
+      "label": "IDENTIFIER",
+      "lineNumber": 761,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 17,
+      "id": 68719476787,
+      "label": "IDENTIFIER",
+      "lineNumber": 506,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "key",
+      "columnNumber": 15,
+      "id": 68719477215,
+      "label": "IDENTIFIER",
+      "lineNumber": 761,
+      "name": "key",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property+5",
+      "columnNumber": 13,
+      "id": 30064771397,
+      "label": "CALL",
+      "lineNumber": 451,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 7,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 482,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "6",
+      "columnNumber": 17,
+      "id": 90194313843,
+      "label": "LITERAL",
+      "lineNumber": 481,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0",
+      "columnNumber": 63,
+      "id": 90194313863,
+      "label": "LITERAL",
+      "lineNumber": 518,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "const char *property",
+      "columnNumber": 3,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 2,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "*property",
+      "columnNumber": 16,
+      "id": 30064771439,
+      "label": "CALL",
+      "lineNumber": 506,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'@'",
+      "columnNumber": 29,
+      "id": 90194313840,
+      "label": "LITERAL",
+      "lineNumber": 480,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char"
+    },
+    {
+      "code": "property+5",
+      "columnNumber": 14,
+      "id": 30064771406,
+      "label": "CALL",
+      "lineNumber": 480,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tag",
+      "columnNumber": 7,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 480,
+      "name": "tag",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "size_t"
+    },
+    {
+      "code": "property",
+      "columnNumber": 5,
+      "id": 68719476749,
+      "label": "IDENTIFIER",
+      "lineNumber": 446,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "AcquireString(property)",
+      "columnNumber": 19,
+      "id": 30064771906,
+      "label": "CALL",
+      "lineNumber": 761,
+      "name": "AcquireString",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "property",
+      "columnNumber": 7,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 481,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 15,
+      "id": 68719476772,
+      "label": "IDENTIFIER",
+      "lineNumber": 493,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 46,
+      "id": 68719476746,
+      "label": "IDENTIFIER",
+      "lineNumber": 443,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "property",
+      "columnNumber": 8,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 443,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(*(property+5) == '@') ? 1UL : 0UL",
+      "columnNumber": 11,
+      "id": 30064771403,
+      "label": "CALL",
+      "lineNumber": 480,
+      "name": "<operator>.conditional",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "LocaleCompare(EXIFTag[i].description,property)",
+      "columnNumber": 13,
+      "id": 30064771446,
+      "label": "CALL",
+      "lineNumber": 518,
+      "name": "LocaleCompare",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 56,
+      "id": 90194313826,
+      "label": "LITERAL",
+      "lineNumber": 445,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1UL",
+      "columnNumber": 36,
+      "id": 90194313841,
+      "label": "LITERAL",
+      "lineNumber": 480,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "unsigned longint"
+    },
+    {
+      "code": "'\\0'",
+      "columnNumber": 58,
+      "id": 90194313825,
+      "label": "LITERAL",
+      "lineNumber": 443,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char"
+    },
+    {
+      "code": "property",
+      "columnNumber": 16,
+      "id": 68719476763,
+      "label": "IDENTIFIER",
+      "lineNumber": 482,
+      "name": "property",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "*property",
+      "columnNumber": 41,
+      "id": 30064771389,
+      "label": "CALL",
+      "lineNumber": 445,
+      "name": "<operator>.indirection",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "*(property+5) == '@'",
+      "columnNumber": 12,
+      "id": 30064771404,
+      "label": "CALL",
+      "lineNumber": 480,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strlen(property)",
+      "columnNumber": 9,
+      "id": 30064771409,
+      "label": "CALL",
+      "lineNumber": 482,
+      "name": "strlen",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "property++",
+      "columnNumber": 15,
+      "id": 30064771419,
+      "label": "CALL",
+      "lineNumber": 493,
+      "name": "<operator>.postIncrement",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0UL",
+      "columnNumber": 42,
+      "id": 90194313842,
+      "label": "LITERAL",
+      "lineNumber": 480,
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "unsigned longint"
+    },
+    {
+      "code": "property == (const char *) NULL",
+      "columnNumber": 8,
+      "id": 30064771381,
+      "label": "CALL",
+      "lineNumber": 443,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_balanced_test_194963.c",
+      "parentMethod": "GetEXIFProperty",
+      "typeFullName": "ANY"
+    }
+  ]
+}

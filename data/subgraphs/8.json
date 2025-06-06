@@ -1,0 +1,33 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 90194313223
+    }
+  ],
+  "nodes": [
+    {
+      "code": "done",
+      "columnNumber": 4,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 22,
+      "name": "done",
+      "parentFile": "temp_8.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1",
+      "columnNumber": 11,
+      "id": 90194313223,
+      "label": "LITERAL",
+      "lineNumber": 22,
+      "parentFile": "temp_8.c",
+      "parentMethod": "init_syntax_once",
+      "typeFullName": "int"
+    }
+  ]
+}

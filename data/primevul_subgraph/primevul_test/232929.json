@@ -1,0 +1,61 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771079,
+      "label": "REACHING_DEF",
+      "src": 68719476736
+    },
+    {
+      "dst": 68719476736,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    }
+  ],
+  "nodes": [
+    {
+      "code": "bp->br",
+      "columnNumber": 34,
+      "id": 30064771079,
+      "label": "CALL",
+      "lineNumber": 8,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_232929.c",
+      "parentMethod": "brotli_close_writer",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "bp",
+      "columnNumber": 25,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "bp",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_232929.c",
+      "parentMethod": "brotli_close_writer",
+      "typeFullName": "brotli_params*"
+    },
+    {
+      "code": "(struct brotli_params *) &writer->params",
+      "columnNumber": 30,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_232929.c",
+      "parentMethod": "brotli_close_writer",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "struct contenc_writer *writer",
+      "columnNumber": 33,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 2,
+      "name": "writer",
+      "parentFile": "code_PrimeVul_unbanlanced_test_sampled_232929.c",
+      "parentMethod": "brotli_close_writer",
+      "typeFullName": "contenc_writer*"
+    }
+  ]
+}

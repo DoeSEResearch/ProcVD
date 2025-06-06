@@ -1,0 +1,2396 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 30064771242
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 30064771246
+    },
+    {
+      "dst": 30064771227,
+      "label": "REACHING_DEF",
+      "src": 90194313235
+    },
+    {
+      "dst": 30064771147,
+      "label": "REACHING_DEF",
+      "src": 68719476796
+    },
+    {
+      "dst": 30064771144,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771273,
+      "label": "REACHING_DEF",
+      "src": 68719476915
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 30064771243,
+      "label": "REACHING_DEF",
+      "src": 68719476884
+    },
+    {
+      "dst": 68719476796,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 30064771271,
+      "label": "REACHING_DEF",
+      "src": 68719476915
+    },
+    {
+      "dst": 68719476915,
+      "label": "REACHING_DEF",
+      "src": 30064771271
+    },
+    {
+      "dst": 68719476841,
+      "label": "REACHING_DEF",
+      "src": 68719476842
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 30064771230
+    },
+    {
+      "dst": 30064771265,
+      "label": "REACHING_DEF",
+      "src": 30064771267
+    },
+    {
+      "dst": 30064771175,
+      "label": "REACHING_DEF",
+      "src": 68719476825
+    },
+    {
+      "dst": 68719476919,
+      "label": "REACHING_DEF",
+      "src": 30064771226
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 68719476762
+    },
+    {
+      "dst": 30064771130,
+      "label": "REACHING_DEF",
+      "src": 90194313222
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 68719476796,
+      "label": "REACHING_DEF",
+      "src": 68719476763
+    },
+    {
+      "dst": 30064771235,
+      "label": "REACHING_DEF",
+      "src": 30064771237
+    },
+    {
+      "dst": 68719476917,
+      "label": "REACHING_DEF",
+      "src": 68719476915
+    },
+    {
+      "dst": 68719476812,
+      "label": "REACHING_DEF",
+      "src": 30064771129
+    },
+    {
+      "dst": 30064771148,
+      "label": "REACHING_DEF",
+      "src": 68719476795
+    },
+    {
+      "dst": 30064771234,
+      "label": "REACHING_DEF",
+      "src": 30064771237
+    },
+    {
+      "dst": 30064771186,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476753,
+      "label": "REACHING_DEF",
+      "src": 30064771086
+    },
+    {
+      "dst": 68719476885,
+      "label": "REACHING_DEF",
+      "src": 68719476884
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 30064771187
+    },
+    {
+      "dst": 68719476795,
+      "label": "REACHING_DEF",
+      "src": 68719476797
+    },
+    {
+      "dst": 30064771158,
+      "label": "REACHING_DEF",
+      "src": 30064771162
+    },
+    {
+      "dst": 30064771242,
+      "label": "REACHING_DEF",
+      "src": 68719476884
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 30064771162
+    },
+    {
+      "dst": 30064771156,
+      "label": "REACHING_DEF",
+      "src": 30064771158
+    },
+    {
+      "dst": 68719476797,
+      "label": "REACHING_DEF",
+      "src": 68719476796
+    },
+    {
+      "dst": 68719476797,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476795,
+      "label": "REACHING_DEF",
+      "src": 68719476796
+    },
+    {
+      "dst": 68719476915,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 30064771234,
+      "label": "REACHING_DEF",
+      "src": 90194313240
+    },
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 68719476887
+    },
+    {
+      "dst": 30064771129,
+      "label": "REACHING_DEF",
+      "src": 30064771130
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476816
+    },
+    {
+      "dst": 30064771135,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 68719476797
+    },
+    {
+      "dst": 30064771131,
+      "label": "REACHING_DEF",
+      "src": 90194313222
+    },
+    {
+      "dst": 68719476824,
+      "label": "REACHING_DEF",
+      "src": 30064771175
+    },
+    {
+      "dst": 30064771246,
+      "label": "REACHING_DEF",
+      "src": 68719476889
+    },
+    {
+      "dst": 30064771232,
+      "label": "REACHING_DEF",
+      "src": 30064771228
+    },
+    {
+      "dst": 30064771136,
+      "label": "REACHING_DEF",
+      "src": 30064771134
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771152,
+      "label": "REACHING_DEF",
+      "src": 68719476802
+    },
+    {
+      "dst": 68719476887,
+      "label": "REACHING_DEF",
+      "src": 68719476884
+    },
+    {
+      "dst": 30064771232,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 68719476875,
+      "label": "REACHING_DEF",
+      "src": 68719476824
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 68719476891
+    },
+    {
+      "dst": 30064771273,
+      "label": "REACHING_DEF",
+      "src": 30064771271
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 30064771129
+    },
+    {
+      "dst": 30064771246,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 68719476796,
+      "label": "REACHING_DEF",
+      "src": 68719476795
+    },
+    {
+      "dst": 30064771136,
+      "label": "REACHING_DEF",
+      "src": 90194313224
+    },
+    {
+      "dst": 30064771148,
+      "label": "REACHING_DEF",
+      "src": 68719476797
+    },
+    {
+      "dst": 30064771237,
+      "label": "REACHING_DEF",
+      "src": 30064771235
+    },
+    {
+      "dst": 68719476891,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 68719476891,
+      "label": "REACHING_DEF",
+      "src": 68719476889
+    },
+    {
+      "dst": 68719476885,
+      "label": "REACHING_DEF",
+      "src": 68719476887
+    },
+    {
+      "dst": 30064771187,
+      "label": "REACHING_DEF",
+      "src": 30064771186
+    },
+    {
+      "dst": 30064771187,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 30064771162,
+      "label": "REACHING_DEF",
+      "src": 68719476810
+    },
+    {
+      "dst": 30064771147,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476881,
+      "label": "REACHING_DEF",
+      "src": 90194313241
+    },
+    {
+      "dst": 30064771166,
+      "label": "REACHING_DEF",
+      "src": 68719476812
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 68719476891
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 30064771242,
+      "label": "REACHING_DEF",
+      "src": 68719476887
+    },
+    {
+      "dst": 30064771231,
+      "label": "REACHING_DEF",
+      "src": 30064771232
+    },
+    {
+      "dst": 30064771242,
+      "label": "REACHING_DEF",
+      "src": 30064771243
+    },
+    {
+      "dst": 30064771242,
+      "label": "REACHING_DEF",
+      "src": 30064771182
+    },
+    {
+      "dst": 30064771228,
+      "label": "REACHING_DEF",
+      "src": 90194313235
+    },
+    {
+      "dst": 30064771164,
+      "label": "REACHING_DEF",
+      "src": 68719476810
+    },
+    {
+      "dst": 30064771121,
+      "label": "REACHING_DEF",
+      "src": 30064771117
+    },
+    {
+      "dst": 30064771164,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 30064771147,
+      "label": "REACHING_DEF",
+      "src": 68719476797
+    },
+    {
+      "dst": 30064771148,
+      "label": "REACHING_DEF",
+      "src": 68719476796
+    },
+    {
+      "dst": 68719476887,
+      "label": "REACHING_DEF",
+      "src": 68719476881
+    },
+    {
+      "dst": 30064771246,
+      "label": "REACHING_DEF",
+      "src": 68719476891
+    },
+    {
+      "dst": 30064771227,
+      "label": "REACHING_DEF",
+      "src": 30064771228
+    },
+    {
+      "dst": 30064771134,
+      "label": "REACHING_DEF",
+      "src": 30064771136
+    },
+    {
+      "dst": 30064771226,
+      "label": "REACHING_DEF",
+      "src": 30064771227
+    },
+    {
+      "dst": 68719476885,
+      "label": "REACHING_DEF",
+      "src": 68719476842
+    },
+    {
+      "dst": 30064771243,
+      "label": "REACHING_DEF",
+      "src": 68719476887
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 30064771080
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771243,
+      "label": "REACHING_DEF",
+      "src": 30064771242
+    },
+    {
+      "dst": 30064771164,
+      "label": "REACHING_DEF",
+      "src": 30064771162
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 68719476824
+    },
+    {
+      "dst": 68719476917,
+      "label": "REACHING_DEF",
+      "src": 30064771271
+    },
+    {
+      "dst": 68719476791,
+      "label": "REACHING_DEF",
+      "src": 90194313226
+    },
+    {
+      "dst": 30064771147,
+      "label": "REACHING_DEF",
+      "src": 68719476795
+    },
+    {
+      "dst": 68719476887,
+      "label": "REACHING_DEF",
+      "src": 30064771243
+    },
+    {
+      "dst": 30064771158,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 68719476776,
+      "label": "REACHING_DEF",
+      "src": 30064771121
+    },
+    {
+      "dst": 30064771130,
+      "label": "REACHING_DEF",
+      "src": 30064771131
+    },
+    {
+      "dst": 68719476841,
+      "label": "REACHING_DEF",
+      "src": 68719476839
+    },
+    {
+      "dst": 30064771267,
+      "label": "REACHING_DEF",
+      "src": 68719476917
+    },
+    {
+      "dst": 30064771237,
+      "label": "REACHING_DEF",
+      "src": 90194313239
+    },
+    {
+      "dst": 68719476797,
+      "label": "REACHING_DEF",
+      "src": 68719476795
+    },
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 68719476885
+    },
+    {
+      "dst": 30064771230,
+      "label": "REACHING_DEF",
+      "src": 30064771231
+    },
+    {
+      "dst": 30064771131,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476889,
+      "label": "REACHING_DEF",
+      "src": 30064771246
+    },
+    {
+      "dst": 68719476802,
+      "label": "REACHING_DEF",
+      "src": 30064771152
+    },
+    {
+      "dst": 68719476879,
+      "label": "REACHING_DEF",
+      "src": 30064771226
+    },
+    {
+      "dst": 30064771273,
+      "label": "REACHING_DEF",
+      "src": 68719476917
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476887,
+      "label": "REACHING_DEF",
+      "src": 30064771242
+    },
+    {
+      "dst": 30064771117,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 30064771131,
+      "label": "REACHING_DEF",
+      "src": 30064771127
+    },
+    {
+      "dst": 68719476810,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 68719476792,
+      "label": "REACHING_DEF",
+      "src": 30064771147
+    },
+    {
+      "dst": 68719476810,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 30064771228,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476887,
+      "label": "REACHING_DEF",
+      "src": 68719476885
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 68719476795
+    },
+    {
+      "dst": 68719476802,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 30064771144
+    },
+    {
+      "dst": 68719476812,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 30064771137,
+      "label": "REACHING_DEF",
+      "src": 90194313224
+    },
+    {
+      "dst": 30064771158,
+      "label": "REACHING_DEF",
+      "src": 68719476810
+    },
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 68719476841
+    },
+    {
+      "dst": 30064771125,
+      "label": "REACHING_DEF",
+      "src": 30064771126
+    },
+    {
+      "dst": 68719476796,
+      "label": "REACHING_DEF",
+      "src": 68719476776
+    },
+    {
+      "dst": 30064771267,
+      "label": "REACHING_DEF",
+      "src": 68719476915
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 68719476889,
+      "label": "REACHING_DEF",
+      "src": 30064771245
+    },
+    {
+      "dst": 30064771126,
+      "label": "REACHING_DEF",
+      "src": 30064771127
+    },
+    {
+      "dst": 30064771186,
+      "label": "REACHING_DEF",
+      "src": 30064771187
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 30064771187
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 30064771152
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771267,
+      "label": "REACHING_DEF",
+      "src": 30064771271
+    },
+    {
+      "dst": 30064771243,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476917,
+      "label": "REACHING_DEF",
+      "src": 30064771226
+    },
+    {
+      "dst": 30064771243,
+      "label": "REACHING_DEF",
+      "src": 68719476885
+    },
+    {
+      "dst": 30064771187,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 30064771231,
+      "label": "REACHING_DEF",
+      "src": 90194313237
+    },
+    {
+      "dst": 68719476919,
+      "label": "REACHING_DEF",
+      "src": 30064771230
+    },
+    {
+      "dst": 30064771242,
+      "label": "REACHING_DEF",
+      "src": 68719476885
+    },
+    {
+      "dst": 30064771133,
+      "label": "REACHING_DEF",
+      "src": 30064771136
+    },
+    {
+      "dst": 68719476915,
+      "label": "REACHING_DEF",
+      "src": 30064771232
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 30064771186
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 30064771186,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 30064771186
+    },
+    {
+      "dst": 30064771133,
+      "label": "REACHING_DEF",
+      "src": 30064771134
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 68719476810,
+      "label": "REACHING_DEF",
+      "src": 30064771129
+    },
+    {
+      "dst": 30064771144,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476795,
+      "label": "REACHING_DEF",
+      "src": 68719476791
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 30064771131
+    },
+    {
+      "dst": 68719476885,
+      "label": "REACHING_DEF",
+      "src": 30064771243
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 68719476889
+    },
+    {
+      "dst": 68719476917,
+      "label": "REACHING_DEF",
+      "src": 30064771230
+    },
+    {
+      "dst": 68719476891,
+      "label": "REACHING_DEF",
+      "src": 30064771246
+    },
+    {
+      "dst": 68719476783,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771238,
+      "label": "REACHING_DEF",
+      "src": 90194313239
+    },
+    {
+      "dst": 30064771275,
+      "label": "REACHING_DEF",
+      "src": 68719476919
+    },
+    {
+      "dst": 30064771232,
+      "label": "REACHING_DEF",
+      "src": 90194313237
+    },
+    {
+      "dst": 68719476877,
+      "label": "REACHING_DEF",
+      "src": 68719476824
+    },
+    {
+      "dst": 30064771133,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 68719476884,
+      "label": "REACHING_DEF",
+      "src": 30064771243
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 30064771125
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 30064771242
+    },
+    {
+      "dst": 30064771127,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771148,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476889,
+      "label": "REACHING_DEF",
+      "src": 68719476891
+    },
+    {
+      "dst": 68719476915,
+      "label": "REACHING_DEF",
+      "src": 68719476917
+    },
+    {
+      "dst": 30064771162,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 30064771271,
+      "label": "REACHING_DEF",
+      "src": 68719476917
+    },
+    {
+      "dst": 30064771126,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 68719476891,
+      "label": "REACHING_DEF",
+      "src": 30064771230
+    },
+    {
+      "dst": 68719476885,
+      "label": "REACHING_DEF",
+      "src": 30064771242
+    },
+    {
+      "dst": 68719476915,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476877,
+      "label": "REACHING_DEF",
+      "src": 30064771226
+    },
+    {
+      "dst": 68719476796,
+      "label": "REACHING_DEF",
+      "src": 68719476797
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 68719476796
+    },
+    {
+      "dst": 30064771245,
+      "label": "REACHING_DEF",
+      "src": 30064771246
+    },
+    {
+      "dst": 30064771152,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476810,
+      "label": "REACHING_DEF",
+      "src": 30064771162
+    },
+    {
+      "dst": 68719476891,
+      "label": "REACHING_DEF",
+      "src": 30064771226
+    },
+    {
+      "dst": 30064771152,
+      "label": "REACHING_DEF",
+      "src": 30064771144
+    },
+    {
+      "dst": 30064771234,
+      "label": "REACHING_DEF",
+      "src": 30064771235
+    },
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 68719476842,
+      "label": "REACHING_DEF",
+      "src": 68719476841
+    },
+    {
+      "dst": 30064771247,
+      "label": "REACHING_DEF",
+      "src": 68719476889
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 30064771117
+    },
+    {
+      "dst": 30064771236,
+      "label": "REACHING_DEF",
+      "src": 68719476824
+    },
+    {
+      "dst": 68719476794,
+      "label": "REACHING_DEF",
+      "src": 30064771129
+    },
+    {
+      "dst": 68719476779,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 68719476795,
+      "label": "REACHING_DEF",
+      "src": 68719476794
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 68719476810
+    }
+  ],
+  "nodes": [
+    {
+      "code": "SSL_MAX_MASTER_KEY_LENGTH",
+      "columnNumber": 26,
+      "id": 68719476825,
+      "label": "IDENTIFIER",
+      "lineNumber": 101,
+      "name": "SSL_MAX_MASTER_KEY_LENGTH",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 16,
+      "id": 90194313234,
+      "label": "LITERAL",
+      "lineNumber": 183,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "tmp_buf[2]",
+      "columnNumber": 21,
+      "id": 30064771135,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->method->ssl3_enc->generate_master_secret(s,\n\t\t\t\t\ts->session->master_key,\n\t\t\t\t\ttmp_buf, sizeof tmp_buf)",
+      "columnNumber": 12,
+      "id": 30064771267,
+      "label": "CALL",
+      "lineNumber": 216,
+      "name": "<operator>.pointerCall",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "kssl_ctx",
+      "columnNumber": 27,
+      "id": 68719476835,
+      "label": "IDENTIFIER",
+      "lineNumber": 118,
+      "name": "kssl_ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "KSSL_CTX*"
+    },
+    {
+      "code": "p",
+      "columnNumber": 3,
+      "id": 68719476753,
+      "label": "IDENTIFIER",
+      "lineNumber": 25,
+      "name": "p",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "&outl",
+      "columnNumber": 37,
+      "id": 30064771246,
+      "label": "CALL",
+      "lineNumber": 198,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 15,
+      "id": 90194313241,
+      "label": "LITERAL",
+      "lineNumber": 195,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "p",
+      "columnNumber": 5,
+      "id": 68719476791,
+      "label": "IDENTIFIER",
+      "lineNumber": 63,
+      "name": "p",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "RAND_bytes(&(tmp_buf[2]),sizeof tmp_buf-2)",
+      "columnNumber": 8,
+      "id": 30064771133,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "RAND_bytes",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 15,
+      "id": 68719476842,
+      "label": "IDENTIFIER",
+      "lineNumber": 121,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 33,
+      "id": 30064771137,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&ciph_ctx",
+      "columnNumber": 23,
+      "id": 30064771242,
+      "label": "CALL",
+      "lineNumber": 196,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "kssl_ctx",
+      "columnNumber": 14,
+      "id": 68719476816,
+      "label": "IDENTIFIER",
+      "lineNumber": 94,
+      "name": "kssl_ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "KSSL_CTX*"
+    },
+    {
+      "code": "enc",
+      "columnNumber": 8,
+      "id": 68719476841,
+      "label": "IDENTIFIER",
+      "lineNumber": 121,
+      "name": "enc",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "EVP_CIPHER*"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 6,
+      "id": 68719476810,
+      "label": "IDENTIFIER",
+      "lineNumber": 86,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s",
+      "columnNumber": 56,
+      "id": 68719476915,
+      "label": "IDENTIFIER",
+      "lineNumber": 216,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "SSL*"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 41,
+      "id": 68719476786,
+      "label": "IDENTIFIER",
+      "lineNumber": 58,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 43,
+      "id": 68719476891,
+      "label": "IDENTIFIER",
+      "lineNumber": 198,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "SSL_MAX_MASTER_KEY_LENGTH",
+      "columnNumber": 26,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "SSL_MAX_MASTER_KEY_LENGTH",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->session->sess_cert->peer_rsa_tmp",
+      "columnNumber": 9,
+      "id": 30064771101,
+      "label": "CALL",
+      "lineNumber": 38,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "pkey->pkey.rsa",
+      "columnNumber": 7,
+      "id": 30064771117,
+      "label": "CALL",
+      "lineNumber": 44,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "kssl_ctx->key",
+      "columnNumber": 5,
+      "id": 30064771243,
+      "label": "CALL",
+      "lineNumber": 197,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "SSL3_VERSION",
+      "columnNumber": 21,
+      "id": 68719476790,
+      "label": "IDENTIFIER",
+      "lineNumber": 62,
+      "name": "SSL3_VERSION",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "2",
+      "columnNumber": 8,
+      "id": 90194313226,
+      "label": "LITERAL",
+      "lineNumber": 63,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "rsa",
+      "columnNumber": 5,
+      "id": 68719476776,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "rsa",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "RSA*"
+    },
+    {
+      "code": "&(tmp_buf[2])",
+      "columnNumber": 19,
+      "id": 30064771134,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->client_version",
+      "columnNumber": 19,
+      "id": 30064771232,
+      "label": "CALL",
+      "lineNumber": 184,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "1",
+      "columnNumber": 16,
+      "id": 90194313236,
+      "label": "LITERAL",
+      "lineNumber": 184,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->client_version>>8",
+      "columnNumber": 15,
+      "id": 30064771126,
+      "label": "CALL",
+      "lineNumber": 53,
+      "name": "<operator>.arithmeticShiftRight",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "8",
+      "columnNumber": 34,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 53,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0",
+      "columnNumber": 58,
+      "id": 90194313240,
+      "label": "LITERAL",
+      "lineNumber": 185,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 20,
+      "id": 68719476919,
+      "label": "IDENTIFIER",
+      "lineNumber": 220,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "n",
+      "columnNumber": 4,
+      "id": 68719476792,
+      "label": "IDENTIFIER",
+      "lineNumber": 64,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 25,
+      "id": 30064771148,
+      "label": "CALL",
+      "lineNumber": 64,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "authp",
+      "columnNumber": 50,
+      "id": 68719476837,
+      "label": "IDENTIFIER",
+      "lineNumber": 118,
+      "name": "authp",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "krb5_data*"
+    },
+    {
+      "code": "s->method->ssl3_enc->generate_master_secret(s,\n\t\t\t\t\ts->session->master_key,\n\t\t\t\t\ttmp_buf,sizeof tmp_buf)",
+      "columnNumber": 5,
+      "id": 30064771158,
+      "label": "CALL",
+      "lineNumber": 84,
+      "name": "<operator>.pointerCall",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 18,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 8,
+      "id": 68719476875,
+      "label": "IDENTIFIER",
+      "lineNumber": 183,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s->client_version",
+      "columnNumber": 15,
+      "id": 30064771131,
+      "label": "CALL",
+      "lineNumber": 54,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 44,
+      "id": 68719476880,
+      "label": "IDENTIFIER",
+      "lineNumber": 185,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s->session->master_key",
+      "columnNumber": 6,
+      "id": 30064771162,
+      "label": "CALL",
+      "lineNumber": 85,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 29,
+      "id": 30064771275,
+      "label": "CALL",
+      "lineNumber": 220,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 18,
+      "id": 68719476824,
+      "label": "IDENTIFIER",
+      "lineNumber": 101,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf[1]",
+      "columnNumber": 4,
+      "id": 30064771129,
+      "label": "CALL",
+      "lineNumber": 54,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&ciph_ctx",
+      "columnNumber": 22,
+      "id": 30064771245,
+      "label": "CALL",
+      "lineNumber": 198,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&ciph_ctx",
+      "columnNumber": 24,
+      "id": 30064771182,
+      "label": "CALL",
+      "lineNumber": 106,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf[SSL_MAX_MASTER_KEY_LENGTH]",
+      "columnNumber": 18,
+      "id": 30064771175,
+      "label": "CALL",
+      "lineNumber": 101,
+      "name": "<operator>.alloc",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 37,
+      "id": 30064771238,
+      "label": "CALL",
+      "lineNumber": 185,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "RSA_public_encrypt(sizeof tmp_buf,\n\t\t\t\ttmp_buf,p,rsa,RSA_PKCS1_PADDING)",
+      "columnNumber": 6,
+      "id": 30064771147,
+      "label": "CALL",
+      "lineNumber": 64,
+      "name": "RSA_public_encrypt",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 54,
+      "id": 90194313225,
+      "label": "LITERAL",
+      "lineNumber": 55,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->session->master_key_length",
+      "columnNumber": 4,
+      "id": 30064771265,
+      "label": "CALL",
+      "lineNumber": 215,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "SSL3_VERSION",
+      "columnNumber": 21,
+      "id": 68719476802,
+      "label": "IDENTIFIER",
+      "lineNumber": 77,
+      "name": "SSL3_VERSION",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&(tmp_buf[2])",
+      "columnNumber": 23,
+      "id": 30064771235,
+      "label": "CALL",
+      "lineNumber": 185,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 34,
+      "id": 30064771141,
+      "label": "CALL",
+      "lineNumber": 58,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 14,
+      "id": 30064771164,
+      "label": "CALL",
+      "lineNumber": 86,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "SSL3_ST_CW_KEY_EXCH_A",
+      "columnNumber": 18,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 22,
+      "name": "SSL3_ST_CW_KEY_EXCH_A",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->client_version&0xff",
+      "columnNumber": 15,
+      "id": 30064771130,
+      "label": "CALL",
+      "lineNumber": 54,
+      "name": "<operator>.and",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "RSA_PKCS1_PADDING",
+      "columnNumber": 19,
+      "id": 68719476797,
+      "label": "IDENTIFIER",
+      "lineNumber": 65,
+      "name": "RSA_PKCS1_PADDING",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 20,
+      "id": 68719476812,
+      "label": "IDENTIFIER",
+      "lineNumber": 87,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "sizeof tmp_buf-2",
+      "columnNumber": 37,
+      "id": 30064771237,
+      "label": "CALL",
+      "lineNumber": 185,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "2",
+      "columnNumber": 52,
+      "id": 90194313239,
+      "label": "LITERAL",
+      "lineNumber": 185,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0xff",
+      "columnNumber": 33,
+      "id": 90194313222,
+      "label": "LITERAL",
+      "lineNumber": 54,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 4,
+      "id": 68719476781,
+      "label": "IDENTIFIER",
+      "lineNumber": 54,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "d",
+      "columnNumber": 3,
+      "id": 68719476751,
+      "label": "IDENTIFIER",
+      "lineNumber": 24,
+      "name": "d",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "enc",
+      "columnNumber": 4,
+      "id": 68719476839,
+      "label": "IDENTIFIER",
+      "lineNumber": 120,
+      "name": "enc",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "EVP_CIPHER*"
+    },
+    {
+      "code": "2",
+      "columnNumber": 33,
+      "id": 90194313238,
+      "label": "LITERAL",
+      "lineNumber": 185,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 36,
+      "id": 68719476920,
+      "label": "IDENTIFIER",
+      "lineNumber": 220,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "epms",
+      "columnNumber": 32,
+      "id": 68719476889,
+      "label": "IDENTIFIER",
+      "lineNumber": 198,
+      "name": "epms",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH+EVP_MAX_IV_LENGTH]"
+    },
+    {
+      "code": "SSL *s",
+      "columnNumber": 35,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "SSL*"
+    },
+    {
+      "code": "(unsigned char *)s->init_buf->data",
+      "columnNumber": 5,
+      "id": 30064771082,
+      "label": "CALL",
+      "lineNumber": 24,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s",
+      "columnNumber": 49,
+      "id": 68719476808,
+      "label": "IDENTIFIER",
+      "lineNumber": 84,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "SSL*"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 25,
+      "id": 68719476773,
+      "label": "IDENTIFIER",
+      "lineNumber": 44,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 21,
+      "id": 68719476783,
+      "label": "IDENTIFIER",
+      "lineNumber": 55,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 4,
+      "id": 68719476779,
+      "label": "IDENTIFIER",
+      "lineNumber": 53,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf[0]",
+      "columnNumber": 8,
+      "id": 30064771226,
+      "label": "CALL",
+      "lineNumber": 183,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->version",
+      "columnNumber": 8,
+      "id": 30064771152,
+      "label": "CALL",
+      "lineNumber": 77,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 28,
+      "id": 30064771166,
+      "label": "CALL",
+      "lineNumber": 87,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf[2]",
+      "columnNumber": 25,
+      "id": 30064771236,
+      "label": "CALL",
+      "lineNumber": 185,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "8",
+      "columnNumber": 38,
+      "id": 90194313235,
+      "label": "LITERAL",
+      "lineNumber": 183,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->client_version&0xff",
+      "columnNumber": 19,
+      "id": 30064771231,
+      "label": "CALL",
+      "lineNumber": 184,
+      "name": "<operator>.and",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "1",
+      "columnNumber": 12,
+      "id": 90194313221,
+      "label": "LITERAL",
+      "lineNumber": 54,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "sizeof tmp_buf-2",
+      "columnNumber": 33,
+      "id": 30064771136,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "<operator>.subtraction",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 38,
+      "id": 68719476885,
+      "label": "IDENTIFIER",
+      "lineNumber": 196,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 32,
+      "id": 68719476793,
+      "label": "IDENTIFIER",
+      "lineNumber": 64,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 15,
+      "id": 30064771273,
+      "label": "CALL",
+      "lineNumber": 218,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "rsa",
+      "columnNumber": 15,
+      "id": 68719476796,
+      "label": "IDENTIFIER",
+      "lineNumber": 65,
+      "name": "rsa",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "RSA*"
+    },
+    {
+      "code": "tmp_buf[SSL_MAX_MASTER_KEY_LENGTH]",
+      "columnNumber": 18,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.alloc",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "iv",
+      "columnNumber": 19,
+      "id": 68719476887,
+      "label": "IDENTIFIER",
+      "lineNumber": 197,
+      "name": "iv",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[EVP_MAX_IV_LENGTH]"
+    },
+    {
+      "code": "rsa",
+      "columnNumber": 5,
+      "id": 68719476763,
+      "label": "IDENTIFIER",
+      "lineNumber": 38,
+      "name": "rsa",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "RSA*"
+    },
+    {
+      "code": "2",
+      "columnNumber": 48,
+      "id": 90194313224,
+      "label": "LITERAL",
+      "lineNumber": 55,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->client_version>>8",
+      "columnNumber": 19,
+      "id": 30064771227,
+      "label": "CALL",
+      "lineNumber": 183,
+      "name": "<operator>.arithmeticShiftRight",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof tmp_buf",
+      "columnNumber": 5,
+      "id": 30064771247,
+      "label": "CALL",
+      "lineNumber": 199,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "p",
+      "columnNumber": 13,
+      "id": 68719476795,
+      "label": "IDENTIFIER",
+      "lineNumber": 65,
+      "name": "p",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char*"
+    },
+    {
+      "code": "pkey->pkey.rsa",
+      "columnNumber": 9,
+      "id": 30064771121,
+      "label": "CALL",
+      "lineNumber": 49,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf[1]",
+      "columnNumber": 8,
+      "id": 30064771230,
+      "label": "CALL",
+      "lineNumber": 184,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 25,
+      "id": 68719476879,
+      "label": "IDENTIFIER",
+      "lineNumber": 185,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 21,
+      "id": 68719476811,
+      "label": "IDENTIFIER",
+      "lineNumber": 86,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 22,
+      "id": 68719476918,
+      "label": "IDENTIFIER",
+      "lineNumber": 218,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "2",
+      "columnNumber": 29,
+      "id": 90194313223,
+      "label": "LITERAL",
+      "lineNumber": 55,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->state",
+      "columnNumber": 6,
+      "id": 30064771080,
+      "label": "CALL",
+      "lineNumber": 22,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&kssl_err",
+      "columnNumber": 5,
+      "id": 30064771187,
+      "label": "CALL",
+      "lineNumber": 119,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->session->master_key_length",
+      "columnNumber": 4,
+      "id": 30064771139,
+      "label": "CALL",
+      "lineNumber": 58,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s->session->sess_cert->peer_rsa_tmp",
+      "columnNumber": 8,
+      "id": 30064771097,
+      "label": "CALL",
+      "lineNumber": 37,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 6,
+      "id": 68719476917,
+      "label": "IDENTIFIER",
+      "lineNumber": 218,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s->session->master_key",
+      "columnNumber": 6,
+      "id": 30064771271,
+      "label": "CALL",
+      "lineNumber": 217,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0xff",
+      "columnNumber": 37,
+      "id": 90194313237,
+      "label": "LITERAL",
+      "lineNumber": 184,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->client_version",
+      "columnNumber": 19,
+      "id": 30064771228,
+      "label": "CALL",
+      "lineNumber": 183,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 5,
+      "id": 68719476794,
+      "label": "IDENTIFIER",
+      "lineNumber": 65,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s->version",
+      "columnNumber": 8,
+      "id": 30064771144,
+      "label": "CALL",
+      "lineNumber": 62,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 47,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 37,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "outl",
+      "columnNumber": 16,
+      "id": 68719476829,
+      "label": "IDENTIFIER",
+      "lineNumber": 104,
+      "name": "outl",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 8,
+      "id": 68719476877,
+      "label": "IDENTIFIER",
+      "lineNumber": 184,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 40,
+      "id": 68719476784,
+      "label": "IDENTIFIER",
+      "lineNumber": 55,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 35,
+      "id": 68719476813,
+      "label": "IDENTIFIER",
+      "lineNumber": 87,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "RAND_bytes(&(tmp_buf[2]),sizeof tmp_buf-2)",
+      "columnNumber": 12,
+      "id": 30064771234,
+      "label": "CALL",
+      "lineNumber": 185,
+      "name": "RAND_bytes",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "iv",
+      "columnNumber": 11,
+      "id": 68719476881,
+      "label": "IDENTIFIER",
+      "lineNumber": 195,
+      "name": "iv",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[EVP_MAX_IV_LENGTH]"
+    },
+    {
+      "code": "tmp_buf[0]",
+      "columnNumber": 4,
+      "id": 30064771125,
+      "label": "CALL",
+      "lineNumber": 53,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tmp_buf",
+      "columnNumber": 12,
+      "id": 68719476892,
+      "label": "IDENTIFIER",
+      "lineNumber": 199,
+      "name": "tmp_buf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "unsigned char[SSL_MAX_MASTER_KEY_LENGTH]"
+    },
+    {
+      "code": "s->session->master_key_length",
+      "columnNumber": 4,
+      "id": 30064771156,
+      "label": "CALL",
+      "lineNumber": 83,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 12,
+      "id": 90194313219,
+      "label": "LITERAL",
+      "lineNumber": 53,
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "int"
+    },
+    {
+      "code": "s->client_version",
+      "columnNumber": 15,
+      "id": 30064771127,
+      "label": "CALL",
+      "lineNumber": 53,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&enc_ticket",
+      "columnNumber": 37,
+      "id": 30064771186,
+      "label": "CALL",
+      "lineNumber": 118,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "enc",
+      "columnNumber": 33,
+      "id": 68719476884,
+      "label": "IDENTIFIER",
+      "lineNumber": 196,
+      "name": "enc",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "EVP_CIPHER*"
+    },
+    {
+      "code": "&(d[4])",
+      "columnNumber": 6,
+      "id": 30064771086,
+      "label": "CALL",
+      "lineNumber": 25,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_501557.c",
+      "parentMethod": "ssl3_send_client_key_exchange",
+      "typeFullName": "ANY"
+    }
+  ]
+}

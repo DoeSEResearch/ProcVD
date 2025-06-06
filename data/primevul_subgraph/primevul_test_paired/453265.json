@@ -1,0 +1,204 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 68719476742
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771080,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 30064771103
+    },
+    {
+      "dst": 68719476751,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 68719476743
+    },
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476742,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 30064771094,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 68719476751
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    }
+  ],
+  "nodes": [
+    {
+      "code": "box",
+      "columnNumber": 10,
+      "id": 68719476757,
+      "label": "IDENTIFIER",
+      "lineNumber": 63,
+      "name": "box",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jp2_box_t*"
+    },
+    {
+      "code": "in",
+      "columnNumber": 26,
+      "id": 68719476751,
+      "label": "IDENTIFIER",
+      "lineNumber": 51,
+      "name": "in",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jas_stream_t*"
+    },
+    {
+      "code": "jp2_box_get(in)",
+      "columnNumber": 14,
+      "id": 30064771081,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "jp2_box_get",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "in",
+      "columnNumber": 28,
+      "id": 68719476758,
+      "label": "IDENTIFIER",
+      "lineNumber": 63,
+      "name": "in",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jas_stream_t*"
+    },
+    {
+      "code": "box = jp2_box_get(in)",
+      "columnNumber": 8,
+      "id": 30064771080,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.assignment",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "box",
+      "columnNumber": 8,
+      "id": 68719476742,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "box",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jp2_box_t*"
+    },
+    {
+      "code": "box",
+      "columnNumber": 8,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 51,
+      "name": "box",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jp2_box_t*"
+    },
+    {
+      "code": "jas_stream_t *in",
+      "columnNumber": 25,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "in",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jas_stream_t*"
+    },
+    {
+      "code": "in",
+      "columnNumber": 26,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "in",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "jas_stream_t*"
+    },
+    {
+      "code": "jp2_box_get(in)",
+      "columnNumber": 14,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 51,
+      "name": "jp2_box_get",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "box = jp2_box_get(in)",
+      "columnNumber": 8,
+      "id": 30064771094,
+      "label": "CALL",
+      "lineNumber": 51,
+      "name": "<operator>.assignment",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "jp2_box_get(in)",
+      "columnNumber": 16,
+      "id": 30064771103,
+      "label": "CALL",
+      "lineNumber": 63,
+      "name": "jp2_box_get",
+      "parentFile": "code_PrimeVul_balanced_test_453265.c",
+      "parentMethod": "jp2_decode",
+      "typeFullName": "ANY"
+    }
+  ]
+}

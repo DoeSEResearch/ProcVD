@@ -1,0 +1,215 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "field",
+        "columnNumber": 14,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "unsigned long field",
+        "columnNumber": 26,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "value",
+        "columnNumber": 21,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "u32 value",
+        "columnNumber": 47,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "field",
+        "columnNumber": 14,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "unsigned long field",
+        "columnNumber": 26,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "value",
+        "columnNumber": 21,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "u32 value",
+        "columnNumber": 47,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "field",
+        "columnNumber": 14,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "unsigned long field",
+        "columnNumber": 26,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "field",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "longunsigned"
+      },
+      {
+        "code": "value",
+        "columnNumber": 21,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      },
+      {
+        "code": "u32 value",
+        "columnNumber": 47,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "value",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317400.c",
+        "parentMethod": "vmcs_write32",
+        "typeFullName": "u32"
+      }
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      }
+    ],
+    "nodes": [
+      {
+        "code": "res",
+        "columnNumber": 3,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "res",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "int"
+      },
+      {
+        "code": "struct fib6_walker *w",
+        "columnNumber": 27,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "w",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_walker*"
+      },
+      {
+        "code": "w->skip_in_node",
+        "columnNumber": 37,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rt6_dump_route(rt, w->args, w->skip_in_node)",
+        "columnNumber": 9,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "rt6_dump_route",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "w->args",
+        "columnNumber": 28,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rt",
+        "columnNumber": 24,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "rt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_info*"
+      },
+      {
+        "code": "w",
+        "columnNumber": 26,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "w",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_walker*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      }
+    ],
+    "nodes": [
+      {
+        "code": "res",
+        "columnNumber": 3,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "res",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "int"
+      },
+      {
+        "code": "struct fib6_walker *w",
+        "columnNumber": 27,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "w",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_walker*"
+      },
+      {
+        "code": "w->skip_in_node",
+        "columnNumber": 37,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rt6_dump_route(rt, w->args, w->skip_in_node)",
+        "columnNumber": 9,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "rt6_dump_route",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "w->args",
+        "columnNumber": 28,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rt",
+        "columnNumber": 24,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "rt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_info*"
+      },
+      {
+        "code": "w",
+        "columnNumber": 26,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "w",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_319060.c",
+        "parentMethod": "fib6_dump_node",
+        "typeFullName": "fib6_walker*"
+      }
+    ]
+  }
+]

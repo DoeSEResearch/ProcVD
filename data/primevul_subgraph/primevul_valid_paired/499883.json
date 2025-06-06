@@ -1,0 +1,303 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771087
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771087,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "keyptr->secret",
+        "columnNumber": 33,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hash[0]",
+        "columnNumber": 2,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hash",
+        "columnNumber": 9,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "__u32*"
+      },
+      {
+        "code": "half_md4_transform(hash, keyptr->secret)",
+        "columnNumber": 8,
+        "id": 30064771087,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "half_md4_transform",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hash",
+        "columnNumber": 27,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "__u32*"
+      },
+      {
+        "code": "ret",
+        "columnNumber": 2,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "ret",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "int"
+      },
+      {
+        "code": "get_cpu_var(get_random_int_hash)",
+        "columnNumber": 16,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "get_cpu_var",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "get_random_int_hash",
+        "columnNumber": 28,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "get_random_int_hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "current->pid + jiffies + get_cycles() + (int)(long)&ret",
+        "columnNumber": 13,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "keyptr",
+        "columnNumber": 2,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "keyptr",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "keydata*"
+      },
+      {
+        "code": "get_keyptr()",
+        "columnNumber": 11,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 7,
+        "name": "get_keyptr",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "hash[0]",
+        "columnNumber": 2,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hash",
+        "columnNumber": 9,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "__u32*"
+      },
+      {
+        "code": "hash",
+        "columnNumber": 2,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 8,
+        "name": "hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "__u32*"
+      },
+      {
+        "code": "get_cpu_var(get_random_int_hash)",
+        "columnNumber": 16,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "get_cpu_var",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "get_random_int_hash",
+        "columnNumber": 28,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "get_random_int_hash",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "current->pid + jiffies + get_cycles() + (int)(long)&ret",
+        "columnNumber": 13,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 8,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 7,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_balanced_valid_499883.c",
+        "parentMethod": "get_random_int",
+        "typeFullName": "int"
+      }
+    ]
+  }
+]

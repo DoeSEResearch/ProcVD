@@ -1,0 +1,573 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      }
+    ],
+    "nodes": [
+      {
+        "code": "ctx",
+        "columnNumber": 5,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL_CTX_new(SSLv23_client_method())",
+        "columnNumber": 11,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "SSL_CTX_new",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSLv23_client_method()",
+        "columnNumber": 23,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "SSLv23_client_method",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771133,
+        "label": "REACHING_DEF",
+        "src": 68719476781
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 30064771131
+      },
+      {
+        "dst": 68719476784,
+        "label": "REACHING_DEF",
+        "src": 68719476781
+      },
+      {
+        "dst": 30064771133,
+        "label": "REACHING_DEF",
+        "src": 68719476782
+      },
+      {
+        "dst": 68719476782,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476781,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771136,
+        "label": "REACHING_DEF",
+        "src": 68719476784
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771136
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476781,
+        "label": "REACHING_DEF",
+        "src": 30064771133
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      }
+    ],
+    "nodes": [
+      {
+        "code": "ssl",
+        "columnNumber": 18,
+        "id": 68719476777,
+        "label": "IDENTIFIER",
+        "lineNumber": 89,
+        "name": "ssl",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "this",
+        "columnNumber": 21,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 93,
+        "name": "this",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "rc",
+        "columnNumber": 9,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 100,
+        "name": "rc",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "SSL_connect(ssl)",
+        "columnNumber": 14,
+        "id": 30064771136,
+        "label": "CALL",
+        "lineNumber": 100,
+        "name": "SSL_connect",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ssl",
+        "columnNumber": 26,
+        "id": 68719476784,
+        "label": "IDENTIFIER",
+        "lineNumber": 100,
+        "name": "ssl",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "SSL_set_connect_state"
+      },
+      {
+        "code": "ssl",
+        "columnNumber": 16,
+        "id": 68719476779,
+        "label": "IDENTIFIER",
+        "lineNumber": 93,
+        "name": "ssl",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "SSL_set_connect_state"
+      },
+      {
+        "code": "String hostname",
+        "columnNumber": 65,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "hostname",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "String"
+      },
+      {
+        "code": "hostname.c_str()",
+        "columnNumber": 35,
+        "id": 30064771133,
+        "label": "CALL",
+        "lineNumber": 94,
+        "name": "c_str",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ssl",
+        "columnNumber": 21,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 88,
+        "name": "ssl",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "hostname",
+        "columnNumber": 35,
+        "id": 68719476782,
+        "label": "IDENTIFIER",
+        "lineNumber": 94,
+        "name": "hostname",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "String"
+      },
+      {
+        "code": "ssl",
+        "columnNumber": 30,
+        "id": 68719476781,
+        "label": "IDENTIFIER",
+        "lineNumber": 94,
+        "name": "ssl",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "SSL_set_connect_state"
+      },
+      {
+        "code": "this->getFD()",
+        "columnNumber": 21,
+        "id": 30064771131,
+        "label": "CALL",
+        "lineNumber": 93,
+        "name": "getFD",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL_MODE_AUTO_RETRY",
+        "columnNumber": 23,
+        "id": 68719476778,
+        "label": "IDENTIFIER",
+        "lineNumber": 89,
+        "name": "SSL_MODE_AUTO_RETRY",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      }
+    ],
+    "nodes": [
+      {
+        "code": "130l",
+        "columnNumber": 34,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 23,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "long"
+      },
+      {
+        "code": "SSL_CTX_new(SSLv23_client_method())",
+        "columnNumber": 11,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "SSL_CTX_new",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const std::string &certificate_path",
+        "columnNumber": 28,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "certificate_path",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "std.string&"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 49,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "certificate_path.c_str()",
+        "columnNumber": 65,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 36,
+        "name": "c_str",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "certificate_path",
+        "columnNumber": 9,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "certificate_path",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "std.string&"
+      },
+      {
+        "code": "certificate_path",
+        "columnNumber": 55,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "certificate_path",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "std.string&"
+      },
+      {
+        "code": "certificate_path.c_str()",
+        "columnNumber": 55,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 32,
+        "name": "c_str",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 44,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "certificate_path",
+        "columnNumber": 65,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 36,
+        "name": "certificate_path",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "std.string&"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 29,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 23,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 5,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "\"couldnt load certificates from %s\"",
+        "columnNumber": 28,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 36,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "char[34]"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 16,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "SSL_CTX_load_verify_locations(ctx, NULL, certificate_path.c_str())",
+        "columnNumber": 14,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 32,
+        "name": "SSL_CTX_load_verify_locations",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 9,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195095.cpp",
+        "parentMethod": "Socket.startSslClient:int(std.string&,String)",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

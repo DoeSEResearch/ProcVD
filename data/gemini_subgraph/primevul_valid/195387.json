@@ -1,0 +1,151 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 115964116994
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 115964116993
+    },
+    {
+      "dst": 68719476740,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 30064771076,
+      "label": "REACHING_DEF",
+      "src": 30064771077
+    },
+    {
+      "dst": 68719476738,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476739,
+      "label": "REACHING_DEF",
+      "src": 30064771075
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 30064771076
+    },
+    {
+      "dst": 30064771077,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 68719476738
+    }
+  ],
+  "nodes": [
+    {
+      "code": "tensor",
+      "columnNumber": 47,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "tensor",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "OpInfo.TensorProperties&"
+    },
+    {
+      "code": "BaseType(tensor.dtype())",
+      "columnNumber": 27,
+      "id": 30064771076,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "BaseType",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "DataTypeSize(BaseType(tensor.dtype()))",
+      "columnNumber": 14,
+      "id": 30064771075,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "DataTypeSize",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "tensor.dtype()",
+      "columnNumber": 36,
+      "id": 30064771077,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "dtype",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "found_unknown_shapes",
+      "columnNumber": 55,
+      "id": 68719476738,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "found_unknown_shapes",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "bool*"
+    },
+    {
+      "code": "tensor",
+      "columnNumber": 36,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "tensor",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "OpInfo.TensorProperties&"
+    },
+    {
+      "code": "const OpInfo::TensorProperties& tensor",
+      "columnNumber": 5,
+      "id": 115964116993,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 2,
+      "name": "tensor",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "OpInfo.TensorProperties&"
+    },
+    {
+      "code": "size",
+      "columnNumber": 7,
+      "id": 68719476739,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "size",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "int"
+    },
+    {
+      "code": "bool* found_unknown_shapes",
+      "columnNumber": 45,
+      "id": 115964116994,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 2,
+      "name": "found_unknown_shapes",
+      "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195387.cpp",
+      "parentMethod": "OpLevelCostEstimator.CalculateTensorSize:int64_t(OpInfo.TensorProperties&,bool*)",
+      "typeFullName": "bool*"
+    }
+  ]
+}

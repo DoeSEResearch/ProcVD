@@ -1,0 +1,403 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [],
+    "nodes": [
+      {
+        "code": "FALSE",
+        "columnNumber": 9,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "FALSE",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      }
+    ],
+    "nodes": [
+      {
+        "code": "INSERT + CMDLINE",
+        "columnNumber": 21,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "curscript",
+        "columnNumber": 25,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "curscript",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "State",
+        "columnNumber": 12,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "State",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 39,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "scriptin[curscript]",
+        "columnNumber": 16,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "!(State & (INSERT + CMDLINE)) || arrow_used",
+        "columnNumber": 10,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.logicalOr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "scriptin[curscript] == NULL",
+        "columnNumber": 16,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "scriptin",
+        "columnNumber": 16,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "scriptin",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "!(State & (INSERT + CMDLINE))",
+        "columnNumber": 10,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "State & (INSERT + CMDLINE)",
+        "columnNumber": 12,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "arrow_used",
+        "columnNumber": 43,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "arrow_used",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      }
+    ],
+    "nodes": [
+      {
+        "code": "INSERT + CMDLINE",
+        "columnNumber": 21,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "State",
+        "columnNumber": 12,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "State",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NULL",
+        "columnNumber": 39,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "NULL",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "scriptin[curscript]",
+        "columnNumber": 16,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "!(State & (INSERT + CMDLINE)) || arrow_used",
+        "columnNumber": 10,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.logicalOr",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "scriptin[curscript] == NULL",
+        "columnNumber": 16,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.equals",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "!(State & (INSERT + CMDLINE))",
+        "columnNumber": 10,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.logicalNot",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "State & (INSERT + CMDLINE)",
+        "columnNumber": 12,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "<operator>.and",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "arrow_used",
+        "columnNumber": 43,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "arrow_used",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_312252.c",
+        "parentMethod": "may_sync_undo",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

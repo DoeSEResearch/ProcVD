@@ -1,0 +1,425 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      }
+    ],
+    "nodes": [
+      {
+        "code": "node",
+        "columnNumber": 7,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "0",
+        "columnNumber": 53,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ParseTensorName(node.input(0))",
+        "columnNumber": 26,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "ParseTensorName",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 51,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "node",
+        "columnNumber": 42,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "const NodeDef& node",
+        "columnNumber": 32,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "node",
+        "columnNumber": 19,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "node.input(0)",
+        "columnNumber": 42,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tensor_id",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476741
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 30064771083,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771083
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      }
+    ],
+    "nodes": [
+      {
+        "code": "tensor_id",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      },
+      {
+        "code": "input_node",
+        "columnNumber": 14,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "input_node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef*"
+      },
+      {
+        "code": "graph",
+        "columnNumber": 27,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "graph",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "MutableGraphView&"
+      },
+      {
+        "code": "ParseTensorName(node.input(0))",
+        "columnNumber": 26,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "ParseTensorName",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tensor_id.node()",
+        "columnNumber": 41,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tensor_id",
+        "columnNumber": 31,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      },
+      {
+        "code": "tensor_id",
+        "columnNumber": 41,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 10,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      },
+      {
+        "code": "const MutableGraphView& graph",
+        "columnNumber": 32,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "graph",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "MutableGraphView&"
+      },
+      {
+        "code": "graph.GetNode(tensor_id.node())",
+        "columnNumber": 27,
+        "id": 30064771083,
+        "label": "CALL",
+        "lineNumber": 10,
+        "name": "GetNode",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476741,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      }
+    ],
+    "nodes": [
+      {
+        "code": "0",
+        "columnNumber": 53,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 5,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ParseTensorName(node.input(0))",
+        "columnNumber": 26,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "ParseTensorName",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "node",
+        "columnNumber": 42,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "node",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "NodeDef&"
+      },
+      {
+        "code": "tensor_id",
+        "columnNumber": 31,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      },
+      {
+        "code": "node.input(0)",
+        "columnNumber": 42,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tensor_id",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "tensor_id",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_195399.cpp",
+        "parentMethod": "IsIdentityConsumingSwitch:bool(MutableGraphView&,NodeDef&)",
+        "typeFullName": "TensorId"
+      }
+    ]
+  }
+]

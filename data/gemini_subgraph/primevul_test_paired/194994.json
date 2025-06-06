@@ -1,0 +1,516 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771151,
+      "label": "REACHING_DEF",
+      "src": 30064771184
+    },
+    {
+      "dst": 30064771140,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 30064771141,
+      "label": "REACHING_DEF",
+      "src": 30064771184
+    },
+    {
+      "dst": 68719476789,
+      "label": "REACHING_DEF",
+      "src": 30064771140
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476767
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476772
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771139,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 30064771139,
+      "label": "REACHING_DEF",
+      "src": 30064771140
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771156,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 30064771141,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 30064771175,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 30064771141,
+      "label": "REACHING_DEF",
+      "src": 30064771140
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476760,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771175,
+      "label": "REACHING_DEF",
+      "src": 30064771156
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771129,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 30064771151,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 30064771151,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 68719476761
+    },
+    {
+      "dst": 30064771140,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 68719476787
+    },
+    {
+      "dst": 30064771156,
+      "label": "REACHING_DEF",
+      "src": 30064771151
+    },
+    {
+      "dst": 30064771184,
+      "label": "REACHING_DEF",
+      "src": 30064771175
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 30064771129,
+      "label": "REACHING_DEF",
+      "src": 68719476780
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 68719476780
+    },
+    {
+      "dst": 68719476764,
+      "label": "REACHING_DEF",
+      "src": 68719476762
+    },
+    {
+      "dst": 30064771184,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 68719476787,
+      "label": "REACHING_DEF",
+      "src": 68719476773
+    },
+    {
+      "dst": 30064771139,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 30064771156,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 30064771139
+    },
+    {
+      "dst": 30064771175,
+      "label": "REACHING_DEF",
+      "src": 68719476779
+    },
+    {
+      "dst": 30064771140,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476779,
+      "label": "REACHING_DEF",
+      "src": 30064771129
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476762
+    },
+    {
+      "dst": 68719476789,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476760
+    },
+    {
+      "dst": 30064771184,
+      "label": "REACHING_DEF",
+      "src": 30064771141
+    },
+    {
+      "dst": 68719476773,
+      "label": "REACHING_DEF",
+      "src": 68719476764
+    }
+  ],
+  "nodes": [
+    {
+      "code": "n",
+      "columnNumber": 33,
+      "id": 68719476787,
+      "label": "IDENTIFIER",
+      "lineNumber": 47,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "s",
+      "columnNumber": 12,
+      "id": 68719476788,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "s",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "Status"
+    },
+    {
+      "code": "item->kernel",
+      "columnNumber": 30,
+      "id": 30064771156,
+      "label": "CALL",
+      "lineNumber": 56,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 32,
+      "id": 68719476760,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "gview_",
+      "columnNumber": 22,
+      "id": 68719476780,
+      "label": "IDENTIFIER",
+      "lineNumber": 43,
+      "name": "gview_",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "params_",
+      "columnNumber": 16,
+      "id": 68719476789,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "params_",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 59,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "item->kernel",
+      "columnNumber": 22,
+      "id": 30064771184,
+      "label": "CALL",
+      "lineNumber": 73,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "id",
+      "columnNumber": 34,
+      "id": 68719476781,
+      "label": "IDENTIFIER",
+      "lineNumber": 43,
+      "name": "id",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "int"
+    },
+    {
+      "code": "n->properties()",
+      "columnNumber": 38,
+      "id": 30064771140,
+      "label": "CALL",
+      "lineNumber": 49,
+      "name": "properties",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "item->kernel",
+      "columnNumber": 11,
+      "id": 30064771151,
+      "label": "CALL",
+      "lineNumber": 55,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 38,
+      "id": 68719476767,
+      "label": "IDENTIFIER",
+      "lineNumber": 33,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 18,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "item->kernel",
+      "columnNumber": 34,
+      "id": 30064771175,
+      "label": "CALL",
+      "lineNumber": 65,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "params_.create_kernel(n->properties(), &item->kernel)",
+      "columnNumber": 16,
+      "id": 30064771139,
+      "label": "CALL",
+      "lineNumber": 49,
+      "name": "create_kernel",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 38,
+      "id": 68719476790,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "&item->kernel",
+      "columnNumber": 55,
+      "id": 30064771141,
+      "label": "CALL",
+      "lineNumber": 49,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 46,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 21,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 23,
+      "id": 68719476764,
+      "label": "IDENTIFIER",
+      "lineNumber": 23,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "n",
+      "columnNumber": 20,
+      "id": 68719476773,
+      "label": "IDENTIFIER",
+      "lineNumber": 39,
+      "name": "n",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "gview_",
+      "columnNumber": 23,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 14,
+      "name": "gview_",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "gview_.node(id)",
+      "columnNumber": 22,
+      "id": 30064771129,
+      "label": "CALL",
+      "lineNumber": 43,
+      "name": "node",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "id",
+      "columnNumber": 15,
+      "id": 68719476772,
+      "label": "IDENTIFIER",
+      "lineNumber": 39,
+      "name": "id",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "int"
+    },
+    {
+      "code": "item",
+      "columnNumber": 15,
+      "id": 68719476779,
+      "label": "IDENTIFIER",
+      "lineNumber": 43,
+      "name": "item",
+      "parentFile": "code_PrimeVul_balanced_test_194994.cpp",
+      "parentMethod": "ImmutableExecutorState.Initialize:Status(Graph&)",
+      "typeFullName": "NodeItem*"
+    }
+  ]
+}

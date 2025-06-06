@@ -1,0 +1,221 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      }
+    ],
+    "nodes": [
+      {
+        "code": "instruction",
+        "columnNumber": 7,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "instruction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "char[3]"
+      },
+      {
+        "code": "instruction[3]",
+        "columnNumber": 7,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.alloc",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "char[3]"
+      },
+      {
+        "code": "3",
+        "columnNumber": 19,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      }
+    ],
+    "nodes": [
+      {
+        "code": "vcpu",
+        "columnNumber": 35,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 31,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "vcpu",
+        "columnNumber": 19,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "kvm_vcpu*"
+      },
+      {
+        "code": "instruction",
+        "columnNumber": 7,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "instruction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "char[3]"
+      },
+      {
+        "code": "instruction",
+        "columnNumber": 37,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "instruction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "char[3]"
+      },
+      {
+        "code": "kvm_x86_ops",
+        "columnNumber": 2,
+        "id": 68719476741,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "kvm_x86_ops",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "instruction[3]",
+        "columnNumber": 7,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.alloc",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "char[3]"
+      },
+      {
+        "code": "patch_hypercall",
+        "columnNumber": 2,
+        "id": 55834574848,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall"
+      },
+      {
+        "code": "ctxt",
+        "columnNumber": 39,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "ctxt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "x86_emulate_ctxt*"
+      },
+      {
+        "code": "3",
+        "columnNumber": 19,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "int"
+      },
+      {
+        "code": "emul_to_vcpu(ctxt)",
+        "columnNumber": 26,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "emul_to_vcpu",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317468.c",
+        "parentMethod": "emulator_fix_hypercall",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

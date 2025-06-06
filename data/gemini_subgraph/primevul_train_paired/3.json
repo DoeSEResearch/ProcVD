@@ -1,0 +1,768 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771174,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476821,
+      "label": "REACHING_DEF",
+      "src": 68719476822
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476836
+    },
+    {
+      "dst": 68719476829,
+      "label": "REACHING_DEF",
+      "src": 30064771171
+    },
+    {
+      "dst": 68719476789,
+      "label": "REACHING_DEF",
+      "src": 90194313221
+    },
+    {
+      "dst": 30064771167,
+      "label": "REACHING_DEF",
+      "src": 30064771168
+    },
+    {
+      "dst": 68719476767,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 68719476780,
+      "label": "REACHING_DEF",
+      "src": 68719476774
+    },
+    {
+      "dst": 68719476834,
+      "label": "REACHING_DEF",
+      "src": 30064771174
+    },
+    {
+      "dst": 30064771167,
+      "label": "REACHING_DEF",
+      "src": 68719476827
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476830,
+      "label": "REACHING_DEF",
+      "src": 68719476811
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 68719476826
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476830,
+      "label": "REACHING_DEF",
+      "src": 68719476831
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476836
+    },
+    {
+      "dst": 30064771174,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 68719476830
+    },
+    {
+      "dst": 68719476809,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 30064771174,
+      "label": "REACHING_DEF",
+      "src": 68719476836
+    },
+    {
+      "dst": 68719476827,
+      "label": "REACHING_DEF",
+      "src": 68719476822
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 68719476809
+    },
+    {
+      "dst": 68719476836,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 68719476782
+    },
+    {
+      "dst": 68719476831,
+      "label": "REACHING_DEF",
+      "src": 68719476832
+    },
+    {
+      "dst": 68719476808,
+      "label": "REACHING_DEF",
+      "src": 68719476805
+    },
+    {
+      "dst": 68719476826,
+      "label": "REACHING_DEF",
+      "src": 30064771167
+    },
+    {
+      "dst": 68719476811,
+      "label": "REACHING_DEF",
+      "src": 68719476808
+    },
+    {
+      "dst": 68719476769,
+      "label": "REACHING_DEF",
+      "src": 30064771103
+    },
+    {
+      "dst": 30064771168,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771169,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 68719476822,
+      "label": "REACHING_DEF",
+      "src": 68719476821
+    },
+    {
+      "dst": 68719476782,
+      "label": "REACHING_DEF",
+      "src": 30064771119
+    },
+    {
+      "dst": 68719476827,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 68719476831
+    },
+    {
+      "dst": 68719476822,
+      "label": "REACHING_DEF",
+      "src": 68719476780
+    },
+    {
+      "dst": 68719476774,
+      "label": "REACHING_DEF",
+      "src": 30064771111
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476811
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 68719476830
+    },
+    {
+      "dst": 30064771168,
+      "label": "REACHING_DEF",
+      "src": 30064771169
+    },
+    {
+      "dst": 30064771169,
+      "label": "REACHING_DEF",
+      "src": 30064771168
+    },
+    {
+      "dst": 30064771168,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771168,
+      "label": "REACHING_DEF",
+      "src": 68719476827
+    },
+    {
+      "dst": 30064771171,
+      "label": "REACHING_DEF",
+      "src": 68719476832
+    },
+    {
+      "dst": 30064771167,
+      "label": "REACHING_DEF",
+      "src": 30064771169
+    },
+    {
+      "dst": 68719476805,
+      "label": "REACHING_DEF",
+      "src": 30064771149
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 68719476832,
+      "label": "REACHING_DEF",
+      "src": 68719476831
+    },
+    {
+      "dst": 68719476827,
+      "label": "REACHING_DEF",
+      "src": 30064771169
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 68719476835,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476811,
+      "label": "REACHING_DEF",
+      "src": 90194313225
+    },
+    {
+      "dst": 68719476836,
+      "label": "REACHING_DEF",
+      "src": 68719476835
+    },
+    {
+      "dst": 68719476836,
+      "label": "REACHING_DEF",
+      "src": 68719476822
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476832,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 68719476822,
+      "label": "REACHING_DEF",
+      "src": 68719476781
+    },
+    {
+      "dst": 68719476832,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 68719476781,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 68719476830,
+      "label": "REACHING_DEF",
+      "src": 68719476832
+    },
+    {
+      "dst": 30064771167,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 68719476832,
+      "label": "REACHING_DEF",
+      "src": 68719476830
+    },
+    {
+      "dst": 68719476827,
+      "label": "REACHING_DEF",
+      "src": 30064771168
+    },
+    {
+      "dst": 30064771169,
+      "label": "REACHING_DEF",
+      "src": 68719476827
+    }
+  ],
+  "nodes": [
+    {
+      "code": "csock",
+      "columnNumber": 16,
+      "id": 68719476811,
+      "label": "IDENTIFIER",
+      "lineNumber": 60,
+      "name": "csock",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "\"-wget@\"",
+      "columnNumber": 25,
+      "id": 90194313221,
+      "label": "LITERAL",
+      "lineNumber": 40,
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "\"anonymous\"",
+      "columnNumber": 21,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 38,
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "user",
+      "columnNumber": 33,
+      "id": 68719476836,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "u->host",
+      "columnNumber": 54,
+      "id": 30064771168,
+      "label": "CALL",
+      "lineNumber": 77,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "struct url *u",
+      "columnNumber": 9,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "u",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "url*"
+    },
+    {
+      "code": "ftp_login (csock, logname, passwd)",
+      "columnNumber": 17,
+      "id": 30064771171,
+      "label": "CALL",
+      "lineNumber": 78,
+      "name": "ftp_login",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "csock",
+      "columnNumber": 11,
+      "id": 68719476808,
+      "label": "IDENTIFIER",
+      "lineNumber": 58,
+      "name": "csock",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "user",
+      "columnNumber": 43,
+      "id": 68719476827,
+      "label": "IDENTIFIER",
+      "lineNumber": 77,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "user ? user : (opt.ftp_user ? opt.ftp_user : opt.user)",
+      "columnNumber": 10,
+      "id": 30064771111,
+      "label": "CALL",
+      "lineNumber": 37,
+      "name": "<operator>.conditional",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 39,
+      "id": 68719476837,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "err",
+      "columnNumber": 11,
+      "id": 68719476829,
+      "label": "IDENTIFIER",
+      "lineNumber": 78,
+      "name": "err",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "uerr_t"
+    },
+    {
+      "code": "err",
+      "columnNumber": 9,
+      "id": 68719476834,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "err",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "uerr_t"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 44,
+      "id": 68719476832,
+      "label": "IDENTIFIER",
+      "lineNumber": 78,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "\"@\"",
+      "columnNumber": 49,
+      "id": 90194313229,
+      "label": "LITERAL",
+      "lineNumber": 77,
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 3,
+      "id": 68719476782,
+      "label": "IDENTIFIER",
+      "lineNumber": 39,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "u->passwd",
+      "columnNumber": 12,
+      "id": 30064771103,
+      "label": "CALL",
+      "lineNumber": 35,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "user",
+      "columnNumber": 8,
+      "id": 68719476780,
+      "label": "IDENTIFIER",
+      "lineNumber": 38,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "logname",
+      "columnNumber": 35,
+      "id": 68719476831,
+      "label": "IDENTIFIER",
+      "lineNumber": 78,
+      "name": "logname",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "csock",
+      "columnNumber": 26,
+      "id": 68719476835,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "csock",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "csock",
+      "columnNumber": 7,
+      "id": 68719476805,
+      "label": "IDENTIFIER",
+      "lineNumber": 57,
+      "name": "csock",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "0",
+      "columnNumber": 24,
+      "id": 90194313225,
+      "label": "LITERAL",
+      "lineNumber": 60,
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "csock",
+      "columnNumber": 28,
+      "id": 68719476830,
+      "label": "IDENTIFIER",
+      "lineNumber": 78,
+      "name": "csock",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "int"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 16,
+      "id": 68719476789,
+      "label": "IDENTIFIER",
+      "lineNumber": 40,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "user",
+      "columnNumber": 3,
+      "id": 68719476767,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "(char *) 0",
+      "columnNumber": 63,
+      "id": 30064771169,
+      "label": "CALL",
+      "lineNumber": 77,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "user",
+      "columnNumber": 14,
+      "id": 68719476781,
+      "label": "IDENTIFIER",
+      "lineNumber": 38,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 8,
+      "id": 68719476788,
+      "label": "IDENTIFIER",
+      "lineNumber": 40,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "E_HOST",
+      "columnNumber": 20,
+      "id": 68719476809,
+      "label": "IDENTIFIER",
+      "lineNumber": 58,
+      "name": "E_HOST",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "logname",
+      "columnNumber": 17,
+      "id": 68719476826,
+      "label": "IDENTIFIER",
+      "lineNumber": 77,
+      "name": "logname",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "concat_strings (user, \"@\", u->host, (char *) 0)",
+      "columnNumber": 27,
+      "id": 30064771167,
+      "label": "CALL",
+      "lineNumber": 77,
+      "name": "concat_strings",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "passwd",
+      "columnNumber": 3,
+      "id": 68719476769,
+      "label": "IDENTIFIER",
+      "lineNumber": 35,
+      "name": "passwd",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "passwd ? passwd : (opt.ftp_passwd ? opt.ftp_passwd : opt.passwd)",
+      "columnNumber": 12,
+      "id": 30064771119,
+      "label": "CALL",
+      "lineNumber": 39,
+      "name": "<operator>.conditional",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "u->host",
+      "columnNumber": 17,
+      "id": 30064771105,
+      "label": "CALL",
+      "lineNumber": 36,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "user",
+      "columnNumber": 56,
+      "id": 68719476822,
+      "label": "IDENTIFIER",
+      "lineNumber": 71,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "escape_quoting_style",
+      "columnNumber": 34,
+      "id": 68719476821,
+      "label": "IDENTIFIER",
+      "lineNumber": 71,
+      "name": "escape_quoting_style",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "connect_to_host (host, port)",
+      "columnNumber": 15,
+      "id": 30064771149,
+      "label": "CALL",
+      "lineNumber": 57,
+      "name": "connect_to_host",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "user",
+      "columnNumber": 3,
+      "id": 68719476774,
+      "label": "IDENTIFIER",
+      "lineNumber": 37,
+      "name": "user",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "ftp_login (csock, user, passwd)",
+      "columnNumber": 15,
+      "id": 30064771174,
+      "label": "CALL",
+      "lineNumber": 82,
+      "name": "ftp_login",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "u->user",
+      "columnNumber": 10,
+      "id": 30064771101,
+      "label": "CALL",
+      "lineNumber": 34,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_train_3.c",
+      "parentMethod": "getftp",
+      "typeFullName": "ANY"
+    }
+  ]
+}

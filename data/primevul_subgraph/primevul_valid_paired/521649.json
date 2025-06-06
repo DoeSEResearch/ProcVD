@@ -1,0 +1,66 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 30064771074
+    },
+    {
+      "dst": 30064771074,
+      "label": "REACHING_DEF",
+      "src": 30064771075
+    },
+    {
+      "dst": 30064771075,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    }
+  ],
+  "nodes": [
+    {
+      "code": "year",
+      "columnNumber": 11,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "year",
+      "parentFile": "code_PrimeVul_balanced_valid_521649.c",
+      "parentMethod": "unpack_timestamp",
+      "typeFullName": "uint16_t"
+    },
+    {
+      "code": "le16_to_cpu(timestamp->year)",
+      "columnNumber": 18,
+      "id": 30064771074,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "le16_to_cpu",
+      "parentFile": "code_PrimeVul_balanced_valid_521649.c",
+      "parentMethod": "unpack_timestamp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "timestamp->year",
+      "columnNumber": 30,
+      "id": 30064771075,
+      "label": "CALL",
+      "lineNumber": 4,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_521649.c",
+      "parentMethod": "unpack_timestamp",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "const struct efi_time *timestamp",
+      "columnNumber": 34,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "timestamp",
+      "parentFile": "code_PrimeVul_balanced_valid_521649.c",
+      "parentMethod": "unpack_timestamp",
+      "typeFullName": "efi_time*"
+    }
+  ]
+}

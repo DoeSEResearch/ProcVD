@@ -1,0 +1,106 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [],
+    "nodes": [
+      {
+        "code": "compression",
+        "columnNumber": 37,
+        "id": 55834574850,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 13,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)"
+      },
+      {
+        "code": "cql_frame_flags",
+        "columnNumber": 20,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 13,
+        "name": "cql_frame_flags",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "response"
+      },
+      {
+        "code": "cql_compression",
+        "columnNumber": 10,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "cql_compression",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "response"
+      },
+      {
+        "code": "lz4",
+        "columnNumber": 27,
+        "id": 55834574848,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)"
+      },
+      {
+        "code": "snappy",
+        "columnNumber": 27,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)"
+      },
+      {
+        "code": "cql_compression",
+        "columnNumber": 10,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "cql_compression",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "response"
+      },
+      {
+        "code": "\"Invalid CQL compression algorithm\"",
+        "columnNumber": 37,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "char[34]"
+      },
+      {
+        "code": "cql_frame_flags::compression",
+        "columnNumber": 20,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [],
+    "nodes": [
+      {
+        "code": "cql_frame_flags::compression",
+        "columnNumber": 20,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 13,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_229225.cpp",
+        "parentMethod": "cql_server.response.compress:void(cql_compression)",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

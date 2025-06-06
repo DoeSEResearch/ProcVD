@@ -1,0 +1,2666 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476937,
+        "label": "REACHING_DEF",
+        "src": 30064771296
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 30064771122
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771143
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476827,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 30064771162,
+        "label": "REACHING_DEF",
+        "src": 68719476827
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 30064771131
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 30064771152
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 30064771111,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771122
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 30064771117
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771296,
+        "label": "REACHING_DEF",
+        "src": 68719476937
+      },
+      {
+        "dst": 30064771117,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 68719476827,
+        "label": "REACHING_DEF",
+        "src": 30064771162
+      }
+    ],
+    "nodes": [
+      {
+        "code": "high",
+        "columnNumber": 58,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 6,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 6,
+        "id": 30064771117,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 29,
+        "id": 68719476827,
+        "label": "IDENTIFIER",
+        "lineNumber": 77,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 62,
+        "id": 68719476799,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 13,
+        "id": 30064771122,
+        "label": "CALL",
+        "lineNumber": 51,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 6,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 9,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "unsigned int low",
+        "columnNumber": 44,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771152,
+        "label": "CALL",
+        "lineNumber": 61,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 41,
+        "id": 68719476791,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 65,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 43,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 111,
+        "id": 30064771147,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high + 1",
+        "columnNumber": 26,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 34,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 51,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 48,
+        "id": 30064771131,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 9,
+        "id": 30064771162,
+        "label": "CALL",
+        "lineNumber": 77,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 31,
+        "id": 68719476937,
+        "label": "IDENTIFIER",
+        "lineNumber": 133,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 14,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 21,
+        "id": 30064771111,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 34,
+        "id": 68719476790,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].out + high + 1",
+        "columnNumber": 80,
+        "id": 30064771143,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 30,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 57,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 61,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 14,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "unsigned int high",
+        "columnNumber": 62,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 12,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 27,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 50,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 10,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 16,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low - 1",
+        "columnNumber": 27,
+        "id": 30064771119,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 11,
+        "id": 30064771296,
+        "label": "CALL",
+        "lineNumber": 133,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771107
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476821
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476822
+      },
+      {
+        "dst": 68719476814,
+        "label": "REACHING_DEF",
+        "src": 68719476815
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476858,
+        "label": "REACHING_DEF",
+        "src": 68719476857
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476841,
+        "label": "REACHING_DEF",
+        "src": 68719476842
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476858
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476875
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476875,
+        "label": "REACHING_DEF",
+        "src": 68719476874
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476831,
+        "label": "REACHING_DEF",
+        "src": 68719476832
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476875,
+        "label": "REACHING_DEF",
+        "src": 68719476857
+      },
+      {
+        "dst": 68719476822,
+        "label": "REACHING_DEF",
+        "src": 68719476821
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476832,
+        "label": "REACHING_DEF",
+        "src": 68719476823
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771107,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476815,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476814
+      },
+      {
+        "dst": 68719476858,
+        "label": "REACHING_DEF",
+        "src": 68719476842
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476822
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476839
+      },
+      {
+        "dst": 68719476857,
+        "label": "REACHING_DEF",
+        "src": 68719476831
+      },
+      {
+        "dst": 68719476874,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 68719476842,
+        "label": "REACHING_DEF",
+        "src": 68719476841
+      },
+      {
+        "dst": 68719476821,
+        "label": "REACHING_DEF",
+        "src": 68719476816
+      }
+    ],
+    "nodes": [
+      {
+        "code": "gt",
+        "columnNumber": 6,
+        "id": 68719476814,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 32,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 24,
+        "id": 68719476875,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 11,
+        "id": 68719476815,
+        "label": "IDENTIFIER",
+        "lineNumber": 62,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 11,
+        "id": 68719476821,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 21,
+        "id": 68719476839,
+        "label": "IDENTIFIER",
+        "lineNumber": 87,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "move",
+        "columnNumber": 16,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 16,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 14,
+        "id": 68719476842,
+        "label": "IDENTIFIER",
+        "lineNumber": 96,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "cmap->ttop",
+        "columnNumber": 23,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 16,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "pdf_cmap *cmap",
+        "columnNumber": 28,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "current",
+        "columnNumber": 11,
+        "id": 68719476832,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 16,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "move",
+        "columnNumber": 7,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476823,
+        "label": "IDENTIFIER",
+        "lineNumber": 76,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 9,
+        "id": 68719476857,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 19,
+        "id": 68719476822,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "move",
+        "columnNumber": 15,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 26,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 21,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 17,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "gt",
+        "columnNumber": 6,
+        "id": 68719476831,
+        "label": "IDENTIFIER",
+        "lineNumber": 80,
+        "name": "gt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "delete_node(cmap, current)",
+        "columnNumber": 14,
+        "id": 30064771107,
+        "label": "CALL",
+        "lineNumber": 42,
+        "name": "delete_node",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "lt",
+        "columnNumber": 8,
+        "id": 68719476841,
+        "label": "IDENTIFIER",
+        "lineNumber": 96,
+        "name": "lt",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 56,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "EMPTY",
+        "columnNumber": 15,
+        "id": 68719476858,
+        "label": "IDENTIFIER",
+        "lineNumber": 99,
+        "name": "EMPTY",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "move",
+        "columnNumber": 6,
+        "id": 68719476816,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 18,
+        "id": 68719476874,
+        "label": "IDENTIFIER",
+        "lineNumber": 102,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 90194313222
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771137,
+        "label": "REACHING_DEF",
+        "src": 30064771139
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476801,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 30064771144
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476771
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 68719476794,
+        "label": "REACHING_DEF",
+        "src": 30064771134
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771134,
+        "label": "REACHING_DEF",
+        "src": 30064771131
+      },
+      {
+        "dst": 30064771134,
+        "label": "REACHING_DEF",
+        "src": 30064771114
+      },
+      {
+        "dst": 30064771142,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771143,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 30064771085,
+        "label": "REACHING_DEF",
+        "src": 68719476752
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771147
+      },
+      {
+        "dst": 30064771076,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771076
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771124,
+        "label": "REACHING_DEF",
+        "src": 30064771122
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771094,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771124
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771139,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 30064771131,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 30064771139,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476801
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771146,
+        "label": "REACHING_DEF",
+        "src": 30064771137
+      },
+      {
+        "dst": 68719476803,
+        "label": "REACHING_DEF",
+        "src": 68719476794
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 30064771134,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771092,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 30064771131
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 30064771093,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 30064771152
+      },
+      {
+        "dst": 30064771142,
+        "label": "REACHING_DEF",
+        "src": 30064771143
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 30064771111,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771122
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771094
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476806
+      },
+      {
+        "dst": 30064771114,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 30064771122,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 68719476752,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476771,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 30064771085
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 30064771091,
+        "label": "REACHING_DEF",
+        "src": 30064771093
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 30064771147,
+        "label": "REACHING_DEF",
+        "src": 30064771143
+      }
+    ],
+    "nodes": [
+      {
+        "code": "high + 1",
+        "columnNumber": 27,
+        "id": 30064771094,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 6,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "new_high",
+        "columnNumber": 70,
+        "id": 68719476803,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "new_high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 13,
+        "id": 30064771122,
+        "label": "CALL",
+        "lineNumber": 51,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 6,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 9,
+        "id": 68719476752,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 38,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "unsigned int low",
+        "columnNumber": 44,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771152,
+        "label": "CALL",
+        "lineNumber": 61,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "out",
+        "columnNumber": 80,
+        "id": 55834574868,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 58,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range"
+      },
+      {
+        "code": "high",
+        "columnNumber": 41,
+        "id": 68719476791,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap->tree",
+        "columnNumber": 9,
+        "id": 30064771076,
+        "label": "CALL",
+        "lineNumber": 12,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 65,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 43,
+        "id": 30064771114,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 66,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 57,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 41,
+        "id": 30064771137,
+        "label": "CALL",
+        "lineNumber": 57,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 111,
+        "id": 30064771147,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 130,
+        "id": 90194313223,
+        "label": "LITERAL",
+        "lineNumber": 58,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 58,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "fz_context *ctx",
+        "columnNumber": 11,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "fz_context*"
+      },
+      {
+        "code": "high+1",
+        "columnNumber": 62,
+        "id": 30064771141,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].many",
+        "columnNumber": 133,
+        "id": 30064771149,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "current",
+        "columnNumber": 32,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "tree",
+        "columnNumber": 2,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 12,
+        "name": "tree",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "cmap_splay*"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 56,
+        "id": 30064771134,
+        "label": "CALL",
+        "lineNumber": 56,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "new_high",
+        "columnNumber": 45,
+        "id": 68719476794,
+        "label": "IDENTIFIER",
+        "lineNumber": 56,
+        "name": "new_high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 34,
+        "id": 30064771124,
+        "label": "CALL",
+        "lineNumber": 51,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current]",
+        "columnNumber": 6,
+        "id": 30064771092,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 33,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 50,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "tree[current]",
+        "columnNumber": 80,
+        "id": 30064771146,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.indirectIndexAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low-1",
+        "columnNumber": 62,
+        "id": 30064771139,
+        "label": "CALL",
+        "lineNumber": 57,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].out + high",
+        "columnNumber": 80,
+        "id": 30064771144,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 48,
+        "id": 30064771131,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 14,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "ctx",
+        "columnNumber": 51,
+        "id": 68719476800,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "ctx",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "fz_context*"
+      },
+      {
+        "code": "tree[current].out",
+        "columnNumber": 80,
+        "id": 30064771145,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "move",
+        "columnNumber": 15,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "move",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 100,
+        "id": 68719476806,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 62,
+        "id": 68719476799,
+        "label": "IDENTIFIER",
+        "lineNumber": 57,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 26,
+        "id": 68719476771,
+        "label": "IDENTIFIER",
+        "lineNumber": 42,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 21,
+        "id": 30064771111,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "low",
+        "columnNumber": 34,
+        "id": 68719476790,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].out + high + 1 - tree[current].low",
+        "columnNumber": 80,
+        "id": 30064771142,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "cmap",
+        "columnNumber": 56,
+        "id": 68719476801,
+        "label": "IDENTIFIER",
+        "lineNumber": 58,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 30,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "out",
+        "columnNumber": 6,
+        "id": 55834574854,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 38,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range"
+      },
+      {
+        "code": "tree[current].out + high + 1",
+        "columnNumber": 80,
+        "id": 30064771143,
+        "label": "CALL",
+        "lineNumber": 58,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 57,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 61,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 14,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "unsigned int high",
+        "columnNumber": 62,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "current",
+        "columnNumber": 5,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "current",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 12,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 27,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 50,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 10,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 16,
+        "id": 30064771085,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 107,
+        "id": 90194313222,
+        "label": "LITERAL",
+        "lineNumber": 58,
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "int"
+      },
+      {
+        "code": "pdf_cmap *cmap",
+        "columnNumber": 28,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "cmap",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "pdf_cmap*"
+      },
+      {
+        "code": "tree[current].out",
+        "columnNumber": 6,
+        "id": 30064771091,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high + 1 - tree[current].low",
+        "columnNumber": 27,
+        "id": 30064771093,
+        "label": "CALL",
+        "lineNumber": 38,
+        "name": "<operator>.subtraction",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 30064771088,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771098,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 30064771152
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 30064771088
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771152,
+        "label": "REACHING_DEF",
+        "src": 68719476813
+      },
+      {
+        "dst": 68719476813,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      }
+    ],
+    "nodes": [
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771088,
+        "label": "CALL",
+        "lineNumber": 34,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 58,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "low",
+        "columnNumber": 6,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "low",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high + 1",
+        "columnNumber": 26,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.addition",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].high",
+        "columnNumber": 30,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 6,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 37,
+        "id": 30064771152,
+        "label": "CALL",
+        "lineNumber": 61,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 65,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 47,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 41,
+        "id": 68719476791,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "high",
+        "columnNumber": 57,
+        "id": 68719476813,
+        "label": "IDENTIFIER",
+        "lineNumber": 61,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "unsigned int high",
+        "columnNumber": 62,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      },
+      {
+        "code": "tree[current].low",
+        "columnNumber": 10,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "high",
+        "columnNumber": 12,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "high",
+        "parentFile": "code_PrimeVul_unbanlanced_train_sampled_6.c",
+        "parentMethod": "add_range",
+        "typeFullName": "unsigned int"
+      }
+    ]
+  }
+]

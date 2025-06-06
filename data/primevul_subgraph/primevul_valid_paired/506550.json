@@ -1,0 +1,329 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476767,
+        "label": "REACHING_DEF",
+        "src": 30064771101
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 30064771098
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771101,
+        "label": "REACHING_DEF",
+        "src": 68719476767
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&print_out_var->udv_value",
+        "columnNumber": 17,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 54,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "add_udv_by_name(name)",
+        "columnNumber": 18,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "add_udv_by_name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "print_out_name",
+        "columnNumber": 10,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "print_out_name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "DATABLOCK",
+        "columnNumber": 39,
+        "id": 68719476767,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "DATABLOCK",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "print_out_var->udv_value.type",
+        "columnNumber": 6,
+        "id": 30064771101,
+        "label": "CALL",
+        "lineNumber": 53,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "print_out_var",
+        "columnNumber": 2,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "print_out_var",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "print_out_name",
+        "columnNumber": 10,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 15,
+        "name": "print_out_name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "name",
+        "columnNumber": 34,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "name",
+        "columnNumber": 16,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "&print_out_var->udv_value",
+        "columnNumber": 23,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      }
+    ],
+    "nodes": [
+      {
+        "code": "add_udv_by_name(name)",
+        "columnNumber": 18,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "add_udv_by_name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "name",
+        "columnNumber": 11,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 19,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "char *name",
+        "columnNumber": 18,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "print_out_var",
+        "columnNumber": 2,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "print_out_var",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "name",
+        "columnNumber": 34,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "name",
+        "columnNumber": 16,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      }
+    ],
+    "nodes": [
+      {
+        "code": "add_udv_by_name(name)",
+        "columnNumber": 18,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "add_udv_by_name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "print_out_var",
+        "columnNumber": 2,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "print_out_var",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "name",
+        "columnNumber": 34,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "name",
+        "columnNumber": 16,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 24,
+        "name": "name",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "char*"
+      },
+      {
+        "code": "&print_out_var->udv_value",
+        "columnNumber": 23,
+        "id": 30064771098,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_balanced_valid_506550.c",
+        "parentMethod": "print_set_output",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

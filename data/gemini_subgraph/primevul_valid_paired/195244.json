@@ -1,0 +1,699 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TensorShape(t.tensor_shape()).num_elements()",
+        "columnNumber": 23,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "num_elements",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 27,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "num_elems < 0",
+        "columnNumber": 10,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.lessThan",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 22,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "t",
+        "columnNumber": 56,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 31,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "-1",
+        "columnNumber": 26,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.minus",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "DataTypeSize(t.dtype())",
+        "columnNumber": 43,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "DataTypeSize",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "t.dtype()",
+        "columnNumber": 56,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "dtype",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const TensorProto& t",
+        "columnNumber": 24,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "t",
+        "columnNumber": 35,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "TensorShape(t.tensor_shape())",
+        "columnNumber": 23,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "TensorShape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 10,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "num_elems * DataTypeSize(t.dtype())",
+        "columnNumber": 31,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 68719476736
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TensorShape(t.tensor_shape()).num_elements()",
+        "columnNumber": 23,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "num_elements",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "1",
+        "columnNumber": 27,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "num_elems < 0",
+        "columnNumber": 10,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.lessThan",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 22,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int"
+      },
+      {
+        "code": "t",
+        "columnNumber": 56,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 31,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "-1",
+        "columnNumber": 26,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.minus",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "DataTypeSize(t.dtype())",
+        "columnNumber": 43,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "DataTypeSize",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "t.dtype()",
+        "columnNumber": 56,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "dtype",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "t",
+        "columnNumber": 35,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "TensorShape(t.tensor_shape())",
+        "columnNumber": 23,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "TensorShape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 10,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "num_elems * DataTypeSize(t.dtype())",
+        "columnNumber": 31,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const TensorProto& t",
+        "columnNumber": 24,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "t.tensor_shape()",
+        "columnNumber": 35,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "tensor_shape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TensorShape(t.tensor_shape()).num_elements()",
+        "columnNumber": 23,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "num_elements",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TensorShape(t.tensor_shape())",
+        "columnNumber": 23,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "TensorShape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "t",
+        "columnNumber": 35,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "const TensorProto& t",
+        "columnNumber": 24,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "t.tensor_shape()",
+        "columnNumber": 35,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "tensor_shape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      }
+    ],
+    "nodes": [
+      {
+        "code": "TensorShape(t.tensor_shape()).num_elements()",
+        "columnNumber": 23,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "num_elements",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "TensorShape(t.tensor_shape())",
+        "columnNumber": 23,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "TensorShape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "num_elems",
+        "columnNumber": 11,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "num_elems",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "int64_t"
+      },
+      {
+        "code": "t",
+        "columnNumber": 35,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 3,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "const TensorProto& t",
+        "columnNumber": 24,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "t",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "TensorProto&"
+      },
+      {
+        "code": "t.tensor_shape()",
+        "columnNumber": 35,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 3,
+        "name": "tensor_shape",
+        "parentFile": "code_PrimeVul_balanced_valid_195244.cpp",
+        "parentMethod": "TensorByteSize:int64_t(TensorProto&)",
+        "typeFullName": "ANY"
+      }
+    ]
+  }
+]

@@ -1,0 +1,494 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 68719476762
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476756,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 90194313220
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 68719476750
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 68719476746
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771096
+    },
+    {
+      "dst": 30064771103,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 68719476750,
+      "label": "REACHING_DEF",
+      "src": 30064771085
+    },
+    {
+      "dst": 30064771096,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 30064771094
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 30064771092
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 30064771101
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 30064771098
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 68719476756
+    },
+    {
+      "dst": 30064771093,
+      "label": "REACHING_DEF",
+      "src": 30064771094
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 68719476746
+    },
+    {
+      "dst": 30064771092,
+      "label": "REACHING_DEF",
+      "src": 68719476756
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 30064771097,
+      "label": "REACHING_DEF",
+      "src": 30064771093
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771091,
+      "label": "REACHING_DEF",
+      "src": 30064771095
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 68719476761,
+      "label": "REACHING_DEF",
+      "src": 30064771097
+    },
+    {
+      "dst": 68719476745,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476756,
+      "label": "REACHING_DEF",
+      "src": 30064771092
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771098,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 30064771095,
+      "label": "REACHING_DEF",
+      "src": 30064771091
+    }
+  ],
+  "nodes": [
+    {
+      "code": "ctx->cert->references",
+      "columnNumber": 17,
+      "id": 30064771102,
+      "label": "CALL",
+      "lineNumber": 34,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "cert",
+      "columnNumber": 9,
+      "id": 55834574849,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 10,
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert"
+    },
+    {
+      "code": "ctx->cert",
+      "columnNumber": 17,
+      "id": 30064771103,
+      "label": "CALL",
+      "lineNumber": 34,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 47,
+      "id": 68719476756,
+      "label": "IDENTIFIER",
+      "lineNumber": 29,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "cert",
+      "columnNumber": 36,
+      "id": 55834574854,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 30,
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert"
+    },
+    {
+      "code": "!sk_X509_push(ctx->chain, ctx->cert)",
+      "columnNumber": 10,
+      "id": 30064771095,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "<operator>.logicalNot",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(ctx->chain = sk_X509_new_null()) == NULL",
+      "columnNumber": 10,
+      "id": 30064771091,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "<operator>.equals",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sk_X509_new_null()",
+      "columnNumber": 24,
+      "id": 30064771094,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "sk_X509_new_null",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "references",
+      "columnNumber": 17,
+      "id": 55834574856,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 34,
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert"
+    },
+    {
+      "code": "&ctx->cert->references",
+      "columnNumber": 16,
+      "id": 30064771101,
+      "label": "CALL",
+      "lineNumber": 34,
+      "name": "<operator>.addressOf",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "CRYPTO_LOCK_X509",
+      "columnNumber": 43,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "CRYPTO_LOCK_X509",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx",
+      "columnNumber": 9,
+      "id": 68719476745,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "X509_STORE_CTX*"
+    },
+    {
+      "code": "ctx->chain = sk_X509_new_null()",
+      "columnNumber": 11,
+      "id": 30064771092,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "<operator>.assignment",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx->chain",
+      "columnNumber": 24,
+      "id": 30064771097,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx->cert",
+      "columnNumber": 36,
+      "id": 30064771098,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sk_X509_push(ctx->chain, ctx->cert)",
+      "columnNumber": 11,
+      "id": 30064771096,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "sk_X509_push",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "X509_STORE_CTX *ctx",
+      "columnNumber": 22,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "X509_STORE_CTX*"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 23,
+      "id": 68719476750,
+      "label": "IDENTIFIER",
+      "lineNumber": 14,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx->chain",
+      "columnNumber": 11,
+      "id": 30064771093,
+      "label": "CALL",
+      "lineNumber": 29,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "NULL",
+      "columnNumber": 22,
+      "id": 68719476746,
+      "label": "IDENTIFIER",
+      "lineNumber": 10,
+      "name": "NULL",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx->chain",
+      "columnNumber": 9,
+      "id": 30064771085,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "ctx",
+      "columnNumber": 17,
+      "id": 68719476761,
+      "label": "IDENTIFIER",
+      "lineNumber": 34,
+      "name": "ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "X509_STORE_CTX*"
+    },
+    {
+      "code": "cert",
+      "columnNumber": 17,
+      "id": 55834574855,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 34,
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert"
+    },
+    {
+      "code": "1",
+      "columnNumber": 40,
+      "id": 90194313220,
+      "label": "LITERAL",
+      "lineNumber": 34,
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "int"
+    },
+    {
+      "code": "ctx",
+      "columnNumber": 36,
+      "id": 68719476758,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "ctx",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "X509_STORE_CTX*"
+    },
+    {
+      "code": "ctx->cert",
+      "columnNumber": 9,
+      "id": 30064771081,
+      "label": "CALL",
+      "lineNumber": 10,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_valid_502765.c",
+      "parentMethod": "X509_verify_cert",
+      "typeFullName": "ANY"
+    }
+  ]
+}

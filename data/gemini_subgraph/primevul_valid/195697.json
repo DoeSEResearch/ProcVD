@@ -1,0 +1,1074 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&output",
+        "columnNumber": 63,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "::asylo::host_call::kLocalLifetimeAllocHandler",
+        "columnNumber": 7,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input.Push",
+        "columnNumber": 3,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&input",
+        "columnNumber": 55,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NonSystemCallDispatcher(\n      ::asylo::host_call::kLocalLifetimeAllocHandler, &input, &output)",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "NonSystemCallDispatcher",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "uint64_t",
+        "columnNumber": 14,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "uint64_t",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "status",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&output",
+        "columnNumber": 63,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "::asylo::host_call::kLocalLifetimeAllocHandler",
+        "columnNumber": 7,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "\"enc_untrusted_create_wait_queue\"",
+        "columnNumber": 44,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "char[32]"
+      },
+      {
+        "code": "queue",
+        "columnNumber": 33,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 14,
+        "name": "queue",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "int32_t*"
+      },
+      {
+        "code": "output",
+        "columnNumber": 36,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "output",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "MessageReader"
+      },
+      {
+        "code": "status",
+        "columnNumber": 28,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input.Push",
+        "columnNumber": 3,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nullptr",
+        "columnNumber": 16,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 11,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "std.nullptr_t"
+      },
+      {
+        "code": "queue",
+        "columnNumber": 7,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 11,
+        "name": "queue",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "int32_t*"
+      },
+      {
+        "code": "uint64_t",
+        "columnNumber": 14,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "uint64_t",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "status",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&input",
+        "columnNumber": 55,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "output",
+        "columnNumber": 48,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "output",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "MessageReader"
+      },
+      {
+        "code": "reinterpret_cast<int32_t *>(output.next<uintptr_t>())",
+        "columnNumber": 20,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 9,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "queue",
+        "columnNumber": 12,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 9,
+        "name": "queue",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "int32_t*"
+      },
+      {
+        "code": "NonSystemCallDispatcher(\n      ::asylo::host_call::kLocalLifetimeAllocHandler, &input, &output)",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "NonSystemCallDispatcher",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "2",
+        "columnNumber": 28,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "int"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 30064771073
+      },
+      {
+        "dst": 30064771073,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&output",
+        "columnNumber": 63,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "::asylo::host_call::kLocalLifetimeAllocHandler",
+        "columnNumber": 7,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "sizeof(int32_t)",
+        "columnNumber": 24,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.sizeOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input",
+        "columnNumber": 56,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 6,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "MessageWriter"
+      },
+      {
+        "code": "input",
+        "columnNumber": 3,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "input",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "MessageWriter"
+      },
+      {
+        "code": "Push",
+        "columnNumber": 3,
+        "id": 55834574848,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 4,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()"
+      },
+      {
+        "code": "input.Push",
+        "columnNumber": 3,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&input",
+        "columnNumber": 55,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input.Push<uint64_t",
+        "columnNumber": 3,
+        "id": 30064771073,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.lessThan",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NonSystemCallDispatcher(\n      ::asylo::host_call::kLocalLifetimeAllocHandler, &input, &output)",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "NonSystemCallDispatcher",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "uint64_t",
+        "columnNumber": 14,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "uint64_t",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "status",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&output",
+        "columnNumber": 63,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "::asylo::host_call::kLocalLifetimeAllocHandler",
+        "columnNumber": 7,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "asylo::host_call",
+        "columnNumber": 9,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input.Push",
+        "columnNumber": 3,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&input",
+        "columnNumber": 55,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "kLocalLifetimeAllocHandler",
+        "columnNumber": 27,
+        "id": 55834574849,
+        "label": "FIELD_IDENTIFIER",
+        "lineNumber": 6,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()"
+      },
+      {
+        "code": "NonSystemCallDispatcher(\n      ::asylo::host_call::kLocalLifetimeAllocHandler, &input, &output)",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "NonSystemCallDispatcher",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "uint64_t",
+        "columnNumber": 14,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "uint64_t",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "status",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771080,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 68719476744
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 30064771078,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771078
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 30064771080
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476745,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476744,
+        "label": "REACHING_DEF",
+        "src": 68719476745
+      }
+    ],
+    "nodes": [
+      {
+        "code": "&output",
+        "columnNumber": 63,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "::asylo::host_call::kLocalLifetimeAllocHandler",
+        "columnNumber": 7,
+        "id": 30064771078,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "\"enc_untrusted_create_wait_queue\"",
+        "columnNumber": 44,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 7,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "char[32]"
+      },
+      {
+        "code": "output",
+        "columnNumber": 36,
+        "id": 68719476745,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "output",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "MessageReader"
+      },
+      {
+        "code": "status",
+        "columnNumber": 28,
+        "id": 68719476744,
+        "label": "IDENTIFIER",
+        "lineNumber": 7,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "input.Push",
+        "columnNumber": 3,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 4,
+        "name": "<operator>.fieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "&input",
+        "columnNumber": 55,
+        "id": 30064771080,
+        "label": "CALL",
+        "lineNumber": 6,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "uint64_t",
+        "columnNumber": 14,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 4,
+        "name": "uint64_t",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "status",
+        "columnNumber": 14,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 5,
+        "name": "status",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "NonSystemCallDispatcher(\n      ::asylo::host_call::kLocalLifetimeAllocHandler, &input, &output)",
+        "columnNumber": 23,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 5,
+        "name": "NonSystemCallDispatcher",
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "2",
+        "columnNumber": 28,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 8,
+        "parentFile": "code_PrimeVul_unbanlanced_valid_sampled_195697.cpp",
+        "parentMethod": "enc_untrusted_create_wait_queue:int32_t()",
+        "typeFullName": "int"
+      }
+    ]
+  }
+]

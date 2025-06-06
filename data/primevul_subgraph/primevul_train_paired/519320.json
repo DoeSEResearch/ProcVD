@@ -1,0 +1,721 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 90194313243
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 68719476792,
+      "label": "REACHING_DEF",
+      "src": 30064771108
+    },
+    {
+      "dst": 68719476759,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 68719476756
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 68719476759
+    },
+    {
+      "dst": 68719476746,
+      "label": "REACHING_DEF",
+      "src": 68719476745
+    },
+    {
+      "dst": 30064771140,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 30064771188,
+      "label": "REACHING_DEF",
+      "src": 68719476836
+    },
+    {
+      "dst": 68719476762,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 68719476763,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 30064771081,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476744
+    },
+    {
+      "dst": 68719476744,
+      "label": "REACHING_DEF",
+      "src": 30064771082
+    },
+    {
+      "dst": 68719476789,
+      "label": "REACHING_DEF",
+      "src": 30064771140
+    },
+    {
+      "dst": 68719476745,
+      "label": "REACHING_DEF",
+      "src": 68719476746
+    },
+    {
+      "dst": 68719476836,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 30064771100,
+      "label": "REACHING_DEF",
+      "src": 68719476757
+    },
+    {
+      "dst": 68719476789,
+      "label": "REACHING_DEF",
+      "src": 30064771108
+    },
+    {
+      "dst": 30064771104,
+      "label": "REACHING_DEF",
+      "src": 30064771105
+    },
+    {
+      "dst": 30064771144,
+      "label": "REACHING_DEF",
+      "src": 68719476792
+    },
+    {
+      "dst": 30064771101,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 30064771141,
+      "label": "REACHING_DEF",
+      "src": 68719476790
+    },
+    {
+      "dst": 68719476801,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 68719476745
+    },
+    {
+      "dst": 68719476758,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 68719476801,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 68719476756,
+      "label": "REACHING_DEF",
+      "src": 90194313229
+    },
+    {
+      "dst": 30064771106,
+      "label": "REACHING_DEF",
+      "src": 68719476758
+    },
+    {
+      "dst": 30064771105,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 68719476839,
+      "label": "REACHING_DEF",
+      "src": 68719476840
+    },
+    {
+      "dst": 68719476839,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 68719476788
+    },
+    {
+      "dst": 30064771108,
+      "label": "REACHING_DEF",
+      "src": 90194313230
+    },
+    {
+      "dst": 68719476790,
+      "label": "REACHING_DEF",
+      "src": 90194313244
+    },
+    {
+      "dst": 30064771142,
+      "label": "REACHING_DEF",
+      "src": 68719476789
+    },
+    {
+      "dst": 68719476837,
+      "label": "REACHING_DEF",
+      "src": 68719476836
+    },
+    {
+      "dst": 68719476840,
+      "label": "REACHING_DEF",
+      "src": 68719476839
+    },
+    {
+      "dst": 68719476743,
+      "label": "REACHING_DEF",
+      "src": 30064771081
+    },
+    {
+      "dst": 68719476792,
+      "label": "REACHING_DEF",
+      "src": 68719476793
+    },
+    {
+      "dst": 30064771188,
+      "label": "REACHING_DEF",
+      "src": 68719476837
+    },
+    {
+      "dst": 68719476793,
+      "label": "REACHING_DEF",
+      "src": 68719476792
+    },
+    {
+      "dst": 30064771144,
+      "label": "REACHING_DEF",
+      "src": 68719476793
+    },
+    {
+      "dst": 30064771141,
+      "label": "REACHING_DEF",
+      "src": 90194313244
+    },
+    {
+      "dst": 68719476788,
+      "label": "REACHING_DEF",
+      "src": 30064771106
+    },
+    {
+      "dst": 30064771082,
+      "label": "REACHING_DEF",
+      "src": 68719476746
+    },
+    {
+      "dst": 68719476757,
+      "label": "REACHING_DEF",
+      "src": 30064771100
+    },
+    {
+      "dst": 30064771142,
+      "label": "REACHING_DEF",
+      "src": 30064771140
+    }
+  ],
+  "nodes": [
+    {
+      "code": "file_name",
+      "columnNumber": 14,
+      "id": 68719476744,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "encodedname",
+      "columnNumber": 18,
+      "id": 68719476836,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "encodedname",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char[256]"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 31,
+      "id": 68719476837,
+      "label": "IDENTIFIER",
+      "lineNumber": 82,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "str[i]",
+      "columnNumber": 7,
+      "id": 30064771108,
+      "label": "CALL",
+      "lineNumber": 32,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "str[i]",
+      "columnNumber": 10,
+      "id": 30064771104,
+      "label": "CALL",
+      "lineNumber": 31,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "fh",
+      "columnNumber": 4,
+      "id": 68719476743,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "fh",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 18,
+      "id": 68719476839,
+      "label": "IDENTIFIER",
+      "lineNumber": 83,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "strrchr(file_name, '/')",
+      "columnNumber": 29,
+      "id": 30064771141,
+      "label": "CALL",
+      "lineNumber": 47,
+      "name": "strrchr",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "i",
+      "columnNumber": 12,
+      "id": 68719476756,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "i",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "1",
+      "columnNumber": 53,
+      "id": 90194313245,
+      "label": "LITERAL",
+      "lineNumber": 47,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "i",
+      "columnNumber": 37,
+      "id": 68719476763,
+      "label": "IDENTIFIER",
+      "lineNumber": 31,
+      "name": "i",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "i",
+      "columnNumber": 19,
+      "id": 68719476757,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "i",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "'/'",
+      "columnNumber": 48,
+      "id": 90194313244,
+      "label": "LITERAL",
+      "lineNumber": 47,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char"
+    },
+    {
+      "code": "sizeof(str)",
+      "columnNumber": 40,
+      "id": 30064771144,
+      "label": "CALL",
+      "lineNumber": 49,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 27,
+      "id": 68719476801,
+      "label": "IDENTIFIER",
+      "lineNumber": 56,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 36,
+      "id": 68719476758,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 37,
+      "id": 68719476790,
+      "label": "IDENTIFIER",
+      "lineNumber": 47,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "sizeof(str)",
+      "columnNumber": 56,
+      "id": 30064771142,
+      "label": "CALL",
+      "lineNumber": 47,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "open(file_name, O_RDONLY | O_BINARY)",
+      "columnNumber": 9,
+      "id": 30064771081,
+      "label": "CALL",
+      "lineNumber": 6,
+      "name": "open",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "'/'",
+      "columnNumber": 36,
+      "id": 90194313243,
+      "label": "LITERAL",
+      "lineNumber": 46,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char"
+    },
+    {
+      "code": "str",
+      "columnNumber": 24,
+      "id": 68719476792,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "str",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char[MAX_PATH_LENGTH]"
+    },
+    {
+      "code": "int",
+      "columnNumber": 24,
+      "id": 184683593728,
+      "label": "UNKNOWN",
+      "lineNumber": 30,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "<empty>"
+    },
+    {
+      "code": "O_RDONLY | O_BINARY",
+      "columnNumber": 25,
+      "id": 30064771082,
+      "label": "CALL",
+      "lineNumber": 6,
+      "name": "<operator>.or",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "toupper(file_name[i])",
+      "columnNumber": 19,
+      "id": 30064771105,
+      "label": "CALL",
+      "lineNumber": 31,
+      "name": "toupper",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "(int) strlen(file_name)",
+      "columnNumber": 23,
+      "id": 30064771100,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "<operator>.cast",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "DIR_SEPARATOR",
+      "columnNumber": 29,
+      "id": 68719476840,
+      "label": "IDENTIFIER",
+      "lineNumber": 83,
+      "name": "DIR_SEPARATOR",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "char *file_name",
+      "columnNumber": 23,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "i",
+      "columnNumber": 48,
+      "id": 68719476759,
+      "label": "IDENTIFIER",
+      "lineNumber": 30,
+      "name": "i",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 27,
+      "id": 68719476762,
+      "label": "IDENTIFIER",
+      "lineNumber": 31,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "file_name[i]",
+      "columnNumber": 27,
+      "id": 30064771106,
+      "label": "CALL",
+      "lineNumber": 31,
+      "name": "<operator>.indirectIndexAccess",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "0",
+      "columnNumber": 16,
+      "id": 90194313229,
+      "label": "LITERAL",
+      "lineNumber": 30,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "str",
+      "columnNumber": 24,
+      "id": 68719476789,
+      "label": "IDENTIFIER",
+      "lineNumber": 47,
+      "name": "str",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char[MAX_PATH_LENGTH]"
+    },
+    {
+      "code": "O_RDONLY",
+      "columnNumber": 25,
+      "id": 68719476745,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "O_RDONLY",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "strrchr(file_name, '/')+1",
+      "columnNumber": 29,
+      "id": 30064771140,
+      "label": "CALL",
+      "lineNumber": 47,
+      "name": "<operator>.addition",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 25,
+      "id": 68719476788,
+      "label": "IDENTIFIER",
+      "lineNumber": 46,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    },
+    {
+      "code": "0",
+      "columnNumber": 16,
+      "id": 90194313230,
+      "label": "LITERAL",
+      "lineNumber": 32,
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "int"
+    },
+    {
+      "code": "strlen(file_name)",
+      "columnNumber": 29,
+      "id": 30064771101,
+      "label": "CALL",
+      "lineNumber": 30,
+      "name": "strlen",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "O_BINARY",
+      "columnNumber": 36,
+      "id": 68719476746,
+      "label": "IDENTIFIER",
+      "lineNumber": 6,
+      "name": "O_BINARY",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "sizeof(encodedname)",
+      "columnNumber": 42,
+      "id": 30064771188,
+      "label": "CALL",
+      "lineNumber": 82,
+      "name": "<operator>.sizeOf",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "file_name",
+      "columnNumber": 29,
+      "id": 68719476793,
+      "label": "IDENTIFIER",
+      "lineNumber": 49,
+      "name": "file_name",
+      "parentFile": "code_PrimeVul_balanced_train_519320.c",
+      "parentMethod": "send_file_direct",
+      "typeFullName": "char*"
+    }
+  ]
+}

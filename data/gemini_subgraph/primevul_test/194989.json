@@ -1,0 +1,2828 @@
+[
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476736,
+        "label": "REACHING_DEF",
+        "src": 68719476737
+      },
+      {
+        "dst": 68719476737,
+        "label": "REACHING_DEF",
+        "src": 115964116996
+      }
+    ],
+    "nodes": [
+      {
+        "code": "p",
+        "columnNumber": 3,
+        "id": 68719476736,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "p",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "unsigned char*"
+      },
+      {
+        "code": "pixels",
+        "columnNumber": 5,
+        "id": 68719476737,
+        "label": "IDENTIFIER",
+        "lineNumber": 26,
+        "name": "pixels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "unsigned char*"
+      },
+      {
+        "code": "const unsigned char *pixels",
+        "columnNumber": 3,
+        "id": 115964116996,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "pixels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "unsigned char*"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      }
+    ],
+    "nodes": [
+      {
+        "code": "packet_size",
+        "columnNumber": 3,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "image",
+        "columnNumber": 32,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "GetPSDPacketSize(image)",
+        "columnNumber": 15,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "GetPSDPacketSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const ssize_t row",
+        "columnNumber": 25,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "ExceptionInfo *exception",
+        "columnNumber": 31,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "exception",
+        "columnNumber": 53,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "image",
+        "columnNumber": 34,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "1",
+        "columnNumber": 51,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "image",
+        "columnNumber": 24,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "image->columns",
+        "columnNumber": 36,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "Image *image",
+        "columnNumber": 47,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "row",
+        "columnNumber": 32,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 30064771111,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 90194313221
+      },
+      {
+        "dst": 68719476762,
+        "label": "REACHING_DEF",
+        "src": 30064771097
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476748,
+        "label": "REACHING_DEF",
+        "src": 30064771081
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476750
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476750,
+        "label": "REACHING_DEF",
+        "src": 90194313218
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476768
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 30064771077
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771095,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771089,
+        "label": "REACHING_DEF",
+        "src": 30064771090
+      },
+      {
+        "dst": 30064771128,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476748
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476802,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476780,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771100,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 30064771104,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771081,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 30064771128
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476797
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476749
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 30064771077,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 90194313219
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 115964116993
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771102,
+        "label": "REACHING_DEF",
+        "src": 30064771103
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476799,
+        "label": "REACHING_DEF",
+        "src": 68719476783
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476762
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 30064771097,
+        "label": "REACHING_DEF",
+        "src": 68719476763
+      },
+      {
+        "dst": 68719476755,
+        "label": "REACHING_DEF",
+        "src": 30064771089
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476755
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476800
+      },
+      {
+        "dst": 68719476783,
+        "label": "REACHING_DEF",
+        "src": 30064771111
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476749,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771106
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476743
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 115964116995
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 30064771125
+      },
+      {
+        "dst": 68719476753,
+        "label": "REACHING_DEF",
+        "src": 68719476802
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476790,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476754,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 30064771126
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 30064771106,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 30064771084,
+        "label": "REACHING_DEF",
+        "src": 68719476751
+      },
+      {
+        "dst": 68719476768,
+        "label": "REACHING_DEF",
+        "src": 30064771102
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 30064771106
+      },
+      {
+        "dst": 68719476772,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 90194313220
+      },
+      {
+        "dst": 68719476743,
+        "label": "REACHING_DEF",
+        "src": 68719476738
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 68719476753
+      },
+      {
+        "dst": 68719476797,
+        "label": "REACHING_DEF",
+        "src": 68719476780
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476770,
+        "label": "REACHING_DEF",
+        "src": 30064771100
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 30064771104
+      },
+      {
+        "dst": 68719476793,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476779
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476777
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476751,
+        "label": "REACHING_DEF",
+        "src": 30064771084
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476774
+      },
+      {
+        "dst": 30064771125,
+        "label": "REACHING_DEF",
+        "src": 68719476793
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476798
+      },
+      {
+        "dst": 30064771119,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476792,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 30064771103,
+        "label": "REACHING_DEF",
+        "src": 68719476770
+      },
+      {
+        "dst": 68719476757,
+        "label": "REACHING_DEF",
+        "src": 68719476754
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476778,
+        "label": "REACHING_DEF",
+        "src": 68719476776
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476772
+      },
+      {
+        "dst": 68719476763,
+        "label": "REACHING_DEF",
+        "src": 30064771095
+      },
+      {
+        "dst": 68719476779,
+        "label": "REACHING_DEF",
+        "src": 68719476773
+      },
+      {
+        "dst": 68719476800,
+        "label": "REACHING_DEF",
+        "src": 68719476799
+      },
+      {
+        "dst": 68719476798,
+        "label": "REACHING_DEF",
+        "src": 68719476746
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476774,
+        "label": "REACHING_DEF",
+        "src": 68719476775
+      },
+      {
+        "dst": 30064771126,
+        "label": "REACHING_DEF",
+        "src": 68719476790
+      },
+      {
+        "dst": 68719476777,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476773,
+        "label": "REACHING_DEF",
+        "src": 68719476791
+      },
+      {
+        "dst": 68719476776,
+        "label": "REACHING_DEF",
+        "src": 68719476778
+      },
+      {
+        "dst": 68719476775,
+        "label": "REACHING_DEF",
+        "src": 68719476757
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 30064771119
+      },
+      {
+        "dst": 68719476791,
+        "label": "REACHING_DEF",
+        "src": 68719476792
+      }
+    ],
+    "nodes": [
+      {
+        "code": "x++",
+        "columnNumber": 70,
+        "id": 30064771126,
+        "label": "CALL",
+        "lineNumber": 67,
+        "name": "<operator>.postIncrement",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "image",
+        "columnNumber": 32,
+        "id": 68719476749,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "(PixelPacket *) NULL",
+        "columnNumber": 12,
+        "id": 30064771077,
+        "label": "CALL",
+        "lineNumber": 28,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const ssize_t row",
+        "columnNumber": 25,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "ScaleShortToQuantum(nibble)",
+        "columnNumber": 17,
+        "id": 30064771097,
+        "label": "CALL",
+        "lineNumber": 40,
+        "name": "ScaleShortToQuantum",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(MagickRealType)QuantumRange",
+        "columnNumber": 32,
+        "id": 30064771104,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "indexes",
+        "columnNumber": 3,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "indexes",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "IndexPacket*"
+      },
+      {
+        "code": "image->depth",
+        "columnNumber": 9,
+        "id": 30064771106,
+        "label": "CALL",
+        "lineNumber": 50,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "image->columns",
+        "columnNumber": 36,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "type",
+        "columnNumber": 38,
+        "id": 68719476792,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "packet_size",
+        "columnNumber": 41,
+        "id": 68719476775,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "packet_size",
+        "columnNumber": 3,
+        "id": 68719476748,
+        "label": "IDENTIFIER",
+        "lineNumber": 31,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "0",
+        "columnNumber": 10,
+        "id": 90194313218,
+        "label": "LITERAL",
+        "lineNumber": 32,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "ClampToQuantum((MagickRealType)QuantumRange*nibble)",
+        "columnNumber": 17,
+        "id": 30064771102,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "ClampToQuantum",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "q",
+        "columnNumber": 58,
+        "id": 68719476797,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "x",
+        "columnNumber": 13,
+        "id": 68719476800,
+        "label": "IDENTIFIER",
+        "lineNumber": 69,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "ScaleCharToQuantum(*p++)",
+        "columnNumber": 13,
+        "id": 30064771089,
+        "label": "CALL",
+        "lineNumber": 35,
+        "name": "ScaleCharToQuantum",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "packet_size",
+        "columnNumber": 11,
+        "id": 68719476757,
+        "label": "IDENTIFIER",
+        "lineNumber": 37,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "&nibble",
+        "columnNumber": 40,
+        "id": 30064771100,
+        "label": "CALL",
+        "lineNumber": 47,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const size_t channels",
+        "columnNumber": 3,
+        "id": 115964116993,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "channels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "x",
+        "columnNumber": 69,
+        "id": 68719476779,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "GetAuthenticPixels(image,0,row,image->columns,1,exception)",
+        "columnNumber": 5,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "GetAuthenticPixels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x",
+        "columnNumber": 70,
+        "id": 68719476799,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "pixel",
+        "columnNumber": 53,
+        "id": 68719476776,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "pixel",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Quantum"
+      },
+      {
+        "code": "indexes",
+        "columnNumber": 61,
+        "id": 68719476778,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "indexes",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "IndexPacket*"
+      },
+      {
+        "code": "&nibble",
+        "columnNumber": 40,
+        "id": 30064771095,
+        "label": "CALL",
+        "lineNumber": 39,
+        "name": "<operator>.addressOf",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x",
+        "columnNumber": 46,
+        "id": 68719476783,
+        "label": "IDENTIFIER",
+        "lineNumber": 61,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "image",
+        "columnNumber": 21,
+        "id": 68719476772,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "GetAuthenticIndexQueue(image)",
+        "columnNumber": 11,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "GetAuthenticIndexQueue",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "2",
+        "columnNumber": 26,
+        "id": 90194313220,
+        "label": "LITERAL",
+        "lineNumber": 37,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "q",
+        "columnNumber": 9,
+        "id": 68719476780,
+        "label": "IDENTIFIER",
+        "lineNumber": 53,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "GetPSDPacketSize(image)",
+        "columnNumber": 15,
+        "id": 30064771081,
+        "label": "CALL",
+        "lineNumber": 31,
+        "name": "GetPSDPacketSize",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(ssize_t) image->columns",
+        "columnNumber": 21,
+        "id": 30064771111,
+        "label": "CALL",
+        "lineNumber": 61,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(ssize_t) image->columns",
+        "columnNumber": 17,
+        "id": 30064771084,
+        "label": "CALL",
+        "lineNumber": 32,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "q",
+        "columnNumber": 3,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "ExceptionInfo *exception",
+        "columnNumber": 31,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "type",
+        "columnNumber": 36,
+        "id": 68719476774,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "q++",
+        "columnNumber": 58,
+        "id": 30064771125,
+        "label": "CALL",
+        "lineNumber": 67,
+        "name": "<operator>.postIncrement",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "packet_size",
+        "columnNumber": 43,
+        "id": 68719476793,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "x",
+        "columnNumber": 43,
+        "id": 68719476753,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "image",
+        "columnNumber": 23,
+        "id": 68719476790,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "channels",
+        "columnNumber": 29,
+        "id": 68719476791,
+        "label": "IDENTIFIER",
+        "lineNumber": 66,
+        "name": "channels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "q",
+        "columnNumber": 7,
+        "id": 68719476743,
+        "label": "IDENTIFIER",
+        "lineNumber": 28,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "x",
+        "columnNumber": 13,
+        "id": 68719476751,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "pixel",
+        "columnNumber": 11,
+        "id": 68719476762,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "pixel",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Quantum"
+      },
+      {
+        "code": "exception",
+        "columnNumber": 53,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "pixel",
+        "columnNumber": 7,
+        "id": 68719476755,
+        "label": "IDENTIFIER",
+        "lineNumber": 35,
+        "name": "pixel",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Quantum"
+      },
+      {
+        "code": "indexes",
+        "columnNumber": 62,
+        "id": 68719476798,
+        "label": "IDENTIFIER",
+        "lineNumber": 67,
+        "name": "indexes",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "IndexPacket*"
+      },
+      {
+        "code": "image",
+        "columnNumber": 34,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "x",
+        "columnNumber": 11,
+        "id": 68719476802,
+        "label": "IDENTIFIER",
+        "lineNumber": 70,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "nibble",
+        "columnNumber": 37,
+        "id": 68719476763,
+        "label": "IDENTIFIER",
+        "lineNumber": 40,
+        "name": "nibble",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "shortunsigned"
+      },
+      {
+        "code": "const ssize_t type",
+        "columnNumber": 43,
+        "id": 115964116995,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "type",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "packet_size",
+        "columnNumber": 9,
+        "id": 68719476754,
+        "label": "IDENTIFIER",
+        "lineNumber": 34,
+        "name": "packet_size",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "1",
+        "columnNumber": 51,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "(MagickRealType)QuantumRange*nibble",
+        "columnNumber": 32,
+        "id": 30064771103,
+        "label": "CALL",
+        "lineNumber": 48,
+        "name": "<operator>.multiplication",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "(ssize_t) image->columns",
+        "columnNumber": 18,
+        "id": 30064771128,
+        "label": "CALL",
+        "lineNumber": 69,
+        "name": "<operator>.cast",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "image",
+        "columnNumber": 24,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "pixel",
+        "columnNumber": 11,
+        "id": 68719476768,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "pixel",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Quantum"
+      },
+      {
+        "code": "(((unsigned char) pixel)\n            & (0x01 << (7-bit))) != 0 ? 0 : QuantumRange",
+        "columnNumber": 55,
+        "id": 30064771119,
+        "label": "CALL",
+        "lineNumber": 66,
+        "name": "<operator>.conditional",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "nibble",
+        "columnNumber": 61,
+        "id": 68719476770,
+        "label": "IDENTIFIER",
+        "lineNumber": 48,
+        "name": "nibble",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "MagickFloatType"
+      },
+      {
+        "code": "channels",
+        "columnNumber": 27,
+        "id": 68719476773,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "channels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "size_t"
+      },
+      {
+        "code": "1",
+        "columnNumber": 24,
+        "id": 90194313219,
+        "label": "LITERAL",
+        "lineNumber": 34,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "1",
+        "columnNumber": 24,
+        "id": 90194313221,
+        "label": "LITERAL",
+        "lineNumber": 50,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "Image *image",
+        "columnNumber": 47,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "q",
+        "columnNumber": 59,
+        "id": 68719476777,
+        "label": "IDENTIFIER",
+        "lineNumber": 52,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "*p++",
+        "columnNumber": 32,
+        "id": 30064771090,
+        "label": "CALL",
+        "lineNumber": 35,
+        "name": "<operator>.indirection",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "x",
+        "columnNumber": 8,
+        "id": 68719476750,
+        "label": "IDENTIFIER",
+        "lineNumber": 32,
+        "name": "x",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "row",
+        "columnNumber": 32,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476738,
+        "label": "REACHING_DEF",
+        "src": 30064771074
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 30064771074,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      }
+    ],
+    "nodes": [
+      {
+        "code": "GetAuthenticPixels(image,0,row,image->columns,1,exception)",
+        "columnNumber": 5,
+        "id": 30064771074,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "GetAuthenticPixels",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "q",
+        "columnNumber": 3,
+        "id": 68719476738,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "q",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "PixelPacket*"
+      },
+      {
+        "code": "const ssize_t row",
+        "columnNumber": 25,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "ExceptionInfo *exception",
+        "columnNumber": 31,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "exception",
+        "columnNumber": 53,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "1",
+        "columnNumber": 51,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "image",
+        "columnNumber": 24,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "image->columns",
+        "columnNumber": 36,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "Image *image",
+        "columnNumber": 47,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "row",
+        "columnNumber": 32,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      }
+    ]
+  },
+  {
+    "$type": "DataFlowSlice",
+    "edges": [
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476746,
+        "label": "REACHING_DEF",
+        "src": 30064771079
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 115964116997
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 30064771079,
+        "label": "REACHING_DEF",
+        "src": 68719476747
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 115964116994
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313216
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 68719476739,
+        "label": "REACHING_DEF",
+        "src": 68719476742
+      },
+      {
+        "dst": 68719476740,
+        "label": "REACHING_DEF",
+        "src": 30064771075
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 115964116992
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      },
+      {
+        "dst": 30064771075,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476747,
+        "label": "REACHING_DEF",
+        "src": 68719476739
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 68719476740
+      },
+      {
+        "dst": 68719476742,
+        "label": "REACHING_DEF",
+        "src": 90194313217
+      }
+    ],
+    "nodes": [
+      {
+        "code": "GetAuthenticIndexQueue(image)",
+        "columnNumber": 11,
+        "id": 30064771079,
+        "label": "CALL",
+        "lineNumber": 30,
+        "name": "GetAuthenticIndexQueue",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "const ssize_t row",
+        "columnNumber": 25,
+        "id": 115964116994,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 2,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      },
+      {
+        "code": "ExceptionInfo *exception",
+        "columnNumber": 31,
+        "id": 115964116997,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 3,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "exception",
+        "columnNumber": 53,
+        "id": 68719476742,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "exception",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ExceptionInfo*"
+      },
+      {
+        "code": "image",
+        "columnNumber": 34,
+        "id": 68719476747,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "1",
+        "columnNumber": 51,
+        "id": 90194313217,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "image",
+        "columnNumber": 24,
+        "id": 68719476739,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "indexes",
+        "columnNumber": 3,
+        "id": 68719476746,
+        "label": "IDENTIFIER",
+        "lineNumber": 30,
+        "name": "indexes",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "IndexPacket*"
+      },
+      {
+        "code": "image->columns",
+        "columnNumber": 36,
+        "id": 30064771075,
+        "label": "CALL",
+        "lineNumber": 27,
+        "name": "<operator>.indirectFieldAccess",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ANY"
+      },
+      {
+        "code": "0",
+        "columnNumber": 30,
+        "id": 90194313216,
+        "label": "LITERAL",
+        "lineNumber": 27,
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "int"
+      },
+      {
+        "code": "Image *image",
+        "columnNumber": 47,
+        "id": 115964116992,
+        "label": "METHOD_PARAMETER_IN",
+        "lineNumber": 1,
+        "name": "image",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "Image*"
+      },
+      {
+        "code": "row",
+        "columnNumber": 32,
+        "id": 68719476740,
+        "label": "IDENTIFIER",
+        "lineNumber": 27,
+        "name": "row",
+        "parentFile": "code_PrimeVul_unbanlanced_test_sampled_194989.c",
+        "parentMethod": "ReadPSDChannelPixels",
+        "typeFullName": "ssize_t"
+      }
+    ]
+  }
+]

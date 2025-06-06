@@ -1,0 +1,59 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771073,
+      "label": "REACHING_DEF",
+      "src": 68719476737
+    },
+    {
+      "dst": 68719476737,
+      "label": "REACHING_DEF",
+      "src": 30064771073
+    }
+  ],
+  "nodes": [
+    {
+      "code": "vmcs_config.cpu_based_2nd_exec_ctrl",
+      "columnNumber": 9,
+      "id": 30064771073,
+      "label": "CALL",
+      "lineNumber": 3,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317533.c",
+      "parentMethod": "cpu_has_vmx_invpcid",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "SECONDARY_EXEC_ENABLE_INVPCID",
+      "columnNumber": 3,
+      "id": 68719476737,
+      "label": "IDENTIFIER",
+      "lineNumber": 4,
+      "name": "SECONDARY_EXEC_ENABLE_INVPCID",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317533.c",
+      "parentMethod": "cpu_has_vmx_invpcid",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "vmcs_config",
+      "columnNumber": 9,
+      "id": 68719476736,
+      "label": "IDENTIFIER",
+      "lineNumber": 3,
+      "name": "vmcs_config",
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317533.c",
+      "parentMethod": "cpu_has_vmx_invpcid",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "cpu_based_2nd_exec_ctrl",
+      "columnNumber": 9,
+      "id": 55834574848,
+      "label": "FIELD_IDENTIFIER",
+      "lineNumber": 3,
+      "parentFile": "code_PrimeVul_unbanlanced_train_sampled_317533.c",
+      "parentMethod": "cpu_has_vmx_invpcid"
+    }
+  ]
+}

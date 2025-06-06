@@ -1,0 +1,108 @@
+{
+  "$type": "DataFlowSlice",
+  "edges": [
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 30064771085
+    },
+    {
+      "dst": 30064771084,
+      "label": "REACHING_DEF",
+      "src": 68719476748
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 68719476748
+    },
+    {
+      "dst": 30064771085,
+      "label": "REACHING_DEF",
+      "src": 115964116992
+    },
+    {
+      "dst": 68719476748,
+      "label": "REACHING_DEF",
+      "src": 68719476740
+    },
+    {
+      "dst": 30064771083,
+      "label": "REACHING_DEF",
+      "src": 30064771084
+    },
+    {
+      "dst": 68719476748,
+      "label": "REACHING_DEF",
+      "src": 30064771085
+    }
+  ],
+  "nodes": [
+    {
+      "code": "struct vidtv_s302m_encoder_init_args args",
+      "columnNumber": 27,
+      "id": 115964116992,
+      "label": "METHOD_PARAMETER_IN",
+      "lineNumber": 1,
+      "name": "args",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "vidtv_s302m_encoder_init_args"
+    },
+    {
+      "code": "e->name",
+      "columnNumber": 3,
+      "id": 30064771083,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.indirectFieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "kstrdup(args.name, GFP_KERNEL)",
+      "columnNumber": 13,
+      "id": 30064771084,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "kstrdup",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "args.name",
+      "columnNumber": 21,
+      "id": 30064771085,
+      "label": "CALL",
+      "lineNumber": 14,
+      "name": "<operator>.fieldAccess",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "GFP_KERNEL",
+      "columnNumber": 32,
+      "id": 68719476748,
+      "label": "IDENTIFIER",
+      "lineNumber": 14,
+      "name": "GFP_KERNEL",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "ANY"
+    },
+    {
+      "code": "GFP_KERNEL",
+      "columnNumber": 26,
+      "id": 68719476740,
+      "label": "IDENTIFIER",
+      "lineNumber": 7,
+      "name": "GFP_KERNEL",
+      "parentFile": "code_PrimeVul_balanced_test_326914.c",
+      "parentMethod": "vidtv_s302m_encoder_init",
+      "typeFullName": "ANY"
+    }
+  ]
+}
